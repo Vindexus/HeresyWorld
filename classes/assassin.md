@@ -1,5 +1,22 @@
 # Assassin
 
+## Look
+
+Choose one from each:
+
+Dead eyes, charming eyes, angry eyes
+
+Black bodysuit, plain clothes, dirty rags
+
+Buzz cut, elaborate hair, tattooed head
+
+Slim body, athletic body, huge body
+
+## Stats 
+Your maximum HP is 10+Constitution.  
+Your base damage is d6.
+
+
 ## Starting Moves
 
 ### Unsuspecting Strike
@@ -34,7 +51,31 @@ On a 7+, you follow the creature's trail until there's a significant change in i
 On a 10+, you also choose 1:
   - Gain a useful bit of information about your quarry, the GM will tell you what
   - Determine what caused the trail to end
-  
+
+## Alignment
+
+### Evil
+Make a brutal show of a kill after the fact.
+
+### Good
+Take out a threat before it harms another.
+
+### Neutral
+Dispatch of an enemy before they know you're a threat.
+
+## Bonds
+
+I have trusted \_\_\_\_\_\_ with a secret about me.
+
+\_\_\_\_\_\_ knows some tricks that could be useful to learn.
+
+## Gear
+Your load is 9+Str.  
+You start with leather armor (*1 armor, worn, 1 weight*), adventuring gear (*1 weight*), and rations (*5 uses, 1 weight*). For your weapons choose one:
+
+  - Lasgun (*near, far, long, clip 4, 2 weight*) and dagger (*hand, 1 weight*)
+  - Laspistol (*near, far, clip 3, 1 weight*) and Rapier (*close, precise, 1 weight*)
+
 ## Advanced Moves for Levels 2+
 
 ### Advanced Training
