@@ -47,7 +47,7 @@ When you **successfully hit a vulnerable opponent** you can attempt to disable t
 ### Good
 Show mercy or leniency to an enemy.
 
-### Chaotic
+### Anarchic
 Work with or ignore the enemy to catch the bigger fish.
 
 ### Evil
