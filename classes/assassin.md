@@ -13,8 +13,8 @@ Buzz cut, elaborate hair, tattooed head
 Slim body, athletic body, huge body
 
 ## Stats 
-Your maximum HP is 10+Constitution.  
-Your base damage is d6.
+Your maximum HP is 9+Constitution.  
+Your base damage is d8.
 
 
 ## Starting Moves
