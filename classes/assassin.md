@@ -73,8 +73,8 @@ I have trusted \_\_\_\_\_\_ with a secret about me.
 Your load is 9+Str.  
 You start with leather armor (*1 armor, worn, 1 weight*), adventuring gear (*1 weight*), and rations (*5 uses, 1 weight*). For your weapons choose one:
 
-  - Lasgun (*near, far, long, clip 4, 2 weight*) and dagger (*hand, 1 weight*)
-  - Laspistol (*near, far, clip 3, 1 weight*) and Rapier (*close, precise, 1 weight*)
+  - Lasgun (*near, far, long, 4 uses, 2 weight*) and dagger (*hand, 1 weight*)
+  - Laspistol (*near, far, 3 uses, 1 weight*) and Rapier (*close, precise, 1 weight*)
 
 ## Advanced Moves for Levels 2+
 
