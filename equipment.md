@@ -35,7 +35,7 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
   
 ## Armor List
   - **Leather, Chainmail**: *1 armor, worn, 10 thrones, 1 weight*
-  - **Flak Armor**: *2 armor, worn, clumsy, 50 thrones, 3 weight*
+  - **Flak Armor**: *2 armor, worn, 50 thrones, 2 weight*
   - **Carapace Armor**: *3 armor, worn, clumsy, 350 thrones, 4 weight*
   - **Shield**: *+1 armor, 15 thrones, 2 weight*
   

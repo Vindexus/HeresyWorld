@@ -13,8 +13,8 @@ Buzz cut, elaborate hair, tattooed head
 Slim body, athletic body, huge body
 
 ## Stats 
-Your maximum HP is 9+Constitution.  
-Your base damage is d8.
+Your maximum HP is 6+Constitution.  
+Your base damage is d8s.
 
 
 ## Starting Moves
@@ -70,7 +70,7 @@ I have trusted \_\_\_\_\_\_ with a secret about me.
 \_\_\_\_\_\_ knows some tricks that could be useful to learn.
 
 ## Gear
-Your load is 9+Str.  
+Your load is 7+Str.  
 You start with leather armor (*1 armor, worn, 1 weight*), adventuring gear (*1 weight*), and rations (*5 uses, 1 weight*). For your weapons choose one:
 
   - Lasgun (*near, far, long, 4 uses, 2 weight*) and dagger (*hand, 1 weight*)
@@ -82,7 +82,7 @@ You start with leather armor (*1 armor, worn, 1 weight*), adventuring gear (*1 w
 You have focused your training on either the blade or the rifle. Choose one:
 
  - **Blademaster**: Once per encounter you may reroll one d6 of a Hack & Slash or Unsuspecting Strike roll
- - **Sharpshooter**: Once per encounter you may reroll one d6 of a Volley or Called Shot roll
+ - **Sharpshooter**: Once per encounter you may reroll one d6 of a Aim and Fire or Called Shot roll
 
 ### Silent Strike
 Your Unsuspecting Strike also prevents your target from raising the alarm, describe how.

@@ -1,5 +1,9 @@
 # Guardsman
 
+## Stats 
+Your maximum HP is 10+Constitution.  
+Your base damage is d8.
+
 ## Starting Moves
 
 ### Grab Grenade
@@ -30,11 +34,16 @@ Your time with the Guard had you fighting a particular type of enemy of the Impe
   - Chaos
   - Psykers
 
+## Gear
+Your load is 9+Str.  
+You start with flak armor (*worn, 2 armor, 2 weight*), grenade belt (*3 uses, 1 weight*), your trusty Lasgun (*near, far, long, 4 uses, 2 weight, 2 proven*) and a Box of Ammo (*3 ammo, 1 weight*). Choose your melee weapon:
+
+
 ## Advanced Moves for Levels 2+
 
 ### Charge
 When you **charge towards the enemy**, you and those you lead take +1 forward.
 
 ### Hold the Line
-When you **stand your ground and accept danger** you and your allies gain +1 armor as long as you don't retreat.
+When you **don't fall back despite imminent danger** you and your allies gain +1 armor as long as you don't retreat.
 

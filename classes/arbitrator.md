@@ -13,7 +13,7 @@ Plain clothes, worn outfit, or uniform
 Thin body, fit body, flabby body
 
 ## Stats 
-Your maximum HP is 10+Constitution.  
+Your maximum HP is 8+Constitution.  
 Your base damage is d6.
 
 ## Starting Moves
@@ -64,15 +64,15 @@ Fill in the name of on of your fellow acolytes in at least one:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ has helped me defeat a formidable foe, I should repay them in kind.
 
 ## Gear
-Your load is 10+Str. You start with rations, a stub revolver. Choose your melee weapon:
+Your load is 8+Str. You start with rations, a stub revolver. Choose your melee weapon:
 
   - Warhammer (*close, +1 damage, 2 weight*)
   - Shock Maul (*close, 1 weight, shocking*)
 
 Choose your armor:
 
-  - Leather or chainmail (*1 armor, 1 weight*) and a shield (*+1 armor, 2 weight*)
-  - Flak armor (*2 armor, 2 weight*)
+  - Leather or chainmail (*1 armor, 1 weight, worn*) and a shield (*+1 armor, 2 weight*)
+  - Flak armor (*2 armor, 2 weight, worn*)
 
 ## Advanced Moves - Level 2-5
 When you gain a level from 2-5, choose from these moves.
