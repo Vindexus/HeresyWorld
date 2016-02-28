@@ -5,7 +5,7 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
 
 ## New Weapon Tags
   - *Long*: It’s useful for attacking someone far enough away that you can barely make out their face.
-  - *Clip n*: It can be used for Volley *n* times before it must be reloaded.
+  - *n Uses*: It can be used *n* times for shooting actions (Aim and Fire, Called Shot, Suppressing Fire, etc) before it must be reloaded.
   - *Scatter*: It’s very effective in close quarters. Roll an extra damage die when attacking a target within Reach.
   - *Tearing*: When dealing damage with this weapon roll an extra damage die and discard the lowest.
   - *n Rending*: This weapons tears and destroys the target’s defenses. The target’s armor is reduced by *n* when they take damage from this weapon.
@@ -14,12 +14,12 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
   - *n Proven*: This weapon always strikes true. When rolling for damage with this weapon, treat any roll below *n* as having rolled *n*.
   
 ## Weapon List
-  - **Laspistol**: *near, far, clip 3, 15 thrones, 2 weight*
-  - **Stub revolver**: *near, far, clip 2, 10 thrones, 2 weight*
-  - **Lasgun**: *near, far, long, clip 4, 40 thrones, 2 weight*
-  - **M36 Lasgun**: *near, far, long, clip 4, +1 damage, 60 thrones, 2 weight*
-  - **Double-barreled shotgun**: *close, near, far, scatter, clip 1, 35 thrones, 2 weight*
-  - **Pump action shotgun**: *close, near, far, scatter, clip 4, 55 thrones, 2 weight*
+  - **Laspistol**: *near, far, 3 uses, 15 thrones, 1 weight*
+  - **Stub revolver**: *near, far, 2 uses, 10 thrones, 1 weight*
+  - **Lasgun**: *near, far, long, 4 uses, 40 thrones, 2 weight*
+  - **M36 Lasgun**: *near, far, long, 4 uses, +1 damage, 60 thrones, 2 weight*
+  - **Double-barreled shotgun**: *close, near, far, scatter, 1 use, 35 thrones, 2 weight*
+  - **Pump action shotgun**: *close, near, far, scatter, 4 uses, 55 thrones, 2 weight*
   - **Box of Ammo**: *3 ammo, 1 throne, 1 weight*
   - **Club, Shillelagh**: *close, 1 throne, 2 weight*
   - **Staff**: *close, two-handed, 1 throne, 1 weight*
