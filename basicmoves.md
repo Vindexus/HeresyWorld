@@ -8,7 +8,7 @@ When you **aim and fire your ranged weapon**, roll+DEX and expend a use of your 
   - You have to place yourself in danger, the GM will tell you how
 
  
-### Suppressing Fire
+## Suppressing Fire
 When you **fire a weapon at one or more targets to suppress them**, roll+DEX and expend 2 uses of your weapon. On a hit the target's morale is tested: they might dive for cover, falter, or attempt to flee. Your allies gain +1 forward against them. On a 10+ you also deal your damage to one of your targets.
 
 ## Reload
