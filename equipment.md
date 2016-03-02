@@ -4,11 +4,11 @@
 All weapon tags from vanilla Dungeon World are still in use for Heresy World.
 
 ## New Weapon Tags
-  - *Long*: It’s useful for attacking someone far enough away that you can barely make out their face.
+  - *Long*: It's useful for attacking someone far enough away that you can barely make out their face.
   - *n Uses*: It can be used *n* times for shooting actions (Aim and Fire, Called Shot, Suppressing Fire, etc) before it must be reloaded.
-  - *Scatter*: It’s very effective in close quarters. Roll an extra damage die when attacking a target within Reach.
+  - *Scatter*: It's very effective in close quarters. Roll an extra damage die when attacking a target within Reach.
   - *Tearing*: When dealing damage with this weapon roll an extra damage die and discard the lowest.
-  - *n Rending*: This weapons tears and destroys the target’s defenses. The target’s armor is reduced by *n* when they take damage from this weapon.
+  - *n Rending*: This weapons tears and destroys the target's defenses. The target's armor is reduced by *n* when they take damage from this weapon.
   - *Silenced*: The sound of this weapon firing is greatly reduced
   - *Razor Sharp*: When rolling a 10+ with Hack and Slash your weapon ignores armor
   - *n Proven*: This weapon always strikes true. When rolling for damage with this weapon, treat any roll below *n* as having rolled *n*.

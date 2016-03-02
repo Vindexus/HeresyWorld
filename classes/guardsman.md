@@ -7,7 +7,7 @@ Your base damage is d8.
 ## Starting Moves
 
 ### Grab Grenade
-When you **search your belt for a suitable grenade** roll+WIS. Expend one use of your Grenade Belt and choose a grenade to add to your inventory. On a 7-9 choose from this list:
+When you **search your belt for a suitable grenade** roll+WIS. Expend one use of your Grenade Belt and choose a grenade from this list:
 
   - Frag Grenade
   - Fire Bomb
@@ -15,7 +15,7 @@ When you **search your belt for a suitable grenade** roll+WIS. Expend one use of
   - Smoke Grenade
   - Krak Grenade
 
-On a 10+ the same and take +1 forward to Throw Grenade.  
+On a 10+ you also take +1 forward to Throw Grenade.  
 On a miss the GM will offer you a different grenade, or the one you were searching for at a cost.
 
 ### Explosives Expert
