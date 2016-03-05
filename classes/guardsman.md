@@ -38,7 +38,6 @@ Your time with the Guard had you fighting a particular type of enemy of the Impe
 Your load is 9+Str.  
 You start with flak armor (*worn, 2 armor, 2 weight*), grenade belt (*3 uses, 1 weight*), your trusty Lasgun (*near, far, long, 4 uses, 2 weight, 2 proven*) and a Box of Ammo (*3 ammo, 1 weight*). Choose your melee weapon:
 
-
 ## Advanced Moves for Levels 2+
 
 ### Charge
@@ -47,3 +46,8 @@ When you **charge towards the enemy**, you and those you lead take +1 forward.
 ### Hold the Line
 When you **don't fall back despite imminent danger** you and your allies gain +1 armor as long as you don't retreat.
 
+### Imperial Infantryman's Uplifting Primer
+You gain +1 to Discern Realities while in combat.
+
+### Armored
+You ignore the *clumsy* tag on armor that you wear.
