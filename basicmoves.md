@@ -9,13 +9,13 @@ When you **aim and fire your ranged weapon**, roll+DEX and expend a use of your 
 
  
 ## Suppressing Fire
-When you **fire a weapon at one or more targets to suppress them**, roll+DEX and expend 2 uses of your weapon. On a hit the target's morale is tested: they might dive for cover, falter, or attempt to flee. Your allies gain +1 forward against them. On a 10+ you also deal your damage to one of your targets.
+When you **fire a weapon at one or more targets to suppress them**, roll+DEX and expend 1 use of your weapon. On a hit the target's morale is tested: they might dive for cover, falter, or attempt to flee. Your allies gain +1 forward against them. On a 10+ you also deal your damage.
 
 ## Reload
 When you **take a moment to reload your weapon** reset your weapon's uses and expend 1 ammo.
 
 ## Throw Grenade
-When you **prime and throw a grenade**, roll+Dex. On a 10+, the grenade lands where you aimed. On a 7-9 choose one:
+When you **prime and throw a grenade**, roll+DEX. On a 10+, the grenade lands where you aimed. On a 7-9 choose one:
 
   - The grenade lands where you aimed but you have to move to make the throw placing you in danger as described by the GM
   - The grenade only lands near where you aimed, for a reduced or dangerous effect as described by the GM
