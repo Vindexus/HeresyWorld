@@ -31,13 +31,13 @@ On a miss, they do as they please and you take -1 forward against them.
 When you **use Discern Realities on a crime scene** and roll a 7+ you also find a clue of value to you. On a 10+ this clue gives you a hunch that the GM will describe.
 
 ### Confessor 
-When you **torture or beat someone to extract information from them** roll+Str. On a 7-9 they answer your questions and you choose 2. On a 10+ choose 1 instead.
+When you **torture or beat someone to extract information from them** roll+INT. On a 7-9 they answer your questions and you choose 2. On a 10+ choose 1 instead.
   - They pass out from the pain
   - They add information they think you want to hear
   - They resist for longer than you'd planned
   
 ### Take Them Alive
-When you **successfully hit a vulnerable opponent** you can attempt to disable them instead of dealing damage. Roll+Str, on a 7+ they are incapacitated. On a 7-9 choose 1:
+When you **successfully hit a vulnerable opponent** you can attempt to disable them instead of dealing damage. Roll+STR, on a 7+ they are incapacitated. On a 7-9 choose 1:
   - They get one last attack in
   - You hit harder than you'd planned, maybe killing them
   - They will need some time to recover to be of any use
