@@ -47,7 +47,16 @@ When you **charge towards the enemy**, you and those you lead take +1 forward.
 When you **don't fall back despite imminent danger** you and your allies gain +1 armor as long as you don't retreat.
 
 ### Imperial Infantryman's Uplifting Primer
+You gain +1 to Spout Lore rolls about war.
+
+### Battle Senses
 You gain +1 to Discern Realities while in combat.
 
 ### Armored
 You ignore the *clumsy* tag on armor that you wear.
+
+### Shield of the Imperium
+You always gain +1 hold when using Defend, even on a 6-.
+
+### Deadly Cover
+When you get a 7-9 on Suppressing Fire you may choose to expend another use of your weapon to deal your damage. On a 10+ you may choose to expend another use of your weapon to deal +1d4 damage.
