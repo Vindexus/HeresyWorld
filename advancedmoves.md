@@ -1,6 +1,6 @@
 # Advanced Moves
 
-The following moves can be taken by any class when they level instead of taking one of their classes advanced moves.
+The following moves can be taken by any class when they level up instead of of their class's advanced moves.
 
 ## Rapid Reload
 When you **attempt to reload quickly** roll+DEX. On a 10+ you reload your weapon instantly - reset its uses and reduce your ammo by 1. On a 7-9 the same in addition to what that the GM says. On a 6- you fumble your reload.
