@@ -36,7 +36,7 @@ Your time with the Guard had you fighting a particular type of enemy of the Impe
 
 ## Gear
 Your load is 9+Str.  
-You start with flak armor (*worn, 2 armor, 2 weight*), grenade belt (*3 uses, 1 weight*), your trusty Lasgun (*near, far, long, 4 uses, 2 weight, 2 proven*) and a Box of Ammo (*3 ammo, 1 weight*). Choose your melee weapon:
+You start with flak armor (*worn, 2 armor, 2 weight*), grenade belt (*3 uses, 1 weight*), your trusty Lasgun (*near, far, long, 4 uses, 2 weight, 2 proven*) and a Box of Ammo (*3 ammo, 1 weight*). Choose your melee weapon: Short Sword, Axe, Mace (*1 weight, close*)
 
 ## Advanced Moves for Levels 2+
 
@@ -62,4 +62,4 @@ You always gain +1 hold when using Defend, even on a 6-.
 When you get a 7-9 on Suppressing Fire you may choose to expend another use of your weapon to deal your damage. On a 10+ you may choose to expend another use of your weapon to deal +1d4 damage.
 
 ### Baptised by Bullets
-Whenever you run through enemy fire, take +1 to Defy Danger.
+Whenever you **run through enemy fire**, take +1 to Defy Danger.
