@@ -60,3 +60,6 @@ You always gain +1 hold when using Defend, even on a 6-.
 
 ### Deadly Cover
 When you get a 7-9 on Suppressing Fire you may choose to expend another use of your weapon to deal your damage. On a 10+ you may choose to expend another use of your weapon to deal +1d4 damage.
+
+### Baptised by Bullets
+Whenever you run through enemy fire, take +1 to Defy Danger.
