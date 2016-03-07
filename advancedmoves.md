@@ -21,7 +21,7 @@ You are able to see the weak points in any target, add your DEX to your damage w
 Your attacks strike with resounding force, add your STR to your damage when using melee weapons.
 
 ## Medicae Training
-When you **use medical supplies to tend to someone's wounds** roll+INT. On a 10+ choose two, on a 7-9 choose one:
+When you **use medical supplies (bandages, medicae kits, etc) to tend to someone's wounds**, use the item as normal and roll+INT. On a 10+ choose two, on a 7-9 choose one:
 
   - Heal for an extra 1d6
   - Don't mark off a use of the supply
