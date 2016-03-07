@@ -26,7 +26,7 @@ When you **use medical supplies (bandages, medicae kits, etc) to tend to someone
   - Heal for an extra 1d6
   - Don't mark off a use of the supply
   - It takes half the time
-  - You also remove a debility
+  - You remove a debility
 
 On a 6- choose one:
 
