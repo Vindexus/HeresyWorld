@@ -14,6 +14,12 @@ Your hatred for a particular enemy of the Imperium runs deep. Each time you take
   - Psykers
   - Mutants
 
+## Mighty Shot
+You are able to see the weak points in any target, add your DEX to your damage when using ranged weapons.
+
+## Crushing Blow
+Your attacks strike with resounding force, add your STR to your damage when using melee weapons.
+
 ## Medicae Training
 When you **use medical supplies to tend to someone's wounds** roll+INT. On a 10+ choose two, on a 7-9 choose one:
 
