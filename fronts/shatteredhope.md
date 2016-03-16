@@ -69,3 +69,48 @@ When you **enter the chamber of the Antithesis Stone**, the stone pulses in ange
 | 4 | Huge Eyes: The unfortunate character's eyes grow huge, about the size of saucers. The Acolyte gains +1 to all rolls involving his sight, but takes -1 to all rolls while in bright light
 | 5 | Huge Head: The character's head swells to three times its normal size, filled with strange fluid that aids in thinking. The character increases their Intelligence by 1, but reduces their Charisma and Wisdom both by 1 |
 | 6-10 | The character gains a random debility |
+
+
+## Enemies
+
+**Rebel**
+Groups, Intelligent, Organized  
+d8 damage, 6 HP, 1 armor  
+Weapons: One of Laspistol/Stub Revolver, one of Crowbar/Pickaxe/Wrench  
+Instinct: To upset the order  
+The Rebel exists already in Dungeon World, but it’s a horde there and in this setting they work in smaller groups. I’ve changed it to a group which ups the damage from d6 to d8 and the hp from 3 to 6.
+
+**Mutant Rebel**  
+Groups, Intelligent, Organized  
+d8 damage, 10 HP, 1 armor  
+Weapons: One of Laspistol/Stub Revolver, one of Crowbar/Pickaxe/Wrench  
+Mutation, choose one: Extra eyes, large eyes, scaled flesh, tentacle appendages, monstrous mouth, extra limbs  
+
+**Mutant Guardsman**  
+Solitary, Hand  
+d10 damage, 12 HP, 1 armor  
+Weapons: fists  
+This man was once a member of the Imperial Guard, but has been terribly warped by the power of the Antithesis Stone. He feasts on the corpses he finds, and makes new ones when he can.
+Instinct: to feast on the dead
+
+**Mutant Abomination**  
+Solitary, Reach, Forceful  
+d10+2 damage, 16 HP, 1 armor  
+Weapon: Jagged claws, fangs  
+Moves: Toss aside  
+This creature been tainted so severely that it is nearly unrecognisable as a former human. Its impossibly long arms each end in a single large jagged claw. Tufts of coarse fur emerge at various points on its body, particularly near its lamprey mouth. Instinct: to revel in slaughter
+In terms of numbers this guy is the Mutant Guardsman with +2 damage, +4 HP and +1 armor. The real threat comes from its long arms which give it a much bigger range and the forceful tag, letting it knock the Acolytes around a bit.
+
+**Weak Plaguebearer**  
+Solitary, Terrifying, Close  
+d10+2 damage, 18 HP, 2 armor  
+Weapon: Barbed long sword  
+Moves: Spew vitriol  
+This writhing mass of decay and malaise is weaker than most Plaguebearers, as it has only been partially summoned, but it is no less repulsive. Instinct: To spread rot
+
+***Move*: Nurglenomics**  
+When a **Plaguebearer deals damage to you**, roll+CON. On a hit your body fights off the diseased essence of Nurgle. On a 10+ you steel yourself against the Plaguebearer and are no longer affected by this move. On a 6-you begin vomiting immediately, becoming vulnerable, and gain the Sick debility.
+
+***Move*: Damage the Stone**  
+When you **attack the Antithesis Stone**, roll+DEX if using a ranged weapon or roll+STR if attacking in melee. On a 10+ you hit the stone and deal 1 point of damage. On a 7-9 the same, but at a cost – the GM will tell you what. When the Stone has suffered 3 damage it shatters, sending the Plaguebearer hurtling back into the warp and ending its foul presence in this part of the mines.  
+Possible costs: Use more ammo, suffer Nurglenomics, have the Stone attempt to mutate them again, draw the attention of the Plaguebearer, damage a melee weapon
