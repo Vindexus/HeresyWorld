@@ -73,7 +73,7 @@ When you **enter the chamber of the Antithesis Stone**, the stone pulses in ange
 
 ## Enemies
 
-**Rebel**
+**Rebel**  
 Groups, Intelligent, Organized  
 d8 damage, 6 HP, 1 armor  
 Weapons: One of Laspistol/Stub Revolver, one of Crowbar/Pickaxe/Wrench  
