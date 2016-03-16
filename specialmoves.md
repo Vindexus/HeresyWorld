@@ -1,14 +1,13 @@
 # Special Moves
 
 ## Fight Your Fear
-When you **witness a terrible sight**, roll+WIS. On a 10+ you steel yourself against the horrors you see, take +1 forward.  On a 7-9 you maintain your resolve, but your mind is shaken - you take -1 forward. On a 6- you gain 1 insanity.
+When you **witness a terrifying or gruesome sight**, roll+WIS. On a 10+ you steel yourself against the horrors you see, take +1 forward. On a 7-9 you waver for a second but then gather yourself – describe how. On a 6- choose a temporary effect and describe your character's mental breakdown.
 
-## Insanity
-Whenever you **gain a point of insanity** roll+insanity. On a 10+ choose an affliction from the list below and reset your insanity to 0. Describe how it affects your character. 
+  - You repeat the same phrase over and over
+  - You run away as fast as you can
+  - You are frozen by fear
+  - You laugh hysterically
+  - You try to self mutilate
+  - You sob uncontrollably
 
-  - Your dreams are forever troubled
-  - You become paranoid
-  - You are sometimes plagued by visions
-  - You develop a nervous tick
-
-On a 6- do not mark xp.
+This effect lasts until you have a chance to calm down or someone snaps you out of it.
