@@ -45,3 +45,20 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
   - **Fire Bomb**: *d6 damage*, covers an area of *Reach* radius in fire
   - **Smoke Grenade**: Covers an area in dense smoke for 2d4 minutes
   - **Stun Grenade**: Emits a loud noise and a bright flash, temporarily disabling or confusing those caught in the blast.
+
+## Gear
+
+**Adventuring Gear**  
+*5 uses, 20 thrones, 1 weight*: Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use.
+
+**Bandages**  
+*3 uses, slow, 5 thrones, 0 weight*: When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.
+
+**Medicae Kit**  
+*2 uses, slow, 10 thrones, 1 weight*: When you carefully treat someone’s wounds with poultices and herbs, heal them of 7 damage and expend a use.
+
+**Dataslate**  
+*5 uses, 10 thrones, 1 weight*: When your data slate contains just the right file for the subject you’re spouting lore on, consult the file, mark off a use, and take +1 to your roll.
+
+**Field Rations**  
+*Ration, 5 uses, 3 thrones, 1 weight*: Not tasty, but not bad either.
