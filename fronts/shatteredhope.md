@@ -23,8 +23,6 @@ Questions for the players:
 **Commissar Nihilius**: The Commissar is a man in his late thirties with coal black hair and coal black eyes. He wears a simple uniform adorned with a few badges showing his service and a flak vest.
 *Instinct*: To perform his duty to the Imperium
 
----
-
 ## Danger: The Brotherhood of Malice
 
 The Brotherhood of Malice is a desperate cult of beleaguered and desperate miners, menials, and laborers. Their goal is to provoke the Imperium to such an extent that they purge the entire world, freeing them and their loved ones of the endless cycle of strife that they live under.  
@@ -42,7 +40,6 @@ The Brotherhood of Malice is a desperate cult of beleaguered and desperate miner
   - What ancient heresy inspired the founding members of the Brotherhood?
   - Who does the cult worship? Is it one of the four Ruinous Powers, a great daemon, Chaos Undivided, or something else?
 
----
 
 ## Danger: Antithesis Stone
 
@@ -55,17 +52,16 @@ This pink glowing stone can be found deep within the mines. Its very fabric is t
   - The stone summons a weakened but whole lesser daemon
   - Impending doom: A portal to the Immaterium is opened, releasing warp energies that mutate and lesser daemons that slaughter
 
-Things to find out: 
+### Things to find out: 
 
   - What does the stone look like?
  
----
 
 ## Custom Move: Antithesis Energy
 
-When you enter the chamber of the Antithesis Stone, the stone pulses in anger and its energy attempts to mutate you. Roll+CON, on a 10+ you resist the stone entirely. On a 7-9 you resist with much difficulty, take -1 forward. On a miss you take -1 forward and roll a d10. Consult the table below for the stone's effect:
+When you **enter the chamber of the Antithesis Stone**, the stone pulses in anger and its energy attempts to mutate you. Roll+CON, on a 10+ you resist the stone entirely. On a 7-9 you resist with much difficulty, take -1 forward. On a miss you take -1 forward and roll a d10. Consult the table below for the stone's effect:
 
-| Num | Effect |
+| Roll | Effect |
 | --- | --- |
 | 1 | Skin Change: The character's hair and flesh turn a bright shade of pink with grey marbling just below the surface of the flesh. |
 | 2 | Brute: The character grows muscled and brutish, but their head shrinks. The character increases their Strength by 1 but reduces their Intelligence by 1.|
