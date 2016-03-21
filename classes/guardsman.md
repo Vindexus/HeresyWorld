@@ -19,7 +19,7 @@ On a 10+ you also take +1 forward to Throw Grenade.
 On a miss the GM will offer you a different grenade, or the one you were searching for at a cost.
 
 ### Explosives Expert
-When you **set up a triggered explosive** say what materials on hand you're using and choose your trigger: timed, remote, proximity. Roll+INT, on a 10+ choose 1, on a 7-9 choose 2, and on a miss choose 3:
+When you **set up a triggered explosive** say what materials on hand you're using and choose your trigger: timed, remote, proximity. Roll+INT, on a 10+ the explosive works as intended. On a 7-9 choose 1, and on a 6- choose 2:
 
   - It takes a bit longer to set up
   - You need to something extra to get it to work, the GM will tell you what
