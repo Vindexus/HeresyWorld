@@ -21,7 +21,7 @@ Your base damage is d8s.
 
 ### Unsuspecting Strike
 
-When you **get close to your target to make a surprise attack**, roll+DEX if you use stealth or speed, or coll+CHA if you use deception or charm.  
+When you **get close to your target to make a surprise attack**, roll+DEX if you use stealth or speed, or roll+CHA if you use deception or charm.  
 On a 10+ choose two.  
 On a 7-9 choose one.  
 
