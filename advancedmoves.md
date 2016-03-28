@@ -28,11 +28,11 @@ When you **use medical supplies (bandages, medicae kits, etc) to tend to someone
   - It takes half the time
   - You remove a debility
 
-On a 6- choose one:
+On a 6- you might:
 
   - Mark off an extra use of the supply
-  - You heal for half the value, rounded down
-  - It takes twice as long
+  - Heal for half the value, rounded down
+  - Take longer
 
 ## Advanced Tech-Use
 You may reroll any Tech-Use roll. The new result stands.
