@@ -35,6 +35,7 @@ When you **torture or beat someone to extract information from them** roll+INT. 
   - They pass out from the pain
   - They add information they think you want to hear
   - They resist for longer than you'd planned
+  - They attract the attention of those nearby
   
 ### Take Them Alive
 When you **successfully hit a vulnerable opponent** you can attempt to disable them instead of dealing damage. Roll+STR, on a 7+ they are incapacitated. On a 7-9 choose 1:
