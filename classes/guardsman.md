@@ -1,5 +1,18 @@
 # Guardsman
 
+## Look
+
+Choose one from each:
+
+Blank eyes, fiery eyes, kind eyes
+
+Military cut, messy hair, headband, helmet
+
+Worn uniform, utilitarian clothes, rags
+
+Lean body, hulking body, lithe body
+
+
 ## Stats 
 Your maximum HP is 10+Constitution.  
 Your base damage is d8.
@@ -33,6 +46,22 @@ Your time with the Guard had you fighting a particular type of enemy of the Impe
   - Xenos
   - Chaos
   - Psykers
+
+## Alignment
+
+### Good
+
+Show mercy to an enemy.
+
+### Anarchic
+
+Rush into danger despite the plan.
+
+## Bonds
+
+________________ would make a good soldier. I should show them I respect them.  
+________________ has trouble keeping focused in tense situations. Perhaps I can help them with that.
+________________ has saved me from myself in combat, I owe them.
 
 ## Gear
 Your load is 9+Str.  
