@@ -9,6 +9,6 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
 
 ## Classes
 
-  - [Arbitrator](https://github.com/Vindexus/heresyworld/blob/master/classes/arbitrator.md)
   - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
-  - [Guardsman](https://github.com/Vindexus/heresyworld/blob/master/classes/guardsman.md)
+  - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
+  - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)

@@ -1,4 +1,4 @@
-# Guardsman
+# Warrior
 
 ## Look
 
