@@ -49,7 +49,40 @@ Voidborn gain +1 to any rolls to resist warp energy.
 -1 to Charisma  
 
 ## Choose a Name
-Select a name for your character. Make something up on your own or use the table below to roll on or to inspire you.
+Select a name for your character. Make something up on your own or roll on the tables below to inspire you.
+
+### Male
+
+|d6|Name|
+|:--|:--|
+|1|Gaius|
+|2|Bragg|
+|3|Mikkal|
+|4|Ibram|
+|5|Kade|
+|6|Othol|
+
+### Female
+
+|d6|Name|
+|:--|:--|
+|1|Ellyn|
+|2|Fernanda|
+|3|Xandra|
+|4|Nelia|
+|5|Serina|
+|6|Dahlia|
+
+### Nicknames
+
+|d6|Name|
+|:--|:--|
+|1|Shiv|
+|2|Bullet|
+|3|Tooth|
+|4|Krak|
+|5|Grimshine|
+|6|Dusk|
 
 ## Choose Look
 
