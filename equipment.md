@@ -48,14 +48,14 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
 
 ## Gear
 
-**Adventuring Gear**  
-*5 uses, 20 thrones, 1 weight*: Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use.
+**Field Gear**  
+*5 uses, 20 thrones, 1 weight*: Field gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your field gear for some useful mundane item, you find what you need and mark off a use.
 
 **Bandages**  
 *3 uses, slow, 5 thrones, 0 weight*: When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.
 
 **Medicae Kit**  
-*2 uses, slow, 10 thrones, 1 weight*: When you carefully treat someone’s wounds with poultices and herbs, heal them of 7 damage and expend a use.
+*2 uses, slow, 10 thrones, 1 weight*: When you carefully treat someone's wounds with a medicae kit, heal them of 7 damage and expend a use.
 
 **Dataslate**  
 *5 uses, 10 thrones, 1 weight*: When your data slate contains just the right file for the subject you’re spouting lore on, consult the file, mark off a use, and take +1 to your roll.

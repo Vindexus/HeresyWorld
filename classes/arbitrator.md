@@ -32,9 +32,10 @@ When you **use Discern Realities on a crime scene** and roll a 7+ you also find 
 
 ### Confessor 
 When you **torture or beat someone to extract information from them** roll+INT. On a 7-9 they answer your questions and you choose 2. On a 10+ choose 1 instead.
-  - They pass out from the pain
+  - They pass out from the pain after the first question
   - They add information they think you want to hear
-  - They resist for longer than you'd planned
+  - They resist for longer than you'd planned before they begin to cooperate
+  - They attract the attention of those nearby
   
 ### Take Them Alive
 When you **successfully hit a vulnerable opponent** you can attempt to disable them instead of dealing damage. Roll+STR, on a 7+ they are incapacitated. On a 7-9 choose 1:

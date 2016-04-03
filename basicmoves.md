@@ -27,3 +27,13 @@ When you **attempt to use or fix a complicated piece of technology** roll+INT. O
   - It takes longer than you'd planned
   - You have to cannibalize some equipment on hand, the GM will tell you what
   - You get a lesser result than you intended, the GM will tell you what
+
+## Discern Realities
+When you **closely study a situation or person**, roll+WIS. On a 10+, hold 3. On a 7-9 hold 1. As the situation unfolds or as you interact with the person, spend hold to ask the GM questions from the list below.
+
+Either way, take +1 forward when acting on the answers.
+
+  - What happened here recently?
+  - What should I be on the lookout for?
+  - What here is useful or valuable to me?
+  - What nearly escaped my notice?
