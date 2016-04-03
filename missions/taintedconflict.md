@@ -1,4 +1,4 @@
-# Mission: Tainted Crime
+# Mission: Tainted Conflict
 
 ## Mission Briefing
 Rumors have reached the Inquisition of cursed xeno technology being used in a series of gang wars happening in a hive city on ___________.   The Inquisition would like for you to investigate the legitimacy of these rumors and, if they prove true, the source of these weapons. The source must be eliminated and the weapons must be either confiscated or destroyed.
