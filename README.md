@@ -11,8 +11,8 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
   - Introduction
   - Playing the Game
   - [Character Creation](https://github.com/Vindexus/heresyworld/blob/master/classes/charactercreation.md)
-  - Basic Moves
-  - Special Moves
+  - [Basic Moves](https://github.com/Vindexus/heresyworld/blob/master/classes/basicmoves.md)
+  - [Special Moves](https://github.com/Vindexus/heresyworld/blob/master/classes/specialmoves.md)
   - Classes
     - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
     - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
