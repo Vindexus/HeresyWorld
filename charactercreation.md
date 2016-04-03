@@ -51,7 +51,7 @@ Voidborn gain +1 to any rolls to resist warp energy.
 ## Choose a Name
 Select a name for your character. Make something up on your own or roll on the tables below to inspire you.
 
-|d6|Male|Female|Nickname|
+|d8|Male|Female|Nickname|
 |:--|:--|:--|:--|
 |1|Gaius|Ellyn|Shiv|
 |2|Bragg|Fernanda|Bullet|
@@ -59,6 +59,8 @@ Select a name for your character. Make something up on your own or roll on the t
 |4|Ibram|Nelia|Krak|
 |5|Kade|Serina|Grimshine|
 |6|Othol|Dahlia|Dusk|
+|7|Eli|Fenra|Carver|
+|8|Lambdus|Rhia|Spider|
 
 ## Choose Look
 Choose one item from each list for your class. If you want to go outside the list ask your GM.
