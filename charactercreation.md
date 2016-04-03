@@ -45,7 +45,7 @@ Hive World characters gain +1 to any Defy Danger rolls when moving through crowd
 
 ### Voidborn
 Voidborn gain +1 to any rolls to resist warp energy.  
-+1 to Intelligence
++1 to Intelligence  
 -1 to Charisma  
 
 ## Choose a Name
