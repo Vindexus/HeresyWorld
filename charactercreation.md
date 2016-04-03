@@ -35,8 +35,8 @@ Forge World characters replace one of their d6s with a d8 when rolling Tech-Use.
 ### Highborn
 Highborn characters gain +1 to any Defy Danger or Parley rolls that involve talking to members of the Imperium.  
 +1 to Charisma  
++10 to starting thrones  
 -1 to Constitution  
-+10 starting thrones  
 
 ### Hive World
 Hive World characters gain +1 to any Defy Danger rolls when moving through crowds.  
