@@ -16,10 +16,14 @@ If you're using a weapon that doesn't have enough uses you can't take the bonus 
 >## Suppressing Fire
 >When you **fire a weapon at one or more targets to suppress them**, roll+DEX and expend 1 use of your weapon. On a hit the target's morale is tested: they might dive for cover, falter, or attempt to flee. Your allies gain +1 forward against them. On a 10+ you also deal your damage.
 
+If you're shooting at the enemy for almost any effect other than to deal damage, you're likely using suppressing fire. You might still land a few shots, but what you're trying to keep heads down so your allies can take advantage.
+
 <!-- -->
 
 >## Reload
 >When you **take a moment to reload your weapon** reset your weapon's uses and expend 1 ammo.
+
+Once a character has expended all the uses of their weapon they need to reload. This isn't assumed, the players have to explicitly say they take a moment to reload. How long it takes is up to the GM, and reloading certainly counts as a prime opportunity for a GM move.
 
 <!-- -->
 
