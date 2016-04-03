@@ -28,3 +28,6 @@ When **you’re dying** you see the darkness cloud your vision as you drift into
 On a 10+ you’ve defied the odds, and barely cling to life.  
 On a 7-9 you live, but your brush with death takes its toll. Describe the lasting effects your body or mind take and the GM will tell you which of your stat scores you must reduce permanently by 1.  
 On a 6-, you join the seemingly endless stream of souls to have been lost under the rule of the Imperium.  
+
+## This I Know
+Once per session, you may **invoke your Background to reroll a move**. To invoke your Background you must describe how your character's experience or a specific event would have helped you in the current situation. The GM and the players at the table have to agree, so the more details the better.
