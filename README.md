@@ -10,9 +10,9 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
 ## Contents
   - Introduction
   - Playing the Game
-  - [Character Creation](https://github.com/Vindexus/heresyworld/blob/master/classes/charactercreation.md)
-  - [Basic Moves](https://github.com/Vindexus/heresyworld/blob/master/classes/basicmoves.md)
-  - [Special Moves](https://github.com/Vindexus/heresyworld/blob/master/classes/specialmoves.md)
+  - [Character Creation](https://github.com/Vindexus/heresyworld/blob/master/charactercreation.md)
+  - [Basic Moves](https://github.com/Vindexus/heresyworld/blob/master/basicmoves.md)
+  - [Special Moves](https://github.com/Vindexus/heresyworld/blob/master/specialmoves.md)
   - Classes
     - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
     - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
@@ -20,3 +20,4 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
   - The GM
   - First Session
   - Missions
+    - [Tainted Conflict](https://github.com/Vindexus/heresyworld/blob/master/missions/taintedconflict.md)
