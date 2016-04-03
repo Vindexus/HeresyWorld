@@ -7,8 +7,16 @@ Heresy World's main mechanics are based on [Dungeon World](http://dungeon-world.
 ## The Blog
 Read about my thought process and changes at [http://vindexus.net](http://vindexus.net)
 
-## Classes
-
-  - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
-  - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
-  - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)
+## Contents
+  - Introduction
+  - Playing the Game
+  - [Character Creation](https://github.com/Vindexus/heresyworld/blob/master/classes/charactercreation.md)
+  - Basic Moves
+  - Special Moves
+  - Classes
+    - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
+    - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
+    - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)
+  - The GM
+  - First Session
+  - Missions
