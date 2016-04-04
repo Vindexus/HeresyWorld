@@ -18,7 +18,7 @@ Where you were born shapes a lot of the things about you. Select a home world an
 
 ### Death World
 Death World characters gain +1 on all Last Breath rolls.  
-+1 to Dexterity  
++1 to Constitution  
 -1 to Intelligence  
 
 ### Feral World
@@ -42,6 +42,11 @@ Highborn characters gain +1 to any Defy Danger or Parley rolls that involve talk
 Hive World characters gain +1 to any Defy Danger rolls when moving through crowds.  
 +1 to Wisdom  
 -1 to Strength  
+
+### Shrine World
+Shrine World characters can reroll a failed roll showing a 1 and a 6 once per session.
++1 to Charisma
+-1 to Strength
 
 ### Voidborn
 Voidborn gain +1 to any rolls to resist warp energy.  
