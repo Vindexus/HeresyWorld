@@ -13,6 +13,26 @@ Your background describes what your character was doing before being recruited b
   - Adeptus Mechanicus
   - Adeptus Ministratrum
 
+## Choose a Name
+Select a name for your character. Make something up on your own or roll on the tables below to inspire you.
+
+|d8|Male|Female|Nickname|
+|:--|:--|:--|:--|
+|1|Gaius|Ellyn|Shiv|
+|2|Bragg|Fernanda|Bullet|
+|3|Mikkal|Xandra|Tooth|
+|4|Ibram|Nelia|Krak|
+|5|Kade|Serina|Grimshine|
+|6|Othol|Dahlia|Dusk|
+|7|Eli|Fenra|Carver|
+|8|Lambdus|Rhia|Spider|
+
+## Choose Look
+Choose one item from each list for your class. If you want to go outside the list ask your GM.
+
+## Choose Stats
+Assign these scores to your stats: 16, 15, 13, 12, 9, 8. Start by looking over the basic moves and the starting moves for your class. Pick out the move that interests you the most: something you’ll be doing a lot, or something that you excel at. Put a 16 in the stat for that move. Look over the list again and pick out the next most important move to your character, maybe something that supports your first choice. Put your 15 in the stat for that move. Repeat this process for your remaining scores: 13, 12, 9, 8.
+
 ## Choose a Home World
 Where you were born shapes a lot of the things about you. Select a home world and apply the related stat bonuses and penalties to your character. Each home world also has a small move associated with it.
 
@@ -53,25 +73,8 @@ Voidborn gain +1 to any rolls to resist warp energy.
 +1 to Intelligence  
 -1 to Charisma  
 
-## Choose a Name
-Select a name for your character. Make something up on your own or roll on the tables below to inspire you.
-
-|d8|Male|Female|Nickname|
-|:--|:--|:--|:--|
-|1|Gaius|Ellyn|Shiv|
-|2|Bragg|Fernanda|Bullet|
-|3|Mikkal|Xandra|Tooth|
-|4|Ibram|Nelia|Krak|
-|5|Kade|Serina|Grimshine|
-|6|Othol|Dahlia|Dusk|
-|7|Eli|Fenra|Carver|
-|8|Lambdus|Rhia|Spider|
-
-## Choose Look
-Choose one item from each list for your class. If you want to go outside the list ask your GM.
-
-## Choose Stats
-Assign these scores to your stats: 16, 15, 13, 12, 9, 8. Start by looking over the basic moves and the starting moves for your class. Pick out the move that interests you the most: something you’ll be doing a lot, or something that you excel at. Put a 16 in the stat for that move. Look over the list again and pick out the next most important move to your character, maybe something that supports your first choice. Put your 15 in the stat for that move. Repeat this process for your remaining scores: 13, 12, 9, 8.
+## Modify Your Stats
+After choosing a Home World, make any changes to your stats that come with it.
 
 ## Figure Out Modifiers
 Next you need to figure out the modifiers for your stats. The modifiers are what you use when a move says +DEX or +CHA. If you're using the standard character sheets the modifiers are already listed with each score.
