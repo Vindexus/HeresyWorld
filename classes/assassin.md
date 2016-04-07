@@ -14,7 +14,7 @@ Slim body, athletic body, huge body
 
 ## Stats 
 Your maximum HP is 6+Constitution.  
-Your base damage is d8s.
+Your base damage is d8.
 
 
 ## Starting Moves
