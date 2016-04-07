@@ -8,8 +8,7 @@ Heresy World's main mechanics are based on [Dungeon World](http://dungeon-world.
 Read about my thought process and changes at [http://vindexus.net](http://vindexus.net)
 
 ## Contents
-  - Introduction
-  - Playing the Game
+  - [Introduction](https://github.com/Vindexus/heresyworld/blob/master/introduction.md)
   - [Character Creation](https://github.com/Vindexus/heresyworld/blob/master/charactercreation.md)
   - [Basic Moves](https://github.com/Vindexus/heresyworld/blob/master/basicmoves.md)
   - [Special Moves](https://github.com/Vindexus/heresyworld/blob/master/specialmoves.md)
