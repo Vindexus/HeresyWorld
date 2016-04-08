@@ -32,3 +32,13 @@ Revelations are listed in a logical order that they might be learned, but they d
 [\___] *Both gangs are buying the weapons from the same source, a man named _________ who is said to hang out in a bar called The Holy Bolter.*  
 
 [\___] *A high ranking member of the Imperial Guard, __________, has been smuggling in weapons from a distant war. This officer is a member of the noble House Vulgahr.*
+
+## Stakes
+
+Stakes are the same as they are in Dungeon World. They are questions that you ask about the situation and how it might play out. They should be questions that really make you wonder what wild and crazy directions this mission could go.
+
+### Example Stakes
+
+  - *Will the Acolytes pick a side in the gang war? If so which one?*
+  - *How will the nobles of house Vulgahr react to the investigation by the Acolytes?*
+  - *What will the Acolytes do with any weapons they find?*
