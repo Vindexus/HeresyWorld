@@ -68,3 +68,21 @@ Weapon: Flamer and ________
 The patriarch and current leader of the House Vulgahr.  
 Look: Male, lavish clothes clothes, skinny and tall, ocular implants  
 Drive: Grow house Vulgahr’s power  
+
+## Setbacks
+Setbacks are prewritten hard moves you can take as the GM that make the mission more difficult for the Acolytes. They should be put into motion when the Acolytes piss off the wrong people, do stupid things, or roll misses. Setbacks are normally things that happen off screen that will affect the Acolytes further down the road.
+
+The setbacks of a mission are laid out the same as the revelations. They get marked off as they are put into play, and any blanks you left are filled in.
+
+### Example Setbacks
+
+[___] *A bounty hunter named ________ is hired to hunt the pesky Acolytes who have been causing trouble.*
+
+[___] *The Hounds of War gang start to booby trap their weapons caches so anyone who doesn’t know the right way to open them gets a nasty surprise.*
+
+[___] *The man named ________ stops frequenting The Holy Bolter entirely.*
+
+[___] *Both gangs buy upgrades to their gear, increasing their armor scores by 1.*
+
+## Update Continuously
+The briefing doesn’t change after the mission starts but the rest of the sections can and should grow and develop as the mission progresses. Write more Revelations as they come to you, make more Setbacks as the players mess up, add more cast members as NPCs show up, etc.
