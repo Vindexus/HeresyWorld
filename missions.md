@@ -42,3 +42,29 @@ Stakes are the same as they are in Dungeon World. They are questions that you as
   - *Will the Acolytes pick a side in the gang war? If so which one?*
   - *How will the nobles of house Vulgahr react to the investigation by the Acolytes?*
   - *What will the Acolytes do with any weapons they find?*
+
+
+## Cast
+
+The cast are the big players in your mission. They have names, friends, underlings, positions, etc. Anyone who you know will likely have a big part to play should be part of the cast. Give each cast member a name, a look, and an instinct. You can add as many details or blanks as you’d like. Fill in the details as you play, or ask players directly when they are needed.
+
+Combat stats (hp, damage, armor, moves, weapons, etc) are recommended for anyone the Acolytes are likely to fight. A warning: be prepared to write them up on the fly when your players decide to stab someone you forgot to create stats for.
+
+### Example Cast
+>**The Brute, Leader of Hounds of War gang**  
+Look: male, large, tattoo of a _____ on his face, leather vest  
+Drive: Command respect  
+
+<!-- -->
+
+>**Thraxa, Leader of Virtuous Scythes gang**  
+Look: female, red hair, burn scars, lots of jewelry  
+Drive: Get rich  
+Weapon: Flamer and ________  
+
+<!-- -->
+
+>**Lord Harilius Vulgahr**  
+The patriarch and current leader of the House Vulgahr.  
+Look: Male, lavish clothes clothes, skinny and tall, ocular implants  
+Drive: Grow house Vulgahr’s power  
