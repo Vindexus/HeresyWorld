@@ -16,7 +16,7 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
     - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
     - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
     - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)
-  - [The GM]((https://github.com/Vindexus/heresyworld/blob/master/thegm.md)
+  - [The GM](https://github.com/Vindexus/heresyworld/blob/master/thegm.md)
   - First Session
   - Missions
     - [Tainted Conflict](https://github.com/Vindexus/heresyworld/blob/master/missions/taintedconflict.md)
