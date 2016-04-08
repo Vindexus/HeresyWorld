@@ -45,3 +45,7 @@ When you attack with a melee weapon in each hand, add +1d4 damage to your melee 
 
 ## Gunslinger
 When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks.
+
+### Imperial Infantryman's Uplifting Primer
+*Requires Background: Imperial Guardsman  *  
+You gain +1 to Spout Lore rolls about war.
