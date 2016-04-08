@@ -75,9 +75,6 @@ When you **charge towards the enemy**, you and those you lead take +1 forward.
 ### Hold the Line
 When you **don't fall back despite imminent danger** you and your allies gain +1 armor as long as you don't retreat.
 
-### Imperial Infantryman's Uplifting Primer
-You gain +1 to Spout Lore rolls about war.
-
 ### Battle Senses
 You gain +1 to Discern Realities while in combat.
 
