@@ -41,3 +41,5 @@ Remember to reduce a characteristic (Strength, Wisdom, etc), not a modifier (STR
 
 >## This I Know
 >Once per session, you may **invoke your Background to reroll a move**. To invoke your Background you must describe how your character's experience or a specific event would have helped you in the current situation. The GM and the players at the table have to agree, so the more details the better.
+
+Details, details, details! Try to get as much information from your players as possible when they describe how their background comes into play. "I fought with the Imperial Guard" is certainly reason enough for their Background to be invoked when they're in a firefight, but as the GM you should try for more. Was there a similar fight to this? Similar foes? Terrain? Did they have drills for this type of fight? Take what they give you and remember it to use later in your campaigns and missions.
