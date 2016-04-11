@@ -21,9 +21,21 @@ This is how you **play to find out what happens**. You’re sharing in the fun o
 All of the moves available to the GM in Dungeon World still apply. In addition to those you may also:
 
   - Test their will
-  - Traumatize time
+  - Traumatize them
   - Mutate them
 
 
 ### Test their will
 When someone sees something truly horrific or blasphemous, or when Chaos or psyker powers attempt to influence them, they need to do something to remain calm and not succumb. Tell the characters what strange feelings they feel creeping up: the oily taint of chaotic energies, the rising feeling of panic, or the encroaching sense of overpowering dread. Ask them how they respond to this and go from there. They'll likely need to roll Defy Danger, but they might just pull out their Lasgun and start firing. In the event of failure remember the fiction and consider using the two new moves: traumatize them and mutate them.
+
+### Traumatize them
+If a character is unable to maintain their composure in the face of what they witness, they may suffer a temporary trauma that renders them near useless. Have the player choose a trauma from the list below, or roll on it, or pick for them as the GM:
+
+  - You repeat the same phrase over and over
+  - You run away as fast as you can
+  - You are frozen by fear
+  - You laugh hysterically
+  - You try to self mutilate
+  - You sob uncontrollably
+
+It's up to that player and his allies to decide how best to help the traumatized character recover and return to fighting form. Keep the fiction in mind when they do. A slap to the face might trigger a Defy Danger roll with Wisdom for the person slapped, or a Defy Danger roll with Charisma for the person slapping. A rousing speech or memorized litany espousing the benelovent nature of the Emperor made to a particularly pious character might not require a roll at all.
