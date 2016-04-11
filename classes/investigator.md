@@ -25,7 +25,7 @@ When you **give an NPC an order based on your Adeptus Arbites or Inquisitorial a
   - Attack you
 
 On a 10+, you also take +1 forward against them.
-On a miss, they do as they please and you take -1 forward against them.
+On a 6-, they do as they please and you take -1 forward against them.
 
 ### Detective
 When you **use Discern Realities on a crime scene** and roll a 7+ you also find a clue of value to you. On a 10+ this clue gives you a hunch that the GM will describe.
@@ -97,7 +97,7 @@ When you **publicly name a person or organization that you are after**, roll+Cha
 When you  **listen closely to someone** roll+Wis. On 7-9 the GM will tell you one thing they're lying about – if anything. On a 10+ the same and take +1 forward when acting on that information or against that person.
 
 ### Torturer
-When you **roll a 7+ with Confessor** you may choose to select zero options from the list. If you do so, roll+Int – on a miss your captive dies.
+When you **roll a 7+ with Confessor** you may choose to select zero options from the list. If you do so, roll+Int – on a 6- your captive dies.
 
 ### Local Informant
 

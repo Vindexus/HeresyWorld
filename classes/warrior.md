@@ -29,7 +29,7 @@ When you **search your belt for a suitable grenade** roll+WIS. Expend one use of
   - Krak Grenade
 
 On a 10+ you also take +1 forward to Throw Grenade.  
-On a miss the GM will offer you a different grenade, or the one you were searching for at a cost.
+On a 6- the GM will offer you a different grenade, or the one you were searching for at a cost.
 
 ### Explosives Expert
 When you **set up a triggered explosive** say what materials on hand you're using and choose your trigger: timed, remote, proximity, thrown, etc. Roll+INT, on a 10+ the explosive works as intended. On a 7-9 choose 1, and on a 6- choose 2:
