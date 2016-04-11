@@ -62,3 +62,21 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
 
 **Field Rations**  
 *Ration, 5 uses, 3 thrones, 1 weight*: Not tasty, but not bad either.
+
+**Vox unit**  
+*1 weight*: A communication device that allows you to talk to others nearby on the same frequency. Has some basic encryption available.
+
+**Vox Caster**  
+*2 weight*: A more powerful vox unit that allows its user to boost the signal to reach ships in orbit of a planet. It has a more robust encryption method than the regular vox unit.
+
+**Micro-bead**  
+*0 weight*: A smaller more discreet version of the vox unit that tucks into the ear of its wearer.
+
+**Auspex**  
+*1 weight*: A hand-held scanning device capable of reading various signatures through a solid surface. The range is fairly limited and it might not always give the most detailed readouts.
+
+**Siege Auspex**  
+*2 weight*: The siege auspex is the more advanced version of the regular auspex, with an increase range, more detailed readings, and more signatures to scan for.
+
+**Grapnel**  
+*0 weight*: This small device hooks onto the wearer's belt and shoots out a magnetic hook to greatly assist in climbing or descending steep terrain.
