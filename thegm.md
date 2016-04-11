@@ -16,3 +16,14 @@ Your first agenda is to **portray a grim dark galaxy**. Heresy World is all abou
 Heresy World missions **never** presume player actions. A Heresy World mission portrays a plot in motion—where players big and small are operating with their own goals. As the players come into conflict with that setting and its denizens, action is inevitable. You’ll honestly portray the repercussions of that action. Success is not guaranteed.
 
 This is how you **play to find out what happens**. You’re sharing in the fun of finding out how the characters react to and change a city, a planet, a sector, or even the entire galaxy. You’re all participants in a great battle for mankind that has been unfolding for millenia. So really, don’t plan too hard. The rules of the game will fight you. It’s fun to see how things unfold, trust us.
+
+## Moves
+All of the moves available to the GM in Dungeon World still apply. In addition to those you may also:
+
+  - Test their will
+  - Traumatize time
+  - Mutate them
+
+
+### Test their will
+When someone sees something truly horrific or blasphemous, or when Chaos or psyker powers attempt to influence them, they need to do something to remain calm and not succumb. Tell the characters what strange feelings they feel creeping up: the oily taint of chaotic energies, the rising feeling of panic, or the encroaching sense of overpowering dread. Ask them how they respond to this and go from there. They'll likely need to roll Defy Danger, but they might just pull out their Lasgun and start firing. In the event of failure remember the fiction and consider using the two new moves: traumatize them and mutate them.
