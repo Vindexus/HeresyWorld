@@ -41,6 +41,8 @@ Choose one item from each list for your class. If you want to go outside the lis
 ## Choose Stats
 Assign these scores to your stats: 16, 15, 13, 12, 9, 8. Start by looking over the basic moves and the starting moves for your class. Pick out the move that interests you the most: something you’ll be doing a lot, or something that you excel at. Put a 16 in the stat for that move. Look over the list again and pick out the next most important move to your character, maybe something that supports your first choice. Put your 15 in the stat for that move. Repeat this process for your remaining scores: 13, 12, 9, 8.
 
+*I'd like to focus a lot on using the Confessor move to interrogate people, so I'll use the 16 for my Intelligence. I also want to be good with people so I'll put the 15 in Charisma. While I have a fit body, I'm much more quick than I strong, so I'll put a 13 in Dexterity and put my 8 in Strength. My body is tougher than my mind so I'll put the 12 in Constitution and the 9 in Willpower.*
+
 ## Choose a Home World
 Where you were born shapes a lot of the things about you. Select a home world and apply the related stat bonuses and penalties to your character. Each home world also has a small move associated with it.
 
@@ -81,8 +83,12 @@ Voidborn gain +1 to any rolls to resist warp energy.
 +1 to Intelligence  
 -1 to Charisma  
 
+*I like the idea of being from a lone church on a backwater planet with little technology, so I'm going to pick Feral World.*
+
 ## Modify Your Stats
 After choosing a Home World, make any changes to your stats that come with it.
+
+*Since I chose Feral World, I'll change my Intelligence from 16 to 15 and my Strength from 8 to 9.*
 
 ## Figure Out Modifiers
 Next you need to figure out the modifiers for your stats. The modifiers are what you use when a move says +DEX or +CHA. If you're using the standard character sheets the modifiers are already listed with each score.
@@ -100,13 +106,17 @@ Next you need to figure out the modifiers for your stats. The modifiers are what
 ## Set Maximum HP
 Your maximum HP is equal to your class's base HP+Constitution score. Your Home World may affect your maximum HP. You start with your maximum HP.
 
-*Base 6 and 9 Constitution gives me a base HP of 15.*
+*Base 8 and Constitution of 12 gives me a base HP of 20.*
 
 ## Choose Alignment
 Your alignment is a few words that describes how your character acts in their service to the Inquisition. Choose the alignment you most want to play; you'll earn XP for playing to your alignment.
 
+*The Evil alignment for the Investigator says I gain XP when I hurt someone more than I need to. Don't let Carver's kind eyes deceive you, he has a dark side to him as well. I'll pick Evil.*
+
 ## Choose Gear
 Each class has choices to make for starting gear. Keep your load in mind—it limits how much you can easily carry. Make sure to total up your armor and note it on your character sheet.
+
+*The Warhammer deals more damage, but I want a weapon that crackles with blue lightning cause it sounds cooler. I'll pick the Shock Maul. I don't really feel like carrying a shield around, so I'll pick the Flak armor.*
 
 ## Introduce Your Character
 Now that you know who your character is, it's time to introduce them to everyone else. Wait until everyone's finished choosing their name. Then go around the table; when it's your turn, share your look, class and anything else pertinent about your character. You can share your alignment now or keep it a secret if you prefer.
