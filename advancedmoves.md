@@ -8,11 +8,11 @@ When you **attempt to reload quickly** roll+DEX. On a 10+ you reload your weapon
 ## Hatred
 Your hatred for a particular enemy of the Imperium runs deep. Each time you take this move, select one of the groups below and describe how your hatred took root. You take +1d4 damage ongoing against them.
 
-  - Xenos
-  - Criminals
-  - Daemons
-  - Psykers
-  - Mutants
+  - [\___] Xenos
+  - [\___] Criminals
+  - [\___] Daemons
+  - [\___] Psykers
+  - [\___] Mutants
 
 ## Mighty Shot
 You are able to see the weak points in any target, add your DEX to your damage when using ranged weapons.
@@ -35,7 +35,7 @@ On a 6- you might:
   - Take longer
 
 ## Advanced Tech-Use
-You may reroll any Tech-Use roll. The new result stands.
+When using Tech-Use on a 10+ choose no options and on a 7-9 choose one.
 
 ## Parry
 When you use your weapon to deflect an incoming melee attack, take +1 to Defy Danger. On a 10+ deal your level in damage to your attacker.
@@ -45,3 +45,7 @@ When you attack with a melee weapon in each hand, add +1d4 damage to your melee 
 
 ## Gunslinger
 When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks.
+
+## Imperial Infantryman's Uplifting Primer
+*Requires Background: Imperial Guardsman*    
+You gain +1 to Spout Lore rolls about war.

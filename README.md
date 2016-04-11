@@ -7,8 +7,16 @@ Heresy World's main mechanics are based on [Dungeon World](http://dungeon-world.
 ## The Blog
 Read about my thought process and changes at [http://vindexus.net](http://vindexus.net)
 
-## Classes
-
-  - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
-  - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
-  - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)
+## Contents
+  - [Introduction](https://github.com/Vindexus/heresyworld/blob/master/introduction.md)
+  - [Character Creation](https://github.com/Vindexus/heresyworld/blob/master/charactercreation.md)
+  - [Basic Moves](https://github.com/Vindexus/heresyworld/blob/master/basicmoves.md)
+  - [Special Moves](https://github.com/Vindexus/heresyworld/blob/master/specialmoves.md)
+  - Classes
+    - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
+    - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
+    - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)
+  - [The GM](https://github.com/Vindexus/heresyworld/blob/master/thegm.md)
+  - First Session
+  - [Missions](https://github.com/Vindexus/heresyworld/blob/master/missions.md)
+    - [Tainted Conflict](https://github.com/Vindexus/heresyworld/blob/master/missions/taintedconflict.md)
