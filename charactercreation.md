@@ -64,8 +64,8 @@ Hive World characters gain +1 to any Defy Danger rolls when moving through crowd
 -1 to Strength  
 
 ### Shrine World
-Shrine World characters can reroll a failed roll showing a 1 and a 6 once per session.
-+1 to Charisma
+Shrine World characters can reroll a failed roll showing a 1 and a 6 once per session.  
++1 to Charisma  
 -1 to Strength
 
 ### Voidborn
