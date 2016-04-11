@@ -3,6 +3,8 @@
 ## Choose a Class
 Look at the list of classes and choose one that interests you. Your Inquisitor's retinue doesn't need two of the same type of class, so if two people want the same class talk it over like adults and compromise.
 
+*I want to look for clues and interrogate people, so I'll pick Investigator.*
+
 ## Choose a Background
 Your background describes what your character was doing before being recruited by your Inquisitor. It might not have been where your skills brought you to the attention of the Inquisitor, but it is likely. Once per session you may reroll a roll if you can describe how your background would have prepared you for this situation, using the This I Know special move.
 
@@ -12,6 +14,8 @@ Your background describes what your character was doing before being recruited b
   - Ecclesiarchy
   - Adeptus Mechanicus
   - Adeptus Ministratrum
+
+*I'd like to have a religious background as someone who grew up working in a Basilica. I'll choose Ecclesiarchy.*
 
 ## Choose a Name
 Select a name for your character. Make something up on your own or roll on the tables below to inspire you.
@@ -27,8 +31,12 @@ Select a name for your character. Make something up on your own or roll on the t
 |7|Eli|Fenra|Carver|
 |8|Lambdus|Rhia|Spider|
 
+*I'd like to go by a nickname, but I'm not sure what I want so I'll roll on the table. I rolled a 7 so I'll go by Carver.*
+
 ## Choose Look
 Choose one item from each list for your class. If you want to go outside the list ask your GM.
+
+*Kind eyes seem like they'd fit someone who grew up in a church. Worrying about my hair every day seems tiresome, so I'll be bald. I want to look respectable so I'll wear my old uniform of the Ecclesiarchy. Carver likes to work out and train physically, so I'll choose a fit body.*
 
 ## Choose Stats
 Assign these scores to your stats: 16, 15, 13, 12, 9, 8. Start by looking over the basic moves and the starting moves for your class. Pick out the move that interests you the most: something you’ll be doing a lot, or something that you excel at. Put a 16 in the stat for that move. Look over the list again and pick out the next most important move to your character, maybe something that supports your first choice. Put your 15 in the stat for that move. Repeat this process for your remaining scores: 13, 12, 9, 8.
