@@ -121,7 +121,7 @@ Each class has choices to make for starting gear. Keep your load in mind—it li
 ## Introduce Your Character
 Now that you know who your character is, it's time to introduce them to everyone else. Wait until everyone's finished choosing their name. Then go around the table; when it's your turn, share your look, class and anything else pertinent about your character. You can share your alignment now or keep it a secret if you prefer.
 
-This is also the time for the GM to ask questions. The GM's questions should help establish the relationships between characters ("What do you think about that?") and draw the group into the adventure ("Does that mean you've met Grundloch before?"). The GM should listen to everything in the description and ask about anything that stands out. Establish where they're from, who they are, how they came together, or anything else that seems relevant or interesting.
+This is also the time for the GM to ask questions. The GM's questions should help establish the relationships between characters ("How does your criminal character feel about a former Adeptus Arbites?") and draw the group into the world ("Has your Adeptus Mechanicus character heard of the ship the Voidborn character was born on?"). The GM should listen to everything in the description and ask about anything that stands out. Establish where they're from, who they are, how they were recruited, or anything else that seems relevant or interesting.
 
 ## Choose Bonds
 Once everyone has described their characters you can choose your bonds. You must fill in one bond but it's in your best interest to fill in more. For each blank fill in the name of one character. You can use the same character for more than one statement.
