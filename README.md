@@ -20,3 +20,4 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
   - First Session
   - [Missions](https://github.com/Vindexus/heresyworld/blob/master/missions.md)
     - [Tainted Conflict](https://github.com/Vindexus/heresyworld/blob/master/missions/taintedconflict.md)
+  - [Equipment](https://github.com/Vindexus/heresyworld/blob/master/equipment.md)
