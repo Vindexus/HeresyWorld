@@ -1,4 +1,5 @@
 # Equipment
+The weapons, armor, and tools your characters bring on their mission can have a huge impact on how successful you are: a more robust piece of armor could turn a blade that would mean death; a silencer attached to a laspistol might mean you aren't discovered, and pair of magnocs could help you witness a key event in your investigation.
 
 ## Old Weapon Tags
 All weapon tags from vanilla Dungeon World are still in use for Heresy World.
@@ -104,3 +105,6 @@ Example: The cost of adding tearing to a spear with +1 damage, 1 piercing should
 Not everything will always be available everywhere. Keep the fiction in mind when a player says they want to find an exotic weapon or get work done on their current weapon to add an exorbitant amount of upgrades, but also keep in mind that a straight “no” can be stifling.
 
 Have players use the Supply move if you think the item might be found where they are, but if they’re looking for a Thunder Hammer on a recently discovered Feral World, for example, then it probably doesn’t make any sense for it to be available. If something is well beyond their grasp, as many things will be to low level Acolytes, then try to give their characters details on what sort of deeds earn those items, or what great legends are said to have wielded them. You can tell them “no” while still filling their heads with possibilities.
+
+## Describe the Upgrades
+When gear gets a new or better tag, what does that mean? What does that look like? How does you shotgun change when it gets a +1 damage tag? Describe the changes to the mechanisms of the weapon, the ways that the machine spirits were worshipped, or the prayers that have been etched into the handle.
