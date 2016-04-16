@@ -80,3 +80,27 @@ All weapon tags from vanilla Dungeon World are still in use for Heresy World.
 
 **Grapnel**  
 *0 weight*: This small device hooks onto the wearer's belt and shoots out a magnetic hook to greatly assist in climbing or descending steep terrain.
+
+## Pricing Equipment
+When it comes to pricing items, keep in mind who they're buying from and the current environment. A quartermaster on the Inquisitor's flag ship selling directly to Acolytes going on an expedition is going to charge much less for the same 2 piercing upgrade to a warhammer than a criminal artificer selling on the black market in a Hive City teeming with gang wars.
+
+## Upgrading Equipment
+
+|Upgrade|Cost|Notes|
+|:--|:--|:--|
+|+n damage|start at 10-15 thrones|Each level past +1 should be more than double the cost of the previous
+|n proven|start at 5 thrones|The first few levels of proven should be cheap, as it doesn't increase damage as much as +1 damage, but the cost should ramp up a lot once they get near their max damage. If proven is too high then rolling doesn't matter and that's no fun.
+|silenced|20-25 thrones|Some weapons are harder to silence, and some are near impossible.
+|scatter|15-20 thrones|Weapons that are meant to be fired long range aren't likely to also have the scatter tag.
+|tearing|30-40 thrones|	
+|+1 to uses	25-30|Extended magazine for your weapon.
+
+### Multiple Upgrades
+As more and more upgrades are made to a weapon, it becomes harder and harder to add new ones. The price of further upgrades should be higher as more upgrades are added to a weapon. Consider applying a multiplier for each new upgrade based on how many previous ones there are.
+
+Example: The cost of adding tearing to a spear with +1 damage, 1 piercing should be 2-3 times the normal cost.
+
+## Availability of Upgrades
+Not everything will always be available everywhere. Keep the fiction in mind when a player says they want to find an exotic weapon or get work done on their current weapon to add an exorbitant amount of upgrades, but also keep in mind that a straight “no” can be stifling.
+
+Have players use the Supply move if you think the item might be found where they are, but if they’re looking for a Thunder Hammer on a recently discovered Feral World, for example, then it probably doesn’t make any sense for it to be available. If something is well beyond their grasp, as many things will be to low level Acolytes, then try to give their characters details on what sort of deeds earn those items, or what great legends are said to have wielded them. You can tell them “no” while still filling their heads with possibilities.
