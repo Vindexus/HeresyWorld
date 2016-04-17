@@ -8,12 +8,12 @@ Look at the list of classes and choose one that interests you. Your Inquisitor's
 ## Choose a Background
 Your background describes what your character was doing before being recruited by your Inquisitor. It might not have been where your skills brought you to the attention of the Inquisitor, but it is likely. Once per session you may reroll a roll if you can describe how your background would have prepared you for this situation, using the This I Know special move.
 
-  - Imperial Guardsman
   - Adeptus Arbites
-  - Outcast
-  - Ecclesiarchy
-  - Adeptus Mechanicus
+  - Adeptus Mechanicus  
   - Adeptus Ministratrum
+  - Ecclesiarchy
+  - Imperial Guard
+  - Outcast  
 
 *I'd like to have a religious background as someone who grew up working in a Basilica. I'll choose Ecclesiarchy.*
 
