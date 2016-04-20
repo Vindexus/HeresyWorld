@@ -87,6 +87,8 @@ When it comes to pricing items, keep in mind who they're buying from and the cur
 
 ## Upgrading Equipment
 
+The following are just guidelines. Feel free to change this as much or as little as you want to fit your specific setting and climate.
+
 |Upgrade|Cost|Notes|
 |:--|:--|:--|
 |+n damage|start at 10-15 thrones|Each level past +1 should be more than double the cost of the previous
@@ -94,7 +96,7 @@ When it comes to pricing items, keep in mind who they're buying from and the cur
 |silenced|20-25 thrones|Some weapons are harder to silence, and some are near impossible.
 |scatter|15-20 thrones|Weapons that are meant to be fired long range aren't likely to also have the scatter tag.
 |tearing|30-40 thrones|	
-|+1 to uses	25-30|Extended magazine for your weapon.
+|+1 to uses|25-30 thrones|Extended magazine for your weapon.
 
 ### Multiple Upgrades
 As more and more upgrades are made to a weapon, it becomes harder and harder to add new ones. The price of further upgrades should be higher as more upgrades are added to a weapon. Consider applying a multiplier for each new upgrade based on how many previous ones there are.
