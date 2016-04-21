@@ -16,8 +16,8 @@ Read about my thought process and changes at [http://vindexus.net](http://vindex
     - [Assassin](https://github.com/Vindexus/heresyworld/blob/master/classes/assassin.md)
     - [Investigator](https://github.com/Vindexus/heresyworld/blob/master/classes/investigator.md)
     - [Warrior](https://github.com/Vindexus/heresyworld/blob/master/classes/warrior.md)
+  - [Advanced Moves](https://github.com/Vindexus/heresyworld/blob/master/advancedmoves.md)
   - [The GM](https://github.com/Vindexus/heresyworld/blob/master/thegm.md)
-  - First Session
   - [Missions](https://github.com/Vindexus/heresyworld/blob/master/missions.md)
     - [Tainted Conflict](https://github.com/Vindexus/heresyworld/blob/master/missions/taintedconflict.md)
   - [Equipment](https://github.com/Vindexus/heresyworld/blob/master/equipment.md)
