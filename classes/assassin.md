@@ -43,15 +43,6 @@ When you **attack a defenseless or surprised enemy at range**, you can choose to
     - 10+: As 7-9, plus your damage
     - 7-9: They're hobbled and slow moving.
 
-### Hunt and Track
-When you **follow a trail of clues left behind by passing creatures**, roll+WIS.
-
-On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel.
-
-On a 10+, you also choose 1:
-  - Gain a useful bit of information about your quarry, the GM will tell you what
-  - Determine what caused the trail to end
-
 ## Alignment
 
 ### Evil
@@ -78,6 +69,15 @@ You start with leather armor (*1 armor, worn, 1 weight*), adventuring gear (*1 w
 
 ## Advanced Moves for Levels 2+
 
+### Hunt and Track
+When you **follow a trail of clues left behind by passing creatures**, roll+WIS.
+
+On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel.
+
+On a 10+, you also choose 1:
+  - Gain a useful bit of information about your quarry, the GM will tell you what
+  - Determine what caused the trail to end
+
 ### Advanced Training
 You have focused your training on either the blade or the rifle. Choose one:
 
@@ -87,7 +87,7 @@ You have focused your training on either the blade or the rifle. Choose one:
 ### Silent Strike
 Your Unsuspecting Strike also prevents your target from raising the alarm, describe how.
 
-### Vindicare Shot
+### Sniper Shot
 When you **successfully hit someone with Called Shot** your limb shots gain the *Messy* and *Forceful* tags and your head shots gain the *Tearing* tag.
 
 ### Viper's Strike
@@ -113,6 +113,10 @@ On a 7-9, hold 1. Spend your hold as you walk through the area to ask these ques
   - What does the trap do when activated?
   - What else is hidden here?
 
+### Cautious
+*Requires Trap Expert*  
+When you use trap expert you always get +1 hold, even on a 6-.
+
 ### Tricks of the Trade
 When you pick locks or pockets or disable traps, roll+DEX.  
 On a 10+, you do it, no problem.  
@@ -120,11 +124,15 @@ On a 7-9, you still do it, but the GM will offer you two options between suspici
 
 ## Advanced Moves Levels 6+
 
+### Vindicare Shot
+*Requires Sniper Shot*  
+When using Called Shot all your attacks gain the *messy*, *forceful*, and *tearing* tags.
+
 ### Dirty Fighter
 *Replaces: Cheap Shot*  
 When using a precise or hand weapon, your backstab deals an extra +1d8 damage and all other attacks deal +1d4 damage.
 
-###Viper's Fangs
+### Viper's Fangs
 *Replaces: Viper's Strike*  
 When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.
 
@@ -135,5 +143,12 @@ You have +1 armor. When you're outnumbered, you have +2 armor instead.
 ### Disguise
 When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.
 
+### Hunter's Eye
+When you know your target's weakest point your ranged attacks gain +2 piercing.
+
 ### Jack Of All Trades
 Take one more option from Advanced Training.
+
+### Extremely Cautious
+*Replaces: Cautious*  
+When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.
