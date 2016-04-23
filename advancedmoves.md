@@ -2,6 +2,8 @@
 
 The following moves can be taken by any class when they level up instead of of their class's advanced moves.
 
+### Advanced Moves Levels 2+
+
 ## Rapid Reload
 When you **attempt to reload quickly** roll+DEX. On a 10+ you reload your weapon instantly - reset its uses and reduce your ammo by 1. On a 7-9 the same in addition to what that the GM says. On a 6- you fumble your reload.
 
@@ -49,3 +51,12 @@ When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks
 ## Imperial Infantryman's Uplifting Primer
 *Requires Background: Imperial Guardsman*    
 You gain +1 to Spout Lore rolls about war.
+
+## Autosanguine
+Your blood stream has been blessed with ancient micrsopic technology that makes repairs to minor injuries. Whenever you receive healing from rest or medicae treatment heal yourself for an additional +1d4.
+
+### Advanced Moves Levels 6+
+
+## Prosanguine
+*Replaces Autosanguine*  
+You heal for an additional +1d8 whenever you receive healing from rest or medicae treatment.
