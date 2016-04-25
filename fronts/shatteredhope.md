@@ -59,17 +59,7 @@ This pink glowing stone can be found deep within the mines. Its very fabric is t
 
 ## Custom Move: Antithesis Energy
 
-When you **enter the chamber of the Antithesis Stone**, the stone pulses in anger and its energy attempts to mutate you. Roll+CON, on a 10+ you resist the stone entirely. On a 7-9 you resist with much difficulty, take -1 forward. On a miss you take -1 forward and roll a d10. Consult the table below for the stone's effect:
-
-| Roll | Effect |
-| --- | --- |
-| 1 | Skin Change: The character's hair and flesh turn a bright shade of pink with grey marbling just below the surface of the flesh. |
-| 2 | Brute: The character grows muscled and brutish, but their head shrinks. The character increases their Strength by 1 but reduces their Intelligence by 1.|
-| 3 | Tentacles: A sloppy mess of purple and warty tentacles sprout from the character's middle and flail about madly. |
-| 4 | Huge Eyes: The unfortunate character's eyes grow huge, about the size of saucers. The Acolyte gains +1 to all rolls involving his sight, but takes -1 to all rolls while in bright light
-| 5 | Huge Head: The character's head swells to three times its normal size, filled with strange fluid that aids in thinking. The character increases their Intelligence by 1, but reduces their Charisma and Wisdom both by 1 |
-| 6-10 | The character gains a random debility |
-
+When you **enter the chamber of the Antithesis Stone**, the stone pulses in anger and its energy attempts to mutate you. Roll+CON, on a 10+ you resist the stone entirely. On a 7-9 you resist with much difficulty, take -1 forward. On a miss you take -1 forward and the stone makes a move against you.
 
 ## Enemies
 
@@ -109,7 +99,7 @@ Moves: Spew vitriol
 This writhing mass of decay and malaise is weaker than most Plaguebearers, as it has only been partially summoned, but it is no less repulsive. Instinct: To spread rot
 
 ***Move*: Nurglenomics**  
-When a **Plaguebearer deals damage to you**, roll+CON. On a hit your body fights off the diseased essence of Nurgle. On a 10+ you steel yourself against the Plaguebearer and are no longer affected by this move. On a 6-you begin vomiting immediately, becoming vulnerable, and gain the Sick debility.
+When a **Plaguebearer deals damage to you**, roll+CON. On a hit your body fights off the diseased essence of Nurgle. On a 10+ you steel yourself against the Plaguebearer and are no longer affected by this move. On a 6- you begin vomiting immediately, becoming vulnerable, and gain the Sick debility.
 
 ***Move*: Damage the Stone**  
 When you **attack the Antithesis Stone**, roll+DEX if using a ranged weapon or roll+STR if attacking in melee. On a 10+ you hit the stone and deal 1 point of damage. On a 7-9 the same, but at a cost – the GM will tell you what. When the Stone has suffered 3 damage it shatters, sending the Plaguebearer hurtling back into the warp and ending its foul presence in this part of the mines.  
