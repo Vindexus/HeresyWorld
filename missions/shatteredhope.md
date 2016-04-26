@@ -12,6 +12,17 @@ Questions for the players:
   - What type of world is the regiment of Imperial Guard from?
   - I've taken a lot of the detail out of the description of the original Dark Heresy adventure and put some of those details into questions for the players.
 
+## Revelations
+
+||Revelation|
+|:--|:--|
+|[__]|The rebel forces on the planet have mutants among their ranks.|
+|[__]|Some grotesque beast attacked both rebels and Guardsmen in the mines.|
+|[__]|The rebels are actually members of the Brotherhood of Malice, and seek to free the planet's citizens from life under the Imperium by bringing about their own destruction.|
+|[__]|The Brotherhood of Malice are worshippers of the Chaos God Nurgle.|
+|[__]|A glowing corrupt crystal stone, the Antithesis Stone, is deep within the Gorgonid Mines, and its warp power is strong. It mutates those that approach it, and as it grows stronger it opens a rift into the empyrean.|
+
+
 ## Cast: Imperial Guard
 
 **Edwin Jurtz**: A young and hopeful guardsman, who believes the Acolytes are here to save them. Bright red hair, freckles.  
@@ -22,6 +33,9 @@ Questions for the players:
 
 **Commissar Nihilius**: The Commissar is a man in his late thirties with coal black hair and coal black eyes. He wears a simple uniform adorned with a few badges showing his service and a flak vest.
 *Instinct*: To perform his duty to the Imperium
+
+
+<!--
 
 ## Danger: The Brotherhood of Malice
 
@@ -40,22 +54,7 @@ The Brotherhood of Malice is a desperate cult of beleaguered and desperate miner
   - What ancient heresy inspired the founding members of the Brotherhood?
   - Who does the cult worship? Is it one of the four Ruinous Powers, a great daemon, Chaos Undivided, or something else?
 
-
-## Danger: Antithesis Stone
-
-This pink glowing stone can be found deep within the mines. Its very fabric is tainted with powers of the warp.
-
-### Grim Portents:
-
-  - The stone spits out a half-formed lesser daemon that wanders the mines before dying of “natural” causes
-  - The stone attempts to mutate any that enter into its presence
-  - The stone summons a weakened but whole lesser daemon
-  - Impending doom: A portal to the Immaterium is opened, releasing warp energies that mutate and lesser daemons that slaughter
-
-### Things to find out: 
-
-  - What does the stone look like?
- 
+-->
 
 ## Custom Move: Antithesis Energy
 
