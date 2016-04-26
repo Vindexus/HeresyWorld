@@ -60,3 +60,11 @@ Your blood stream has been blessed with ancient micrsopic technology that makes 
 ## Prosanguine
 *Replaces Autosanguine*  
 You heal for an additional +1d8 whenever you receive healing from rest or medicae treatment.
+
+## Sanctified Shot
+*Requires: Mighty Shot*  
+On a 10+ with Aim and Fire, add *+DEX piercing* to your attack.
+
+## Blessed Blow
+*Requires: Crushing Blow8  
+On a 10+ with Hack and Slash, add *+STR piercing* to your attack.
