@@ -1,41 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Advanced Moves</h1>
-<p aid:pstyle="NoIndent">The following moves can be taken by any class when they level up instead of of their class's advanced moves.</p>
-<Story><h2 aid:pstyle="MoveName">Rapid Reload</h2>
-<p aid:pstyle="NoIndent">When you <strong aid:cstyle="strong">attempt to reload quickly</strong> roll+DEX. On a 10+ you reload your weapon instantly - reset its uses and reduce your ammo by 1. On a 7-9 the same in addition to what that the GM says. On a 6- you fumble your reload.</p>
-<h2 aid:pstyle="MoveName">Hatred</h2>
-<p aid:pstyle="NoIndentPreList">Your hatred for a particular enemy of the Imperium runs deep. Each time you take this move, select one of the groups below and describe how your hatred took root. You take +1d4 damage ongoing against them.</p>
-<ul aid:pstyle="CheckList"><li>Xenos</li>
-<li>Criminals</li>
-<li>Daemons</li>
-<li>Psykers</li>
-<li aid:pstyle="LastListItem">Mutants</li></ul>
-<h2 aid:pstyle="MoveName">Parry</h2>
-<p aid:pstyle="NoIndent">When you <strong aid:cstyle="strong">use your weapon to deflect an incoming melee attack</strong>, take +1 to Defy Danger. On a 10+ deal your level in damage to your attacker.</p>
-<h2 aid:pstyle="MoveName">Mighty Shot</h2>
-<p aid:pstyle="NoIndent">You are able to see the weak points in any target, add your DEX to your damage when using ranged weapons.</p>
-<h2 aid:pstyle="MoveName">Crushing Blow</h2>
-<p aid:pstyle="NoIndent">Your attacks strike with resounding force, add your STR to your damage when using melee weapons.</p>
-<h2 aid:pstyle="MoveName">Dual Wield</h2>
-<p aid:pstyle="NoIndent">When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</p>
-<h2 aid:pstyle="MoveName">Gunslinger</h2>
-<p aid:pstyle="NoIndent">When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks.</p>
-<h2 aid:pstyle="MoveName">Medicae Training</h2>
-<p aid:pstyle="NoIndentPreList">When you <strong aid:cstyle="strong">use medical supplies (bandages, medicae kits, etc) to tend to someone's wounds</strong>, use the item as normal and roll+INT. On a 10+ choose two, on a 7-9 choose one:</p>
-<ul aid:pstyle="OptionsList"><li>Heal for an extra 1d6</li>
-<li>Don't mark off a use of the supply</li>
-<li>It takes half the time</li>
-<li aid:pstyle="LastListItem">You remove a debility</li></ul>
-<p aid:pstyle="NoIndentPreList">On a 6- you might:</p>
-<ul aid:pstyle="OptionsList"><li>Mark off an extra use of the supply</li>
-<li>Heal for half the value, rounded down</li>
-<li aid:pstyle="LastListItem">Take longer</li></ul>
-<h2 aid:pstyle="MoveName">Imperial Infantryman's Uplifting Primer</h2>
-<p aid:style="MoveRequires">Requires Background: Imperial Guardsman</p>
-<p aid:pstyle="NoIndent">You gain +1 to Spout Lore rolls about war.</p>
-<h2 aid:pstyle="MoveName">Autosanguine</h2>
-<p aid:pstyle="NoIndent">Your blood stream has been blessed with ancient micrsopic technology that makes repairs to minor injuries. Whenever you receive healing from rest or medicae treatment heal yourself for an additional +1d4.</p>
-<h2 aid:pstyle="MoveName">Advanced Tech-Use</h2>
-<p aid:pstyle="NoIndent">When using Tech-Use on a 10+ choose no options and on a 7-9 choose one.</p>
+<h1>Special Moves</h1>
+<Story><Story><h2 aid:pstyle="BasicMoveName">Last Breath</h2>
+<p aid:pstyle="NoIndent">When <strong>you’re dying</strong> you catch a glimpse of what lies beyond the Black Gates of Death’s Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn’t care how tough or cool you are). On a 10+ you’ve cheated death—you’re in a bad spot but you’re still alive. On a 7–9 Death will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. On a miss, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.</p>
+<h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
+<p aid:pstyle="NoIndent">When you <strong>make a move while carrying weight</strong> up to or equal to load, you’re fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.</p>
+<h2 aid:pstyle="BasicMoveName">Make Camp</h2>
+<p aid:pstyle="NoIndent">When you <strong>settle in to rest</strong> consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may Level Up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
+<h2 aid:pstyle="BasicMoveName">Take Watch</h2>
+<p aid:pstyle="NoIndent">When <strong>you’re on watch and something approaches the camp</strong> roll+Wis. On a 10+ you’re able to wake the camp and prepare a response, the camp takes +1 forward. On a 7–9 you react just a moment too late; the camp is awake but hasn’t had time to prepare. You have weapons and armor but little else. On a miss whatever lurks outside the campfire’s light has the drop on you.</p>
+<h2 aid:pstyle="BasicMoveName">Undertake a Perilous Journey</h2>
+<p aid:pstyle="NoIndent">When you <strong>travel through hostile territory</strong>, choose one member of the party to act as trailblazer, one to scout ahead, and one to be quartermaster (the same character cannot have two jobs). If you don’t have enough party members or choose not to assign a job, treat that job as if it had rolled a 6. Each character with a job to do rolls+Wis. On a 10+ the quartermaster reduces the number of rations required by one. On a 10+ the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much). On a 10+ the scout will spot any trouble quick enough to let you get the drop on it. On a 7–9 each roles performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.</p>
+<h2 aid:pstyle="BasicMoveName">Level Up</h2>
+<p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level + 7</strong>, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook.</p>
+<p>Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</p>
+<h2 aid:pstyle="BasicMoveName">End of Session</h2>
+<p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</p>
+<p>Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:</p>
+<ul><li>Did we learn something new and important about the world?</li>
+<li>Did we overcome a notable monster or enemy?</li>
+<li>Did we loot a memorable treasure?</li></ul>
+<p>For each “yes” answer everyone marks XP.</p></Story>
+<Story><h2 aid:pstyle="BasicMoveName">Carouse</h2>
+<p aid:pstyle="NoIndent">When you <strong>return triumphant and throw a big party</strong>, spend 100 coin and roll + extra 100s of coin spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss, you still choose one, but things get really out of hand.</p>
+<ul><li>You befriend a useful NPC</li>
+<li>You hear rumors of an opportunity</li>
+<li>You gain useful information</li>
+<li>You are not entangled, ensorcelled, or tricked</li></ul>
+<h2 aid:pstyle="BasicMoveName">Supply</h2>
+<p aid:pstyle="NoIndent">When you <strong>go to buy something with gold on hand</strong>, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+Cha. On a 10+ you find what you’re looking for at a fair price. On a 7–9 you’ll have to pay more or settle for something similar.</p>
+<h2 aid:pstyle="BasicMoveName">Recover</h2>
+<p aid:pstyle="NoIndent">When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.</p>
+<h2 aid:pstyle="BasicMoveName">Recruit</h2>
+<p aid:pstyle="NoIndent">When you <strong>put out word that you’re looking to hire help</strong>, roll. If you make it known…</p>
+<ul><li>…that your pay is generous, take +1</li>
+<li>…what you’re setting out to do, take +1</li>
+<li>…that they’ll get a share of whatever you find, take +1</li></ul>
+<p aid:pstyle="NoIndent">If you have a useful reputation around these parts take an additional +1. On a 10+ you’ve got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along. On a 7–9 you’ll have to settle for someone close or turn them away. On a miss someone influential and ill-suited declares they’d like to come along (a foolhardy youth, a loose-cannon, or a veiled enemy, for example), bring them and take the consequences or turn them away. If you turn away applicants you take -1 forward to Recruit.</p>
+<h2 aid:pstyle="BasicMoveName">Outstanding Warrants</h2>
+<p aid:pstyle="NoIndent">When you <strong>return to a civilized place in which you’ve caused trouble before</strong>, roll+Cha. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:</p>
+<ul><li>The local constabulary has a warrant out for your arrest</li>
+<li>Someone has put a price on your head</li>
+<li>Someone important to you has been put in a bad spot as a result of your actions</li></ul>
+<h2 aid:pstyle="BasicMoveName">Bolster</h2>
+<p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p>
 </Story></Root>
