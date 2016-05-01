@@ -38,4 +38,7 @@
 <p aid:pstyle="NoIndent">Your blood stream has been blessed with ancient microscopic technology that makes repairs to minor injuries. Whenever you receive healing from rest or medicae treatment heal yourself for an additional +1d4.</p>
 <h2 aid:pstyle="MoveName">Advanced Tech-Use</h2>
 <p aid:pstyle="NoIndent">When using Tech-Use on a 10+ choose no options and on a 7-9 choose one.</p>
+<h2 aid:pstyle="MoveName">Counter-Attack</h2>
+<p aid:style="MoveRequires">Requires: Parry</p>
+<p aid:pstyle="NoIndent">When you Defy Danger with Parry, take +1 forward to Hack and Slash against your attacker.</p>
 </Story></Root>
