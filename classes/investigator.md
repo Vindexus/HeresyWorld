@@ -91,7 +91,7 @@ When you take damage you can choose to have your shield take the damage instead,
 When you **call out a target as your own**, you deal +2d4 ongoing to them. This lasts until an ally attacks them, you attack someone else, or the target is defeated. While this is active you deal -4 damage to other targets and your allies deal -2 damage to your named target.
 
 ### Targeted Investigation
-When you **publicly name a person or organization that you are after**, roll+Cha. On a 10+ hold 2, on a 7-9 hold 1. You may spend hold to get an automatic 10+ on rolls that directly involve your target. Proceed with caution, they know you're coming.
+When you **put the word out that you're after a specific person or organization** before pursuing them, roll+CHA. On a 10+ hold 2, on a 7-9 hold 1. You may spend hold to get an automatic 10+ on rolls that directly involve your target. Proceed with caution, they know you're coming.
 
 ### Your Eyes Betray You
 When you  **listen closely to someone** roll+Wis. On 7-9 the GM will tell you one thing they're lying about – if anything. On a 10+ the same and take +1 forward when acting on that information or against that person.
