@@ -16,18 +16,18 @@ On a 6-, you join the seemingly endless stream of souls to have been lost under 
 <h2 aid:pstyle="MoveName">Level Up</h2>
 <p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level + 7</strong>, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook.</p>
 <p aid:pstyle="NoIndent">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</p>
+<h2 aid:pstyle="MoveName">Supply</h2>
+<p aid:pstyle="NoIndent">When you <strong>go to buy something with thrones on hand</strong>, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+Cha. On a 10+ you find what you’re looking for at a fair price. On a 7–9 you’ll have to pay more or settle for something similar.</p>
 <h2 aid:pstyle="MoveName">End of Session</h2>
 <p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</p>
-<p aid:pstyle="Indent">Once bonds have been updated look at your alignment or drive. If you fulfilled that alignment or dirve at least once this session, mark XP. Then answer these three questions as a group:</p>
+<p aid:pstyle="NoIndentPreList">Once bonds have been updated look at your alignment or drive. If you fulfilled that alignment or dirve at least once this session, mark XP. Then answer these three questions as a group:</p>
 <ul aid:pstyle="OptionsList"><li>Did we learn something new and important to the Inquisition?</li>
 <li>Did we overcome a notable enemy?</li>
 <li aid:pstyle="LastListOption">Did we acquire a notable artifact that will be valuable to the Inquisition?</li></ul>
 <p>For each “yes” answer everyone marks XP.</p>
-<h2 aid:pstyle="MoveName">Supply</h2>
-<p aid:pstyle="NoIndent">When you <strong>go to buy something with thrones on hand</strong>, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+Cha. On a 10+ you find what you’re looking for at a fair price. On a 7–9 you’ll have to pay more or settle for something similar.</p>
 <h2 aid:pstyle="MoveName">Recover</h2>
 <p aid:pstyle="NoIndent">When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.</p>
 <h2 aid:pstyle="MoveName">Bolster</h2>
 <p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, prayer, or hard practice,</strong> you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p>
 <h2 aid:pstyle="MoveName">This I Know</h2>
-<p aid:pstyle="NoIndent">Once per session, you may **invoke your Background to reroll a move**. To invoke your Background you must describe how your character's experience or a specific event would have helped you in the current situation. The GM and the players at the table have to agree, so the more details the better.</p></Story></Root>
+<p aid:pstyle="NoIndent">Once per session, when you <strong>invoke your Background to describe how it has prepared you</strong>, you may reroll a move. When you invoke Background you must describe how your character's experience or a specific event would have helped you in the current situation. The GM and the players at the table have to agree, so the more details the better.</p></Story></Root>
