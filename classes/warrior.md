@@ -89,3 +89,6 @@ When you get a 7-9 on Suppressing Fire you may choose to expend another use of y
 
 ### Baptised by Bullets
 Whenever you **run through enemy fire**, take +1 to Defy Danger.
+
+### Eye for Combat
+Add +1 to any Discern Realities roles while in combat.
