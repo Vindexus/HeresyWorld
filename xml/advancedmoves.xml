@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>Advanced Moves</h1>
+<p aid:pstyle="NoIndent">The following moves can be taken by any class when they level up instead of of their class's advanced moves.</p>
+<Story><h2 aid:pstyle="MoveName">Rapid Reload</h2>
+<p aid:pstyle="NoIndent">When you <strong aid:cstyle="strong">attempt to reload quickly</strong> roll+DEX. On a 10+ you reload your weapon instantly - reset its uses and reduce your ammo by 1. On a 7-9 the same in addition to what that the GM says. On a 6- you fumble your reload.</p>
+<h2 aid:pstyle="MoveName">Hatred</h2>
+<p aid:pstyle="NoIndentPreList">Your hatred for a particular enemy of the Imperium runs deep. Each time you take this move, select one of the groups below and describe how your hatred took root. You take +1d4 damage ongoing against them.</p>
+<ul aid:pstyle="CheckList"><li>Xenos</li>
+<li>Criminals</li>
+<li>Daemons</li>
+<li>Psykers</li>
+<li aid:pstyle="LastListItem">Mutants</li></ul>
+<h2 aid:pstyle="MoveName">Parry</h2>
+<p aid:pstyle="NoIndent">When you <strong aid:cstyle="strong">use your weapon to deflect an incoming melee attack</strong>, take +1 to Defy Danger. On a 10+ deal your level in damage to your attacker.</p>
+<h2 aid:pstyle="MoveName">Mighty Shot</h2>
+<p aid:pstyle="NoIndent">You are able to see the weak points in any target, add your DEX to your damage when using ranged weapons.</p>
+<h2 aid:pstyle="MoveName">Crushing Blow</h2>
+<p aid:pstyle="NoIndent">Your attacks strike with resounding force, add your STR to your damage when using melee weapons.</p>
+<h2 aid:pstyle="MoveName">Dual Wield</h2>
+<p aid:pstyle="NoIndent">When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</p>
+<h2 aid:pstyle="MoveName">Gunslinger</h2>
+<p aid:pstyle="NoIndent">When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks.</p>
+<h2 aid:pstyle="MoveName">Medicae Training</h2>
+<p aid:pstyle="NoIndentPreList">When you <strong aid:cstyle="strong">use medical supplies (bandages, medicae kits, etc) to tend to someone's wounds</strong>, use the item as normal and roll+INT. On a 10+ choose two, on a 7-9 choose one:</p>
+<ul aid:pstyle="OptionsList"><li>Heal for an extra 1d6</li>
+<li>Don't mark off a use of the supply</li>
+<li>It takes half the time</li>
+<li aid:pstyle="LastListItem">You remove a debility</li></ul>
+<p aid:pstyle="NoIndentPreList">On a 6- you might:</p>
+<ul aid:pstyle="OptionsList"><li>Mark off an extra use of the supply</li>
+<li>Heal for half the value, rounded down</li>
+<li aid:pstyle="LastListItem">Take longer</li></ul>
+<h2 aid:pstyle="MoveName">Imperial Infantryman's Uplifting Primer</h2>
+<p aid:style="MoveRequires">Requires Background: Imperial Guardsman</p>
+<p aid:pstyle="NoIndent">You gain +1 to Spout Lore rolls about war.</p>
+<h2 aid:pstyle="MoveName">Autosanguine</h2>
+<p aid:pstyle="NoIndent">Your blood stream has been blessed with ancient microscopic technology that makes repairs to minor injuries. Whenever you receive healing from rest or medicae treatment heal yourself for an additional +1d4.</p>
+<h2 aid:pstyle="MoveName">Advanced Tech-Use</h2>
+<p aid:pstyle="NoIndent">When using Tech-Use on a 10+ choose no options and on a 7-9 choose one.</p>
+<h2 aid:pstyle="MoveName">Counter-Attack</h2>
+<p aid:style="MoveRequires">Requires: Parry</p>
+<p aid:pstyle="NoIndent">When you Defy Danger with Parry, take +1 forward to Hack and Slash against your attacker.</p>
+</Story></Root>
