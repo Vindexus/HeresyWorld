@@ -41,4 +41,10 @@
 <h2 aid:pstyle="MoveName">Counter-Attack</h2>
 <p aid:style="MoveRequires">Requires: Parry</p>
 <p aid:pstyle="NoIndent">When you Defy Danger with Parry, take +1 forward to Hack and Slash against your attacker.</p>
+<h2 aid:pstyle="MoveName">Shield Weapon</h2>
+<p aid:pstyle="NoIndent">You expertly wield your shield as part of your offense. Add your shield's armor to your melee damage.</p>
+<h2 aid:pstyle="MoveName">Shield Wall</h2>
+<p aid:pstyle="NoIndent">When your allies take cover behind your shield, they gain the armor benefit of your shield.</p>
+<h2 aid:pstyle="MoveName">Sacrifishield</h2>
+<p aid:pstyle="NoIndent">When you take damage you can choose to have your shield take the damage instead, destroying it.</p>
 </Story></Root>
