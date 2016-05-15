@@ -1,9 +1,9 @@
 module.exports = {
   starting_hp: 8,
-  load: 8
+  load: 8,
   looks: ['Distrusting eyes, kind eyes, tired eyes', 'Helmeted head, military cut, or bald', 'Plain clothes, worn outfit, or uniform', 'Thin body, fit body, flabby body'],
   starting_moves: ['i_am_justice', 'detective', 'confessor', 'take_them_alive'],
-  advanced_moves_1: ['this_ones_mine', 'targetted_investigation', 'your_eyes_betray_you', 'torturer', 'local_informant']
+  advanced_moves_1: ['this_ones_mine', 'targetted_investigation', 'your_eyes_betray_you', 'torturer', 'local_informant'],
   alignments: {
     good: {
       name: 'Good',

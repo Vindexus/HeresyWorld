@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon --watch node_modules/rpgparser/**.* --watch ../game_data --watch ../pages/**.* --watch ../templates/**.*"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "rpgparser": "^1.0.3"
+  }
+}

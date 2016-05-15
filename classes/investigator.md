@@ -78,15 +78,6 @@ Choose your armor:
 ## Advanced Moves - Level 2-5
 When you gain a level from 2-5, choose from these moves.
 
-###Shield Weapon
-You expertly wield your shield as part of your offense. Add your shield's armor to your melee damage.
-
-### Shield Wall
-When your allies take cover behind your shield, they gain the armor benefit of your shield.
-
-### Sacrifishield
-When you take damage you can choose to have your shield take the damage instead, destroying it.
-
 ### This One's Mine
 When you **call out a target as your own**, you deal +2d4 ongoing to them. This lasts until an ally attacks them, you attack someone else, or the target is defeated. While this is active you deal -4 damage to other targets and your allies deal -2 damage to your named target.
 
