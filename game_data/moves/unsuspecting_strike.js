@@ -1,4 +1,5 @@
 module.exports = {
+	name: 'Unsuspecting Strike',
   description: '<p>When you <strong>get close to your target to make a surprise attack</strong>, roll+DEX if you use stealth or speed, or roll+CHA if you use deception or charm.\n' + 
   'On a 10+ choose two.\n' +
   'On a 7-9 choose one.</p>' + 
