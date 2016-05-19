@@ -24,7 +24,7 @@ module.exports = {
     '<blank></blank> walks a thin line too close to sedition, I should guide them.',
     '<blank></blank> has helped me defeat a formidable foe, I should repay them in kind.'
   ],
-  starting_gear: '<p aid:pstyle="NoIndent">Your load is <gamedata path="classes.investigator.load"></gamedata>+STR. You start with <name item="rations"></name> and a <name item="stub_revolver"></name> (<tags path="items.stub_revolver"></tags>). Choose your melee weapon:</p>' +
+  starting_gear: '<p aid:pstyle="NoIndent">Your load is <gamedata path="classes.investigator.load"></gamedata>+STR. You start with <name item="rations"></name> and a <name item="stub_revolver"></name> (<loop items="items.stub_revolver.tags" glue=", "><name tag="{{item}}"></name></loop>). Choose your melee weapon:</p>' +
   '<ul aid:pstyle="OptionsList"><li><name item="warhammer"></name> (<tags path="items.stub_revolver"></tags>)</li>' +
   '<li><name item="shock_maul"></name> (<tags path="items.shock_maul"></tags>)</li></ul>' +
   '<p>Choose your armor:</p>' +

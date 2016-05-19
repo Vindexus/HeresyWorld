@@ -8,7 +8,7 @@ var rpgparser = require('rpgparser')({
   templatesDir: gameDir + '/templates',
   outputInDesignDir: gameDir + '/parsed/indesign',
   outputWebDir: gameDir + '/parsed/web', 
-  simples: ['tags', 'external_skills'],
+  simples: ['tags', 'external_skills', 'items'],
   folders: ['classes', 'moves'],
   classesToPstyle: {
     'noindent': 'NoIndent',

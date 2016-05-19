@@ -1,2 +1,5 @@
 <h2 gamedata="moves.{{move}}.name"></h2>
-<div class="description" gamedata="moves.{{move}}.name"></div>
+<if path="moves.{{move}}.requires_move"><p class="requires">Requires: <name move="[moves.{{move}}.requires_move]"></name></p></if>
+<if path="moves.{{move}}.replaces_move"><p class="requires">Replaces: <name move="[moves.{{move}}.replaces_move]"></name></p></if>
+<if path="moves.{{move}}.requires"><p class="requires"><gamedata path="moves.{{move}}.requires"></gamedata></p></if>
+<gamedata path="moves.{{move}}.description"></gamedata>
