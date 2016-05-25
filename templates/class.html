@@ -1,8 +1,11 @@
 <h1 gamedata="classes.{{class}}.name"></h1>
 <div class="description" gamedata="classes.{{class}}.description"></div>
 
-<h2>Skills</h2>
-<template type="move" move="parry"></template>
+<h2>Starting Moves</h2>
+<loop items="classes.{{class}}.starting_moves" glue="\n"><template type="move" move="{{item}}"></template></loop>
+
+<h2>Advanced Moves</h2>
+<loop items="classes.{{class}}.advanced_moves" glue="\n"><template type="move" move="{{item}}"></template></loop>
 
 <h2>Starting Gear</h2>
 <gamedata path="classes.{{class}}.starting_gear"></gamedata>
