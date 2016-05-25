@@ -1,0 +1,43 @@
+doctype html
+html
+  head
+    title= title
+    link(href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css", rel="stylesheet", integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7", crossorigin="anonymous")
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    .page-container
+      // top navbar
+      .navbar.navbar-default.navbar-fixed-top(role='navigation')
+        .container
+          .navbar-header
+            button.navbar-toggle(type='button', data-toggle='offcanvas', data-target='.sidebar-nav')
+              span.icon-bar
+              span.icon-bar
+              span.icon-bar
+            a.navbar-brand(href='#') Heresy World
+      .container
+        .row.row-offcanvas.row-offcanvas-left
+          // sidebar
+          #sidebar.col-xs-6.col-sm-3.sidebar-offcanvas(role='navigation')
+            ul.nav
+              li
+                a(href='/introduction') Introduction
+              li
+                a(href='/classes') Classes
+                ul.nav
+                  li
+                    a(href='/investigator') Investigator
+                  li
+                    a(href='/warrior') Warrior
+                  li
+                    a(href='/assassin') Assassin
+          // main area
+          .col-xs-12.col-sm-9
+            block content
+          // /.col-xs-12 main
+        // /.row
+      // /.container
+    // /.page-container
+    script(src="https://code.jquery.com/jquery-1.12.4.min.js", integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=", crossorigin="anonymous")
+    script(src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js", integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS", crossorigin="anonymous")
+    script(src='/javascripts/index.js', type="text/javascript")
