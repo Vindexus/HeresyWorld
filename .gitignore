@@ -1,4 +1,5 @@
 parser/node_modules
-parsed
+parsed/web
+parsed/indesign
 pages_backup
 website/node_modules

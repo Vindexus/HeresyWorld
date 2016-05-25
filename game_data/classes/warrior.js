@@ -4,6 +4,7 @@ module.exports = {
   load: '9+STR',
   looks: ['Blank eyes, fiery eyes, kind eyes', 'Military cut, messy hair, headband, helmet', 'Worn uniform, utilitarian clothes, rags', 'Lean body, hulking body, lithe body'],
   starting_moves: ['grab_grenade', 'explosives_expert', 'first_hand_experience'],
+  description: 'Warrior hits stuff',
   alignments: {
     good: {
       name: 'Good',
