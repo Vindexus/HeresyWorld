@@ -2,4 +2,5 @@ parser/node_modules
 parsed/web
 parsed/indesign
 pages_backup
-website/node_modules
+node_modules
+old_md
