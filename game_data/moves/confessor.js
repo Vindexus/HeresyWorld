@@ -1,0 +1,2 @@
+module.exports = '<p>When you torture or beat someone to extract information from them roll+INT. On a 7-9 they answer your questions and you choose 2. On a 10+ choose 1 instead.</p>' + 
+'<ul><li>They pass out from the pain after the first question</li><li>They add information they think you want to hear</li><li>They resist for longer than you\'d planned before they begin to cooperate</li><li>They attract the attention of those nearby</li></ul>';

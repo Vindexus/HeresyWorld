@@ -1,0 +1,1 @@
+module.exports = '<p class="NoIndent>When you use Discern Realities on a crime scene and roll a 7+ you also find a clue of value to you. On a 10+ this clue gives you a hunch that the GM will describe.</p>';

@@ -1,0 +1,1 @@
+module.exports = 'When you <strong>listen closely to someone</strong> roll+WIS. On 7-9 the GM will tell you one thing they\'re lying about – if anything. On a 10+ the same and take +1 forward when acting on that information or against that person.';

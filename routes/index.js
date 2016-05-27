@@ -15,7 +15,7 @@ router.get('/:page', function(req, res, next) {
   renderParsedPage(pageFile, res, {title: req.params.page});
 });
 
-router.get('/', , function(req, res, next) {
+router.get('/', function(req, res, next) {
   var pageFile = path.join(__dirname + '/../parsed/web/introduction.html.html');
   renderParsedPage(pageFile, res, {title: 'Introduction'});
 });

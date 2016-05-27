@@ -1,5 +1,6 @@
 body {
-  padding-top: 51px;  
+  padding-top: 51px;
+  padding-bottom:  40px;
 }
 .text-center {
   padding-top: 20px;
@@ -57,3 +58,27 @@ body {
   }
 }
 
+h1, h2, h3 {
+  position: relative
+}
+
+h1 a.anchor-link,
+h2 a.anchor-link,
+h3 a.anchor-link {
+  font-size: 16px;
+  height: 20px;
+  margin-top: -10px;
+  top: 50%;
+  line-height: 20px;
+  position: absolute;
+  left: -25px;
+  text-align: center;
+  width: 30px;
+  opacity: 0;
+}
+
+h1:hover a.anchor-link,
+h2:hover a.anchor-link,
+h3:hover a.anchor-link {
+  opacity: 1;
+}

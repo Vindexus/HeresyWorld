@@ -1,11 +1,29 @@
 <h1 gamedata="classes.{{class}}.name"></h1>
 <div class="description" gamedata="classes.{{class}}.description"></div>
 
+<h2>Look</h2>
+<p>Choose one from each:</p>
+<loop items="classes.{{class}}.looks"><p>{{item}}</p></loop>
+
+<h2>Stats</h2>
+<p>Your maximum HP is <gamedata path="classes.{{class}}.starting_hp"></gamedata>+Constitution.<br />
+Your base damage is <gamedata path="classes.{{class}}.damage"></gamedata>.</p>
+
 <h2>Starting Moves</h2>
 <loop items="classes.{{class}}.starting_moves" glue="\n"><template type="move" move="{{item}}"></template></loop>
 
-<h2>Advanced Moves</h2>
-<loop items="classes.{{class}}.advanced_moves" glue="\n"><template type="move" move="{{item}}"></template></loop>
+<h2>Alignment</h2>
+<loop items="classes.{{class}}.alignments">
+<h3>{{item.name}}</h3>
+<p>{{item.description}}</p>
+</loop>
 
-<h2>Starting Gear</h2>
+<h2>Bonds</h2>
+<loop items="classes.{{class}}.bonds"><p>{{item}}</p></loop>
+
+<h2>Gear</h2>
+<p>Your load is <gamedata path="classes.{{class}}.load"></gamedata></p>
 <gamedata path="classes.{{class}}.starting_gear"></gamedata>
+
+<h2>Advanced Moves</h2>
+<loop items="classes.{{class}}.advanced_moves" glue="\n"><template type="move" move="{{item}}"></template> </loop>

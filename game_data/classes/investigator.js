@@ -4,7 +4,7 @@ module.exports = {
   damage: 'd6',
   looks: ['Distrusting eyes, kind eyes, tired eyes', 'Helmeted head, military cut, or bald', 'Plain clothes, worn outfit, or uniform', 'Thin body, fit body, flabby body'],
   starting_moves: ['i_am_justice', 'detective', 'confessor', 'take_them_alive'],
-  advanced_moves_1: ['this_ones_mine', 'targetted_investigation', 'your_eyes_betray_you', 'torturer', 'local_informant'],
+  advanced_moves: ['this_ones_mine', 'targeted_investigation', 'your_eyes_betray_you', 'torturer', 'local_informant'],
   alignments: {
     good: {
       name: 'Good',
@@ -26,9 +26,9 @@ module.exports = {
   ],
   description: '<p>Investigator is a detective. They\'ve got a nose for heresy.',
   starting_gear: '<p aid:pstyle="NoIndent">Your load is <gamedata path="classes.investigator.load"></gamedata>+STR. You start with <name item="rations"></name> and a <name item="stub_revolver"></name> (<loop items="items.stub_revolver.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>). Choose your melee weapon:</p>' +
-  '<ul aid:pstyle="OptionsList"><li><name item="warhammer"></name> (<loop items="items.warha.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li>' +
+  '<ul class="options-list"><li><name item="warhammer"></name> (<loop items="items.warhammer.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li>' +
   '<li><name item="shock_maul"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li></ul>' +
   '<p>Choose your armor:</p>' +
-  '<ul aid:pstyle="OptionsList"><li><name item="leather_armor"></name> (<tags path="items.leather_armor"></tags>) and a <name item="shield"></name> (<tags path="items.shield"></tags>)</li>' +
-  '<li><name item="flak_armor"></name> (<tags path="items.flak_armor"></tags>)</li></ul>'
+  '<ul aid:pstyle="OptionsList"><li><name item="leather_armor"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)and a <name item="shield"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li>' +
+  '<li><name item="flak_armor"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li></ul>'
 };

@@ -1,0 +1,2 @@
+module.exports = '<p>When you reach out to a local informant for specific information roll+Cha. On a 10+ you gain some intel and choose one. On a 7-9 the GM will also choose one:</p>'
+'<ul class="move-options"><li>Word comes slowly</li><li>The information is incomplete</li><li>You get two conflicting versions</li><li>Someone learns you\'re prying</li><li>Your informant demands something in return</li></ul>';

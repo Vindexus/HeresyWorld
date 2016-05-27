@@ -4,16 +4,18 @@ var gameDir = path.dirname(appDir);
 
 var rpgparser = require('rpgparser')({
   gameDataDir: gameDir + '/game_data',
-  pagesDir: gameDir + '/pages',
-  templatesDir: gameDir + '/templates',
+  pagesDir: appDir + '/pages',
+  templatesDir: appDir + '/templates',
   outputInDesignDir: gameDir + '/parsed/indesign',
   outputWebDir: gameDir + '/parsed/web', 
   simples: ['tags', 'external_skills', 'items'],
-  folders: ['classes', 'moves'],
+  folders: ['classes', 'moves', 'items'],
   classesToPstyle: {
     'noindent': 'NoIndent',
     'no-indent': 'NoIndent'
   }
 });
+
+console.log(rpgparser.gameData);
 
 module.exports = {};
