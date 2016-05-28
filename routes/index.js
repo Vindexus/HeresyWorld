@@ -12,7 +12,9 @@ function renderParsedPage(pageFile, res, params) {
 /* GET home page. */
 router.get('/:page', function(req, res, next) {
   var pageFile = path.join(__dirname + '/../parsed/web/' + req.params.page + '.html.html');
-  renderParsedPage(pageFile, res, {title: req.params.page});
+  var title = req.params.page.charAt(0).toUpperCase() + req.params.page.slice(1);;
+  
+  renderParsedPage(pageFile, res, {title: title});
 });
 
 router.get('/', function(req, res, next) {
