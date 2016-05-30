@@ -1,7 +1,7 @@
 {
   "main": "index.js",
   "scripts": {
-    "watch": "nodemon --watch node_modules/rpgparser/**.* --watch ../game_data --watch pages/**.* --watch templates/**.*"
+    "watch": "nodemon --watch ../game_data --watch ../pages/**.* --watch ../templates/**.* --watch index.js"
   },
   "dependencies": {
     "path": "^0.12.7",

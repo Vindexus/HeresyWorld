@@ -1,0 +1,11 @@
+<div class="move"><h3 id="__move__" class="MoveName"><a only-for="web" href="#__move__" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>{{{moves.__move__.name}}}</h3>
+{{#moves.__move__.requires_move}}
+<p class="requires">Requires: <name move="[moves.__move__.requires_move]"></name></p>
+{{/moves.__move__.requires_move}}
+{{#moves.__move__.replaces_move}}
+<p class="requires">Replaces: <name move="[moves.__move__.replaces_move]"></name></p>
+{{/moves.__move__.replaces_move}}
+{{#moves.__move__.requires}}
+<p class="requires">{{{moves.__move__.requires}}}</p>
+{{/moves.__move__.requires}}
+<div class="move-description"><gamedata path="moves.__move__.description"></gamedata></div></div></div>

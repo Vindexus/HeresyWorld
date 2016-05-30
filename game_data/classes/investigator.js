@@ -25,10 +25,10 @@ module.exports = {
     '<blank></blank> has helped me defeat a formidable foe, I should repay them in kind.'
   ],
   description: '<p>Investigator is a detective. They\'ve got a nose for heresy.',
-  starting_gear: '<p aid:pstyle="NoIndent">Your load is <gamedata path="classes.investigator.load"></gamedata>+STR. You start with <name item="rations"></name> and a <name item="stub_revolver"></name> (<loop items="items.stub_revolver.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>). Choose your melee weapon:</p>' +
-  '<ul class="options-list"><li><name item="warhammer"></name> (<loop items="items.warhammer.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li>' +
-  '<li><name item="shock_maul"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li></ul>' +
+  starting_gear: '<p class="NoIndent">Your load is <gamedata path="classes.investigator.load"></gamedata>+STR. You start with <name item="rations"></name> and a <name item="stub_revolver"></name> (<loop items="items.stub_revolver.tags" glue=", "><span class="tag" tag="__item__">__item__</span></loop>). Choose your melee weapon:</p>' +
+  '<ul class="options-list"><li><name item="warhammer"></name> (<loop items="items.warhammer.tags" glue=", "><span class="tag" tag="__item__">__item__</span></loop>)</li>' +
+  '<li><name item="shock_maul"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="__item__">__item__</span></loop>)</li></ul>' +
   '<p>Choose your armor:</p>' +
-  '<ul aid:pstyle="OptionsList"><li><name item="leather_armor"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)and a <name item="shield"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li>' +
-  '<li><name item="flak_armor"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="{{item}}">{{item}}</span></loop>)</li></ul>'
+  '<ul class="OptionsList"><li><name item="leather_armor"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="__item__">__item__</span></loop>)and a <name item="shield"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="__item__">__item__</span></loop>)</li>' +
+  '<li><name item="flak_armor"></name> (<loop items="items.shock_maul.tags" glue=", "><span class="tag" tag="__item__">__item__</span></loop>)</li></ul>'
 };

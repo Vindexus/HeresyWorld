@@ -1,0 +1,1 @@
+module.exports = 'You expertly wield your shield as part of your offense. Add your shield\'s armor to your melee damage.';

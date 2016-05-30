@@ -1,0 +1,1 @@
+module.exports = 'When your allies take cover behind your shield, they gain the armor benefit of your shield.';

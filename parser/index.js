@@ -4,18 +4,36 @@ var gameDir = path.dirname(appDir);
 
 var rpgparser = require('rpgparser')({
   gameDataDir: gameDir + '/game_data',
-  pagesDir: appDir + '/pages',
-  templatesDir: appDir + '/templates',
-  outputInDesignDir: gameDir + '/parsed/indesign',
-  outputWebDir: gameDir + '/parsed/web', 
+  pagesDir: gameDir + '/pages',
+  templatesDir: gameDir + '/templates',
   simples: ['tags', 'external_skills', 'items'],
   folders: ['classes', 'moves', 'items'],
-  classesToPstyle: {
-    'noindent': 'NoIndent',
-    'no-indent': 'NoIndent'
+  classToXml: {
+    'NoIndent': true,
+    'no-indent': 'NoIndent',
+    'MoveName': true,
+    'move-name': 'MoveName',
+    'move-options': 'MoveOptions',
+    'MoveOptions': true,
+    'requires': true,
+    'move-description': 'MoveDescription',
+    'move': true,
+    'ListOptions': true
   }
-});
+}, function () {
+  /*
+  rpgparser.parsePagesTo({
+    type: 'web',
+    extension: 'html',
+    to: gameDir + '/parsed/web'
+  });
+*/
 
-console.log(rpgparser.gameData);
+  rpgparser.parsePagesTo({
+    type: 'indesign',
+    extension: 'xml',
+    to: gameDir + '/parsed/indesign'
+  });
+});
 
 module.exports = {};

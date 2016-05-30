@@ -1,0 +1,1 @@
+module.exports = 'When you take damage you can choose to have your shield take the damage instead, destroying it.';
