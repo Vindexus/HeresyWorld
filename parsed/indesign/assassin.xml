@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<class>
+<h1>Assassin</h1>
+Assassin is sneaky and stabby or sneaky and shooty.
+
+<h2 id="stats">Look</h2>
+<p>Choose one from each:</p>
+
+
+<h2 id="stats">Stats</h2>
+<p>Your maximum HP is +Constitution.
+Your base damage is .</p>
+
+<h2 id="starting-moves">Starting Moves</h2>
+<move><movename>Unsuspecting Strike</movename>
+<movedescription><p>When you <strong>get close to your target to make a surprise attack</strong>, roll+DEX if you use stealth or speed, or roll+CHA if you use deception or charm.
+On a 10+ choose two.
+On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li><li>You deal your damage+1d6</li><li>You create an advantage, +1 forward to you or an ally acting on it</li><li>Reduce their armor by 1 until they repair it</li></moveoptions></movedescription></move>
+<move><movename>Dual Wield</movename>
+<movedescription><noindent>When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</noindent></movedescription></move>
+
+<h2 id="alignment">Alignment</h2>
+
+
+<h2 id="bonds">Bonds</h2>
+
+
+<h2 id="gear">Gear</h2>
+<p>Your load is .</p>
+
+
+<h2 id="advanced_moves">Advanced Moves</h2>
+
+</class>

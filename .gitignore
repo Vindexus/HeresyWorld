@@ -2,3 +2,4 @@ parser/node_modules
 pages_backup
 node_modules
 old_md
+indesign/**/*.idlk

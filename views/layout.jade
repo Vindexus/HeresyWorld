@@ -27,12 +27,14 @@ html
               li
                 a(href='/classes') Classes
                 ul.nav
-                  li
-                    a(href='/investigator') Investigator
-                  li
-                    a(href='/warrior') Warrior
-                  li
-                    a(href='/assassin') Assassin
+                  each c in gameData.classes
+                    li
+                      a(href='/class/' + c.key)= gameData.classes[c.key].name
+                      if activeClass == c.key
+                        ul.nav
+                          each item in subMenu
+                            li
+                              a(href=item.url)= item.label
           // main area
           .col-xs-12.col-sm-9
             block content

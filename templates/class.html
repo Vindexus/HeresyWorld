@@ -2,30 +2,30 @@
 <h1>{{{classes.__class__.name}}}</h1>
 {{{classes.__class__.description}}}
 
-<h2>Look</h2>
+<h2 id="stats"><a only-for="web" href="#stats" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Look</h2>
 <p>Choose one from each:</p>
 <loop items="classes.__class__.looks"><p>__item__</p></loop>
 
-<h2>Stats</h2>
+<h2 id="stats"><a only-for="web" href="#stats" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Stats</h2>
 <p>Your maximum HP is {{{classes.__class__.starting_hp}}}+Constitution.<br />
 Your base damage is {{{classes.__class__.damage}}}.</p>
 
-<h2>Starting Moves</h2>
+<h2 id="starting-moves"><a only-for="web" href="#starting-moves" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Starting Moves</h2>
 <loop items="classes.__class__.starting_moves" glue="\n"><template type="move" move="__item__"></template></loop>
 
-<h2>Alignment</h2>
+<h2 id="alignment"><a only-for="web" href="#alignment" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Alignment</h2>
 <loop items="classes.__class__.alignments">
 <h3>__item.name__</h3>
 <p>__item.description__</p>
 </loop>
 
-<h2>Bonds</h2>
+<h2 id="bonds"><a only-for="web" href="#bonds" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Bonds</h2>
 <loop items="classes.__class__.bonds"><p>__item__</p></loop>
 
-<h2>Gear</h2>
+<h2 id="gear"><a only-for="web" href="#gear" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Gear</h2>
 <p>Your load is {{{classes.__class__.load}}}.</p>
 <gamedata path="classes.__class__.starting_gear"></gamedata>
 
-<h2>Advanced Moves</h2>
+<h2 id="advanced_moves"><a only-for="web" href="#advanced_moves" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Advanced Moves</h2>
 <loop items="classes.__class__.advanced_moves" glue="\n"><template type="move" move="__item__"></template></loop>
 </class>

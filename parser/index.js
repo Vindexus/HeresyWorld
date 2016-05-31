@@ -6,7 +6,7 @@ var rpgparser = require('rpgparser')({
   gameDataDir: gameDir + '/game_data',
   pagesDir: gameDir + '/pages',
   templatesDir: gameDir + '/templates',
-  simples: ['tags', 'external_skills', 'items'],
+  simples: ['tags', 'external_skills', 'items', 'misc'],
   folders: ['classes', 'moves', 'items'],
   classToXml: {
     'NoIndent': true,
@@ -19,15 +19,14 @@ var rpgparser = require('rpgparser')({
     'move-description': 'MoveDescription',
     'move': true,
     'ListOptions': true
-  }
+  },
+  saveGameDataTo: gameDir + '/gamedata.json'
 }, function () {
-  /*
   rpgparser.parsePagesTo({
     type: 'web',
     extension: 'html',
     to: gameDir + '/parsed/web'
   });
-*/
 
   rpgparser.parsePagesTo({
     type: 'indesign',

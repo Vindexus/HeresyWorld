@@ -16,7 +16,7 @@ body {
 #sidebar .nav {
   width: 95%;
 }
-#sidebar li {
+#sidebar li a {
   border:0 #f2f2f2 solid;
   border-bottom-width:1px;
 }
@@ -24,6 +24,16 @@ body {
 #sidebar li li a {
   padding-left: 25px;
 }
+
+#sidebar li li li a {
+  padding: 8px 12px 8px 30px;
+  font-size: 0.8em;
+  color: #555;
+}
+#sidebar li li li a:hover {
+  color: #333;
+}
+
 
 /* collapsed sidebar styles */
 @media screen and (max-width: 767px) {
