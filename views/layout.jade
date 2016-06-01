@@ -3,7 +3,7 @@ html
   head
     title
       = title
-      | - Heresy World
+      |  - Heresy World
     link(href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css", rel="stylesheet", integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7", crossorigin="anonymous")
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
@@ -26,15 +26,16 @@ html
                 a(href='/') Introduction
               li
                 a(href='/classes') Classes
-                ul.nav
-                  each c in gameData.classes
-                    li
-                      a(href='/class/' + c.key)= gameData.classes[c.key].name
-                      if activeClass == c.key
-                        ul.nav
-                          each item in subMenu
-                            li
-                              a(href=item.url)= item.label
+                if gameData
+                  ul.nav
+                    each c in gameData.classes
+                      li
+                        a(href='/class/' + c.key)= gameData.classes[c.key].name
+                        if activeClass == c.key
+                          ul.nav
+                            each item in subMenu
+                              li
+                                a(href=item.url)= item.label
           // main area
           .col-xs-12.col-sm-9
             block content

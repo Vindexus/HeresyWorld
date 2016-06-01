@@ -8,11 +8,11 @@ function renderParsedPage(pageFile, res, params) {
   var html = fs.readFileSync(pageFile)
   params.html = html;
   params.gameData = gameData;
+  console.log('RENDER PARSED PAGE');
   res.render('index', params);
 }
 
 router.get('/class/:class', function(req, res, next) {
-  console.log('req.params', req.params);
   var cl = gameData.classes[req.params.class];
   var pageFile = path.join(__dirname + '/../parsed/web/' + req.params.class + '.html');
   var title = cl.name;
@@ -46,7 +46,7 @@ router.get('/:page', function(req, res, next) {
 
 router.get('/', function(req, res, next) {
   var pageFile = path.join(__dirname + '/../parsed/web/introduction.html');
-  renderParsedPage(pageFile, res, {title: 'Introduction'});
+  renderParsedPage(pageFile, res, {title: 'Introduction', gameData: {}});
 });
 
 module.exports = router;
