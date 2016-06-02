@@ -34,12 +34,29 @@ router.get('/class/:class', function(req, res, next) {
 });
 
 router.get('/moves/:type', function(req, res, next) {
+  var list = gameData.misc[req.params.type + '_moves'];
+  var pageFile = path.join(__dirname + '/../parsed/web/' + req.params.type + '_moves.html');
+  var title = req.params.type.charAt(0).toUpperCase() + req.params.type.slice(1) + ' Moves';
 
+  /*
+  var subMenu = [];
+  var moveLists = ['starting_moves', 'advanced_moves'];
+
+  for(var i = 0; i < list.length; i++) {
+    var move = gameData.moves[list[i]];
+    subMenu.push({
+      url: '/moves/' + req.params.type + '#' + move.key,
+      label: move.name
+    }) 
+  }
+  */
+
+  renderParsedPage(pageFile, res, {activeMoves: req.params.type, title: title});  
 });
 
 router.get('/:page', function(req, res, next) {
   var pageFile = path.join(__dirname + '/../parsed/web/' + req.params.page + '.html');
-  var title = req.params.page.charAt(0).toUpperCase() + req.params.page.slice(1);;
+  var title = req.params.page.charAt(0).toUpperCase() + req.params.page.slice(1);
   
   renderParsedPage(pageFile, res, {title: title});
 });

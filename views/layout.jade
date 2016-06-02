@@ -36,6 +36,18 @@ html
                             each item in subMenu
                               li
                                 a(href=item.url)= item.label
+              each l in ['Basic', 'Special', 'Advanced']
+                li
+                  a(href='/moves/' + l.toLowerCase())= l + " Moves"
+                  if gameData && activeMoves && activeMoves == l.toLowerCase()
+                    ul.nav
+                      each m in gameData.misc[l.toLowerCase() + '_moves']
+                        if gameData.moves[m]
+                          li
+                            a(href='/moves/' + l.toLowerCase() + '#' + gameData.moves[m].key)= gameData.moves[m].name
+                        else
+                          //Cannot find #{m}
+
           // main area
           .col-xs-12.col-sm-9
             block content
