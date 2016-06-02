@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<class>
+<Root><class>
 <h1>Investigator</h1>
 <p>Investigator is a detective. They've got a nose for heresy.
 
@@ -51,4 +51,4 @@ Your base damage is d6.</p>
 <movedescription>When you roll a 7+ with Confessor you may choose to select zero options from the list. If you do so, roll+Int – on a 6- your captive dies.</movedescription></move>
 <move><movename>Local Informant</movename>
 <movedescription><p>When you reach out to a local informant for specific information roll+Cha. On a 10+ you gain some intel and choose one. On a 7-9 the GM will also choose one:</p></movedescription></move>
-</class>
+</class></Root>

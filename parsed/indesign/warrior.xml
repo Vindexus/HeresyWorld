@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<class>
+<Root><class>
 <h1>Warrior</h1>
 TODO: Warrior description
 
@@ -38,4 +38,4 @@ Your base damage is d8.</p>
 <h2 id="advanced_moves">Advanced Moves</h2>
 <move><movename>Charge</movename>
 <movedescription>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</movedescription></move>
-</class>
+</class></Root>

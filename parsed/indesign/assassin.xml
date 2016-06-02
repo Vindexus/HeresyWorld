@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<class>
+<Root><class>
 <h1>Assassin</h1>
 Assassin is sneaky and stabby or sneaky and shooty.
 
@@ -31,4 +31,4 @@ On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li>
 
 <h2 id="advanced_moves">Advanced Moves</h2>
 
-</class>
+</class></Root>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<h1>What is Heresy World?</h1>
+<Root><h1>What is Heresy World?</h1>
 <p>Heresy World is a pen and paper role playing game expansion for Dungeon World, where players act as Acolytes of an Inquisitor in the universe of Warhammer 40,000.</p>
 
 <h2>What do I need to know before playing?</h2>
@@ -30,4 +30,4 @@
 <li>New equipment tags and types of gear have been added</li>
 <li>Ancient artefact examples are available</li>
 <li>The GM's Agenda has been changed slightly to fit the grim dark setting</li>
-<li>New moves are available to the GM to mutate, terrify, and traumatize the characters</li></ul></li>
+<li>New moves are available to the GM to mutate, terrify, and traumatize the characters</li></ul></li></Root>
