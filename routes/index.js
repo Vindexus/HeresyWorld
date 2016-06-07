@@ -54,6 +54,11 @@ router.get('/moves/:type', function(req, res, next) {
   renderParsedPage(pageFile, res, {activeMoves: req.params.type, title: title});  
 });
 
+router.get('/character-creation', function(req, res, next) {
+  var pageFile = path.join(__dirname + '/../parsed/web/character_creation.html');
+  renderParsedPage(pageFile, res, {title: 'Character Creation'});
+});
+
 router.get('/:page', function(req, res, next) {
   var pageFile = path.join(__dirname + '/../parsed/web/' + req.params.page + '.html');
   var title = req.params.page.charAt(0).toUpperCase() + req.params.page.slice(1);

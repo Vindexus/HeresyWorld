@@ -1,0 +1,3 @@
+module.exports = '<p class="no-indent">When you <strong>prime and throw a grenade</strong>, roll+DEX. On a 10+, the grenade lands where you aimed. On a 7-9 choose one:</p>' + 
+'<ul>\n<li>The grenade lands where you aimed but you have to move to make the throw placing you or someone else in danger as described by the GM</li>' +
+'\n<li>The grenade only lands near where you aimed, for a reduced or unexpected effect as described by the GM</li></ul>';
