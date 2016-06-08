@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root><h1>Assassin</h1>
+<div>Assassin is sneaky and stabby or sneaky and shooty.</div>
+
+<h2>Starting Moves</h2>
+<h2 id="unsuspecting_strike"><a href="#unsuspecting_strike">Unsuspecting Strike</a></h2>
+
+
+
+<p>When you <strong>get close to your target to make a surprise attack</strong>, roll+DEX if you use stealth or speed, or roll+CHA if you use deception or charm.
+On a 10+ choose two.
+On a 7-9 choose one.</p><ul aid:pstyle="MoveOptions"><li>You don't get into melee with them</li><li>You deal your damage+1d6</li><li>You create an advantage, +1 forward to you or an ally acting on it</li><li>Reduce their armor by 1 until they repair it</li></ul>
+<h2 id="dual_wield"><a href="#dual_wield">Dual Wield</a></h2>
+
+
+
+<p aid:pstyle="NoIndent">When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</p>
+
+<h2>Advanced Moves</h2>
+
+
+<h2>Starting Gear</h2>
+</Root>

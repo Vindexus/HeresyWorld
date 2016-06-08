@@ -25,6 +25,8 @@ html
               li
                 a(href='/') Introduction
               li
+                a(href='/character-creation') Character Creation
+              li
                 a(href='/classes') Classes
                 if gameData
                   ul.nav
@@ -47,7 +49,10 @@ html
                             a(href='/moves/' + l.toLowerCase() + '#' + gameData.moves[m].key)= gameData.moves[m].name
                         else
                           //Cannot find #{m}
-
+              li
+                a(href='/equipment') Equipment
+              li
+                a(href='/the-gm') The GM
           // main area
           .col-xs-12.col-sm-9
             block content

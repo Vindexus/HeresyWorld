@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root><h1>Warrior</h1>
+<div>TODO: Warrior description</div>
+
+<h2>Starting Moves</h2>
+<h2 id="grab_grenade"><a href="#grab_grenade">Grab Grenade</a></h2>
+
+
+
+<p>When you <strong>search your belt for a suitable grenade</strong> roll+WIS. Expend one use of your Grenade Belt and choose a grenade from this list:</p><ul><li>Frag Grenade</li><li>Fire Bomb</li><li>Stun Grenade</li><li>Smoke Grenade</li><li>Krak Grenade</li></ul><p>On a 10+ you also take +1 forward to Throw Grenade.<br>On a 6- the GM will offer you a different grenade, or the one you were searching for at a cost.</p>
+<h2 id="explosives_expert"><a href="#explosives_expert">Explosives Expert</a></h2>
+
+
+
+<p>When you <strong>set up a triggered explosive</strong> say what materials on hand you're using and choose your trigger: timed, remote, proximity, thrown, etc. Roll+INT, on a 10+ the explosive works as intended. On a 7-9 choose 1, and on a 6- choose 2:</p><ul><li>It takes a bit longer to set up</li><li>You need to something extra to get it to work, the GM will tell you what</li><li>It will go off a little late (or a little early)</li><li>It isn't as powerful as you wanted</li></ul>
+<h2 id="first_hand_experience"><a href="#first_hand_experience">First Hand Experience</a></h2>
+
+
+
+<p>Your time with the Guard had you fighting a particular type of enemy of the Imperium - gain +1 to Spout Lore rolls that deal with them. Choose the type of enemy:</p><ul><li>Mutants</li><li>Xenos</li><li>Chaos</li><li>Psykers</li></ul>
+
+<h2>Advanced Moves</h2>
+<h2 id="charge"><a href="#charge">Charge</a></h2>
+
+
+
+When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.
+
+<h2>Starting Gear</h2>
+<p>You get nothing.</p></Root>

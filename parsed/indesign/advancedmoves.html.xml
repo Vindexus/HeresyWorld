@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root><story>
+<h2 id="mighty_shot"><a href="#mighty_shot">Mighty Shot</a></h2>
+
+
+
+<p aid:pstyle="NoIndent">You are able to see the weak points in any target, add your DEX to your damage when using ranged weapons.</p>
+<h2 id="parry"><a href="#parry">Parry</a></h2>
+
+
+
+<p aid:pstyle="NoIndent">When you <strong>use your weapon to deflect an incoming melee attack</strong>, take +1 to Defy Danger. On a 10+ deal your level in damage to your attacker.</p>
+<h2 id="counter_attack"><a href="#counter_attack">Counter Attack</a></h2>
+<p>Requires: Parry</p>
+
+
+<p>When you Defy Danger with Parry, take +1 forward to Hack and Slash against your attacker.</p>
+<h2 id="hatred"><a href="#hatred">Hatred</a></h2>
+
+<p>Replaces: Crushing Blow</p>
+
+<p aid:pstyle="NoIndent">Your hatred for a particular enemy of the Imperium runs deep. Each time you take this move, select one of the groups below and describe how your hatred took root. You take +1d4 damage ongoing against them.</p><ul><li><blank></blank> Xenos</li><li><blank></blank> Criminals</li><li><blank></blank> Daemons</li><li><blank></blank> Psykers</li><li><blank></blank> Mutants</li></ul>
+<h2 id="crushing_blow"><a href="#crushing_blow">Crushing Blow</a></h2>
+
+
+
+<p aid:pstyle="NoIndent">Your attacks strike with resounding force, add your STR to your damage when using melee weapons.</p>
+<h2 id="dual_wield"><a href="#dual_wield">Dual Wield</a></h2>
+
+
+
+<p aid:pstyle="NoIndent">When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</p>
+<h2 id="gunslinger"><a href="#gunslinger">Gunslinger</a></h2>
+
+
+
+<p aid:pstyle="NoIndent">When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks.</p>
+<h2 id="medicae_training"><a href="#medicae_training">Medicae Training</a></h2>
+
+
+
+<p aid:pstyle="NoIndentPreList">When you <strong aid:cstyle="strong">use medical supplies (bandages, medicae kits, etc) to tend to someone's wounds</strong>, use the item as normal and roll+INT. On a 10+ choose two, on a 7-9 choose one:</p><ul aid:pstyle="OptionsList"><li>Heal for an extra 1d6</li><li>Don't mark off a use of the supply</li><li>It takes half the time</li><li aid:pstyle="LastListItem">You remove a debility</li></ul><p aid:pstyle="NoIndentPreList">On a 6- you might:</p><ul aid:pstyle="OptionsList"><li>Mark off an extra use of the supply</li><li>Heal for half the value, rounded down</li><li aid:pstyle="LastListItem">Take longer</li></ul>
+<h2 id="rapid_reload"><a href="#rapid_reload">Rapid Reload</a></h2>
+<p>Requires: Hatred</p>
+
+
+<p aid:pstyle="NoIndent">When you <strong>attempt to reload quickly roll+DEX</strong>. On a 10+ you reload your weapon instantly - reset its uses and reduce your ammo by one. On a 7-9 the same in addition to what that the GM says. On a 6- you fumble your reload.</p>
+<h2 id="unsuspecting_strike"><a href="#unsuspecting_strike">Unsuspecting Strike</a></h2>
+
+
+
+<p>When you <strong>get close to your target to make a surprise attack</strong>, roll+DEX if you use stealth or speed, or roll+CHA if you use deception or charm.
+On a 10+ choose two.
+On a 7-9 choose one.</p><ul aid:pstyle="MoveOptions"><li>You don't get into melee with them</li><li>You deal your damage+1d6</li><li>You create an advantage, +1 forward to you or an ally acting on it</li><li>Reduce their armor by 1 until they repair it</li></ul></story>
+</Root>
