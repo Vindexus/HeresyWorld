@@ -13,13 +13,28 @@ body {
   padding-right: 0;
   padding-top: 20px;
 }
-#sidebar .nav {
-  width: 95%;
-}
 #sidebar li a {
   border:0 #f2f2f2 solid;
   border-bottom-width:1px;
   font-weight: bold;
+}
+
+#sidebar li.active ul {
+  display: block;
+}
+
+#sidebar li li ul {
+  display: none;
+}
+
+#sidebar li.active > a {
+  background: #337ab7;
+  color: #fff;
+}
+
+#sidebar li.active > a:hover {
+  background: #337ab7;
+  color: #ffffff;
 }
 
 #sidebar li li a {
@@ -105,4 +120,9 @@ h1:hover a.anchor-link,
 h2:hover a.anchor-link,
 h3:hover a.anchor-link {
   opacity: 1;
+}
+
+.first-person {
+  font-style: italic;
+  font-size: 1.1em;
 }

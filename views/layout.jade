@@ -21,38 +21,50 @@ html
         .row.row-offcanvas.row-offcanvas-left
           // sidebar
           #sidebar.col-xs-6.col-sm-3.sidebar-offcanvas(role='navigation')
-            ul.nav
-              li
-                a(href='/') Introduction
-              li
-                a(href='/character-creation') Character Creation
-              li
-                a(href='/classes') Classes
-                if gameData
-                  ul.nav
-                    each c in gameData.classes
-                      li
-                        a(href='/class/' + c.key)= gameData.classes[c.key].name
-                        if activeClass == c.key
-                          ul.nav
-                            each item in subMenu
-                              li
-                                a(href=item.url)= item.label
-              each l in ['Basic', 'Special', 'Advanced']
+            mixin menu(menu)
+              if menu
+                ul.nav
+                  each item in menu              
+                    li(class=(item.active ? 'active' : ''))
+                      a(href="#{item.href}")= item.name
+                      if !!item.subMenuList
+                        +menu(item.subMenuList)
+            +menu(menuItemsList)
+
+
+
+              //-
                 li
-                  a(href='/moves/' + l.toLowerCase())= l + " Moves"
-                  if gameData && activeMoves && activeMoves == l.toLowerCase()
+                  a(href='/') Introduction
+                li
+                  a(href='/character-creation') Character Creation
+                li
+                  a(href='/classes') Classes
+                  if gameData
                     ul.nav
-                      each m in gameData.misc[l.toLowerCase() + '_moves']
-                        if gameData.moves[m]
-                          li
-                            a(href='/moves/' + l.toLowerCase() + '#' + gameData.moves[m].key)= gameData.moves[m].name
-                        else
-                          //Cannot find #{m}
-              li
-                a(href='/equipment') Equipment
-              li
-                a(href='/the-gm') The GM
+                      each c in gameData.classes
+                        li
+                          a(href='/class/' + c.key)= gameData.classes[c.key].name
+                          if activeClass == c.key
+                            ul.nav
+                              each item in subMenu
+                                li
+                                  a(href=item.url)= item.label
+                each l in ['Basic', 'Special', 'Advanced']
+                  li
+                    a(href='/moves/' + l.toLowerCase())= l + " Moves"
+                    if gameData && activeMoves && activeMoves == l.toLowerCase()
+                      ul.nav
+                        each m in gameData.misc[l.toLowerCase() + '_moves']
+                          if gameData.moves[m]
+                            li
+                              a(href='/moves/' + l.toLowerCase() + '#' + gameData.moves[m].key)= gameData.moves[m].name
+                          else
+                            //Cannot find #{m}
+                li
+                  a(href='/equipment') Equipment
+                li
+                  a(href='/the-gm') The GM
           // main area
           .col-xs-12.col-sm-9
             block content
