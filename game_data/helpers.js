@@ -3,5 +3,5 @@ module.exports = function (Handlebars, gameData) {
   if(!tags) {
     return ''
   }
-  return tags.join(", ");
+  return new Handlebars.SafeString('<em class="tags">' + tags.join(", ") + '</em>');
 });};
