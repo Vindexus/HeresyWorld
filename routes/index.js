@@ -29,17 +29,28 @@ var menuItems = {
       }
     }
   },
+  'basic-moves': {
+    name: 'Basic Moves'
+  },
+  'special-moves': {
+    name: 'Special Moves'
+  },
+  'advanced-moves': {
+    name: 'Advanced Moves'
+  },
   equipment: {},
   'the-gm': {
     name: 'The GM'
   }
 }
+var menuItemsList = []
 
 function getMenuMapList (menuMap, activeItems) {
   var list = [];
   for(var i in menuMap) {
     menuMap[i].href = menuMap[i].href || '/' + i;
     menuMap[i].name = menuMap[i].name || i.toUpperCase().split("")[0] + i.substr(1).toLowerCase();
+    menuMap[i].file = menuMap[i].file || i.replace('-', '_');
     menuMap[i].active = activeItems.indexOf(i) >= 0
 
     if(typeof menuMap[i].subMenu == 'object') {
@@ -66,6 +77,8 @@ function renderParsedPage(res, params) {
   params.menuItemsList = getMenuMapList(menuItems, params.activeMenuItem);
   res.render('index', params);
 }
+
+menuItemsList = getMenuMapList(menuItems, []);
 
 router.get('/classes/:class', function(req, res, next) {
   var cl = gameData.classes[req.params.class];
@@ -107,6 +120,8 @@ router.get('/moves/:type', function(req, res, next) {
   renderParsedPage(res, {title: title, activeMenuItem: req.params.type + '_moves', file: req.params.type + '_moves', subMenu: subMenu});  
 });
 
+/**
+
 router.get('/character-creation', function(req, res, next) {
   renderParsedPage(res, {title: 'Character Creation', activeMenuItem: 'character-creation', file: 'character_creation'});
 });
@@ -117,6 +132,14 @@ router.get('/equipment', function(req, res, next) {
 
 router.get('/classes', function(req, res, next) {
   renderParsedPage(res, {title: 'Classes', file: 'classes', activeMenuItem: 'classes'});
+});
+
+/**/
+
+
+router.get('/:page', function(req, res, next) {
+  var page = menuItems[req.params.page];
+  renderParsedPage(res, {title: page.name, file: page.file, activeMenuItem: req.params.page});
 });
 
 router.get('/', function(req, res, next) {

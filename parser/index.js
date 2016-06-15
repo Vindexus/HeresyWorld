@@ -9,7 +9,7 @@ var rpgparser = require('rpgparser')({
   helpersFile: gameDir + '/game_data/helpers',
   simples: ['tags', 'external_skills', 'misc'],
   folders: ['classes', 'moves', 'equipment'],
-  pages: ['equipment.html'],
+  //pages: ['equipment.html'],
   classToXml: {
     'NoIndent': true,
     'no-indent': 'NoIndent',
