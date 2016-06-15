@@ -1,4 +1,4 @@
 module.exports = {
   description: 'Used where violence is inevitable.',
-  tags: ['2 armor', '2 weight']
+  tags: ['2 armor', '2 weight', '50 thrones', 'worn']
 }

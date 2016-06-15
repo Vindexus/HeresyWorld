@@ -1,5 +1,5 @@
 var tags = require('./leather_armor_tags')
 module.exports = {
-  description: 'Simple leather armor.',
+  name: 'Leather Armor, Chainmail',
   tags: tags
 }

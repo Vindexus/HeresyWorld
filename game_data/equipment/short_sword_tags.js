@@ -1,0 +1,1 @@
+module.exports = 'close, 8 thrones, 1 weight'.split(', ');

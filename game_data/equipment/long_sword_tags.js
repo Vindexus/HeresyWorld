@@ -1,0 +1,1 @@
+module.exports = 'close, +1 damage, 15 thrones, 2 weight'.split(', ')
