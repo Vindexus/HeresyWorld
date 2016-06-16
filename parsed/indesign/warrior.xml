@@ -13,11 +13,14 @@ Your base damage is d8.</p>
 
 <h2 id="starting-moves">Starting Moves</h2>
 <move><movename>Grab Grenade</movename>
-<movedescription><noindent>When you <strong>search your belt for a suitable grenade</strong> roll+WIS. Expend one use of your Grenade Belt and choose a grenade from this list:</noindent><moveoptions><li>Frag Grenade</li><li>Fire Bomb</li><li>Stun Grenade</li><li>Smoke Grenade</li><li>Krak Grenade</li></moveoptions><p>On a 10+ you also take +1 forward to Throw Grenade.On a 6- the GM will offer you a different grenade, or the one you were searching for at a cost.</p></movedescription></move>
+<movedescription><noindent>When you <strong>search your belt for a suitable grenade</strong> roll+WIS. Expend one use of your Grenade Belt and choose a grenade from this list:</noindent><moveoptions><li>Frag Grenade</li><li>Fire Bomb</li><li>Stun Grenade</li><li>Smoke Grenade</li><li>Krak Grenade</li></moveoptions><p>On a 10+ you also take +1 forward to Throw Grenade.On a 6- the GM will offer you a different grenade, or the one you were searching for at a cost.</p></movedescription>
+</move>
 <move><movename>Explosives Expert</movename>
-<movedescription><noindent>When you <strong>set up a triggered explosive</strong> say what materials on hand you're using and choose your trigger: timed, remote, proximity, thrown, etc. Roll+INT, on a 10+ the explosive works as intended. On a 7-9 choose 1, and on a 6- choose 2:</noindent><ul><li>It takes a bit longer to set up</li><li>You need to something extra to get it to work, the GM will tell you what</li><li>It will go off a little late (or a little early)</li><li>It isn't as powerful as you wanted</li></ul></movedescription></move>
+<movedescription><noindent>When you <strong>set up a triggered explosive</strong> say what materials on hand you're using and choose your trigger: timed, remote, proximity, thrown, etc. Roll+INT, on a 10+ the explosive works as intended. On a 7-9 choose 1, and on a 6- choose 2:</noindent><ul><li>It takes a bit longer to set up</li><li>You need to something extra to get it to work, the GM will tell you what</li><li>It will go off a little late (or a little early)</li><li>It isn't as powerful as you wanted</li></ul></movedescription>
+</move>
 <move><movename>First Hand Experience</movename>
-<movedescription><p>Your time with the Guard had you fighting a particular type of enemy of the Imperium - gain +1 to Spout Lore rolls that deal with them. Choose the type of enemy:</p><moveoptions><li>Mutants</li><li>Xenos</li><li>Chaos</li><li>Psykers</li></moveoptions></movedescription></move>
+<movedescription><p>Your time with the Guard had you fighting a particular type of enemy of the Imperium - gain +1 to Spout Lore rolls that deal with them. Choose the type of enemy:</p><moveoptions><li>Mutants</li><li>Xenos</li><li>Chaos</li><li>Psykers</li></moveoptions></movedescription>
+</move>
 
 <h2 id="alignment">Alignment</h2>
 
@@ -37,5 +40,6 @@ Your base damage is d8.</p>
 
 <h2 id="advanced_moves">Advanced Moves</h2>
 <move><movename>Charge</movename>
-<movedescription>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</movedescription></move>
+<movedescription>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</movedescription>
+</move>
 </class></Root>

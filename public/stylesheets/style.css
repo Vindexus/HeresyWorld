@@ -1,5 +1,4 @@
 body {
-  padding-top: 51px;
   padding-bottom:  40px;
 }
 .text-center {
@@ -8,92 +7,70 @@ body {
 .col-xs-12 {
   background-color: #fff;
 }
-#sidebar {
+#nav .branding {
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 18px;
+}
+#nav {
   height: 100%;
   padding-right: 0;
   padding-top: 20px;
 }
-#sidebar li a {
+#nav li a {
   border:0 #f2f2f2 solid;
   border-bottom-width:1px;
   font-weight: bold;
 }
 
-#sidebar li.active ul {
+#nav li.active ul {
   display: block;
 }
 
-#sidebar li li ul {
+#nav li li ul {
   display: none;
 }
 
-#sidebar li.active > a {
+#nav li.active > a {
   background: #337ab7;
   color: #fff;
 }
 
-#sidebar li.active > a:hover {
+#nav li.active > a:hover {
   background: #337ab7;
   color: #ffffff;
 }
 
-#sidebar li li a {
+#nav li li a {
   padding-left: 25px;
   font-size: 0.9em;
   font-weight: normal;
 }
 
-#sidebar li li li a {
+#nav li li li a {
   padding: 8px 12px 8px 30px;
   font-size: 0.8em;
   color: #555;
   font-weight: normal;
 }
 
-#sidebar li li li a:hover {
+#nav li li li a:hover {
   color: #333;
 }
 
-/* collapsed sidebar styles */
-@media screen and (max-width: 767px) {
-  .row-offcanvas {
-    position: relative;
-    -webkit-transition: all 0.25s ease-out;
-    -moz-transition: all 0.25s ease-out;
-    transition: all 0.25s ease-out;
-  }
-  .row-offcanvas-right
-  .sidebar-offcanvas {
-    right: -41.6%;
-  }
 
-  .row-offcanvas-left
-  .sidebar-offcanvas {
-    left: -41.6%;
-  }
-  .row-offcanvas-right.active {
-    right: 41.6%;
-  }
-  .row-offcanvas-left.active {
-    left: 41.6%;
-  }
-  .sidebar-offcanvas {
-    position: absolute;
-    top: 0;
-    width: 41.6%;
-  }
-  #sidebar {
-    padding-top:0;
-  }
-
-  .container {
-    width: 100%;
+@media screen and (min-width: 768px) {
+  #navx {
+    width: 200px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
   }
 }
 
-@media screen and (min-width: 768px) {
+@media (min-width: 1200px) {
   .container {
-    width: 100%;
+    width: 970px;
   }
 }
 
@@ -125,4 +102,10 @@ h3:hover a.anchor-link {
 .first-person {
   font-style: italic;
   font-size: 1.1em;
+}
+
+.move-description {
+  padding-left: 10px;
+  border-left: 3px solid #666;
+  color: #777;
 }

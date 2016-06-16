@@ -7,7 +7,7 @@ var rpgparser = require('rpgparser')({
   pagesDir: gameDir + '/pages',
   templatesDir: gameDir + '/templates',
   helpersFile: gameDir + '/game_data/helpers',
-  simples: ['tags', 'external_skills', 'misc'],
+  simples: ['tags', 'external_skills', 'misc', 'home_worlds'],
   folders: ['classes', 'moves', 'equipment'],
   //pages: ['equipment.html'],
   classToXml: {

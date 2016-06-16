@@ -22,7 +22,7 @@
 
 <p>Select a name for your character. Make something up on your own or roll on the tables below to inspire you.</p>
 
-<table><thead>
+<table class="table table-striped"><thead>
 <tr>
 <th align="left">d8</th>
 <th align="left">Male</th>
@@ -98,26 +98,12 @@
 
 <p>Where you were born shapes a lot of the things about you. Select a home world and apply the related stat bonuses and penalties to your character. Each home world also has a small move associated with it.</p>
 
-<h3>Death World</h3>
-<p>Death World characters gain +1 on all Last Breath rolls.</p>
-
-<h3>Feral World</h3>
-<p>Feral World characters +1 piercing when using primitive weapons.</p>
-
-<h3>Forge World</h3>
-<p>Forge World characters replace one of their d6s with a d8 when rolling Tech-Use.</p>
-
-<h3>Highborn</h3>
-<p>Highborn characters gain +1 to any Defy Danger or Parley rolls that involve talking to members of the Imperium.</p>
-
-<h3>Hive World</h3>
-<p>Hive World characters gain +1 to any Defy Danger rolls when moving through crowds.</p>
-
-<h3>Shrine World</h3>
-<p>Shrine World characters can reroll any double 1s result once per session.</p>
-
-<h3>Voidborn</h3>
-<p>Voidborn gain +1 to any rolls to resist warp energy.</p>
+{{#each home_worlds}}
+<h3>{{name}}</h3>
+<p>{{description}}</p>
+<p><strong>World Move:</strong> {{move}}</p>
+<p><strong>Bonus:</strong> {{bonus}}</p>
+{{/each}}
 
 <p class="first-person">I like the idea of being from a lone church on a backwater planet with little technology, so I'm going to pick Feral World.</p>
 
@@ -125,7 +111,7 @@
 
 <p>Next you need to figure out the modifiers for your stats. The modifiers are what you use when a move says +DEX or +CHA. If you're using the standard character sheets the modifiers are already listed with each score.</p>
 
-<table><thead>
+<table class="table table-striped"><thead>
 <tr>
 <th align="left">Stat</th>
 <th align="left">Modifier</th>

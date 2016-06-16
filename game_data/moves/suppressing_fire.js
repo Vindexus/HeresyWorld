@@ -1,1 +1,4 @@
-module.exports = '<p class="no-indent">When you <strong>fire a weapon at one or more targets to suppress them</strong>, roll+DEX and expend 1 use of your weapon. On a hit the target\'s morale is tested: they might dive for cover, falter, or attempt to flee. Your allies gain +1 forward against them. On a 10+ you also deal your damage.</p>';
+module.exports = {
+  description: '<p class="no-indent">When you <strong>fire a weapon at one or more targets to suppress them</strong>, roll+DEX and expend 1 use of your weapon. On a hit the target\'s morale is tested: they might dive for cover, falter, or attempt to flee. Your allies gain +1 forward against them. On a 10+ you also deal your damage.</p>',
+  explanation: '<p>If you\'re shooting at the enemy for almost any effect other than to deal damage, you\'re likely using suppressing fire. You might still land a few shots, but what you\'re trying to do is keep heads down so your allies can take advantage.</p>'
+}

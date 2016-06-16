@@ -8,4 +8,5 @@
 {{#moves.__move__.requires}}
 <p class="requires">{{{moves.__move__.requires}}}</p>
 {{/moves.__move__.requires}}
-<div class="move-description"><gamedata path="moves.__move__.description"></gamedata></div></div></div>
+<div class="move-description" gamedata="moves.__move__.description"></div>
+{{#if moves.__move__.explanation}}<div class="move-explanation">{{{moves.__move__.explanation}}}</div>{{/if}}</div></div>
