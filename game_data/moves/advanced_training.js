@@ -1,1 +1,3 @@
-module.exports = 'advanced training';
+module.exports = '<p class="no-indent">You have focused your training on either the blade or the rifle. Choose one:</p>' + 
+'\n<ul><li><check></check><strong>Blademaster:</strong> Once per encounter you may reroll one d6 of a Hack & Slash or Unsuspecting Strike roll</li>' +
+'\u<li><check></check><strong>Sharpshooter:</strong> Once per encounter you may reroll one d6 of a Aim and Fire or Called Shot roll</li></ul>';
