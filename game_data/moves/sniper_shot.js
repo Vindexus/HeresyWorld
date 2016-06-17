@@ -1,1 +1,1 @@
-module.exports = '';
+module.exports = '<p class="no-indent">When you <strong>successfully hit someone with Called Shot</strong> your limb shots gain the Messy and Forceful tags and your head shots gain the Tearing tag.</p>';
