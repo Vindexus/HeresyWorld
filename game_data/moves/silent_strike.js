@@ -1,0 +1,1 @@
+module.exports = 'Your Unsuspecting Strike also prevents your target from raising the alarm, describe how.';

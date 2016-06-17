@@ -5,11 +5,11 @@ Assassin is sneaky and stabby or sneaky and shooty.
 
 <h2 id="stats">Look</h2>
 <p>Choose one from each:</p>
-
+<p>Dead eyes, charming eyes, angry eyes</p><p>Black bodysuit, plain clothes, dirty rags</p><p>Buzz cut, elaborate hair, tattooed head</p><p>Slim body, athletic body, huge body</p>
 
 <h2 id="stats">Stats</h2>
-<p>Your maximum HP is +Constitution.
-Your base damage is .</p>
+<p>Your maximum HP is 6+Constitution.
+Your base damage is d8.</p>
 
 <h2 id="starting-moves">Starting Moves</h2>
 <move><movename>Unsuspecting Strike</movename>
@@ -17,20 +17,67 @@ Your base damage is .</p>
 On a 10+ choose two.
 On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li><li>You deal your damage+1d6</li><li>You create an advantage, +1 forward to you or an ally acting on it</li><li>Reduce their armor by 1 until they repair it</li></moveoptions></movedescription>
 </move>
-<move><movename>Dual Wield</movename>
-<movedescription><noindent>When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</noindent></movedescription>
+<move><movename>Called Shot</movename>
+<movedescription><noindent>When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</noindent><moveoptions><li><strong>Head</strong><ul><li>10+: As 7-9, plus your damage</li><li>7-9: They do nothing but stand and drool for a few moments.</li></ul></li><li><strong>Arms</strong><ul><li>10+: As 7-9, plus your damage</li><li>7-9: They drop anything they're holding</li></ul></li><li><strong>Legs</strong><ul><li>10+: As 7-9, plus your damage</li><li>7-9: They're hobbled and slow moving.</li></ul></li></moveoptions></movedescription>
 </move>
 
 <h2 id="alignment">Alignment</h2>
 
+<h3>Evil</h3>
+<p>Make a brutal show of a kill.</p>
+
+<h3>Good</h3>
+<p>Take out a threat before it harms another.</p>
+
+<h3>Neutral</h3>
+<p>Dispatch of an enemy before they know there's a threat.</p>
+
 
 <h2 id="bonds">Bonds</h2>
-
+<p>__________ knows some tricks that could be useful to learn.</p><p>I have trusted __________ with a secret about me.</p>
 
 <h2 id="gear">Gear</h2>
-<p>Your load is .</p>
-
+<p>Your load is 7.</p>
+<p>You start with Leather Armor <em>(1 armor, 1 weight, worn, 10 thrones)</em>, Field Gear <em>(5 uses, 20 thrones, 1 weight)</em>, and Field Rations <em>(1 weight)</em>. For your weapons choose one: </p>
+<ul><li>Lasgun <em>(near, far, long, 4 uses, 40 thrones, 2 weight)</em> and Dagger <em>(hand, 2 thrones, 1 weight)</em></li>
+<li>Laspistol <em>(near, far, 3 uses, 15 thrones, 1 weight)</em> and Rapier <em>(close, precise, 25 thrones, 1 weight)</em></li></ul>
 
 <h2 id="advanced_moves">Advanced Moves</h2>
-
+<move><movename>Hunt And Track</movename>
+<movedescription><noindent>When you follow a trail of clues left behind by passing creatures, roll+WIS.</noindent>
+<p>On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel.</p>
+<p>On a 10+, you also choose 1:</p>
+<ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
+<li>Determine what caused the trail to end</li></ul></movedescription>
+</move>
+<move><movename>Advanced Training</movename>
+<movedescription>advanced training</movedescription>
+</move>
+<move><movename>Silent Strike</movename>
+<movedescription>Your Unsuspecting Strike also prevents your target from raising the alarm, describe how.</movedescription>
+</move>
+<move><movename>Sniper Shot</movename>
+ERROR LOADING: "moves.sniper_shot.description"
+</move>
+<move><movename>Vipers Strike</movename>
+ERROR LOADING: "moves.vipers_strike.description"
+</move>
+<move><movename>Cheap Shot</movename>
+ERROR LOADING: "moves.cheap_shot.description"
+</move>
+<move><movename>Callidus Training</movename>
+ERROR LOADING: "moves.callidus_training.description"
+</move>
+<move><movename>Underdog</movename>
+ERROR LOADING: "moves.underdog.description"
+</move>
+<move><movename>Trap Expert</movename>
+ERROR LOADING: "moves.trap_expert.description"
+</move>
+<move><movename>Cautious</movename>
+ERROR LOADING: "moves.cautious.description"
+</move>
+<move><movename>Tricks Of The Trade</movename>
+ERROR LOADING: "moves.tricks_of_the_trade.description"
+</move>
 </class></Root>

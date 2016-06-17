@@ -85,15 +85,21 @@ router.get('/classes/:class', function(req, res, next) {
   var title = cl.name;
 
   var subMenu = [];
-  var moveLists = ['starting_moves', 'advanced_moves'];
+  var moveLists = ['starting_moves', 'advanced_moves_1', 'advanced_moves_2'];
 
   for(var i = 0; i < moveLists.length; i++) {
     for(var k in cl[moveLists[i]]) {
       var moveKey = cl[moveLists[i]][k]
-      subMenu.push({
-        href: '/classes/' + cl.key + '#' + moveKey,
-        name: gameData.moves[moveKey].name
-      })
+      var move = gameData.moves[moveKey];
+      if(move) {
+        subMenu.push({
+          href: '/classes/' + cl.key + '#' + moveKey,
+          name: move.name
+        })
+      }
+      else {
+        console.log('no move for ' + moveKey)
+      }
     }
   }
 
@@ -111,10 +117,12 @@ router.get('/moves/:type', function(req, res, next) {
 
   for(var i = 0; i < list.length; i++) {
     var move = gameData.moves[list[i]];
-    subMenu.push({
-      url: '/moves/' + req.params.type + '#' + move.key,
-      label: move.name
-    }) 
+    if(move) {
+      subMenu.push({
+        url: '/moves/' + req.params.type + '#' + move.key,
+        label: move.name
+      }) ;
+    }
   }
 
   renderParsedPage(res, {title: title, activeMenuItem: req.params.type + '_moves', file: req.params.type + '_moves', subMenu: subMenu});  
