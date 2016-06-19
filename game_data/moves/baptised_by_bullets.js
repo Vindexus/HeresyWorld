@@ -1,0 +1,1 @@
+module.exports = '<p class="no-indent">Whenever you <strong>run through enemy fire</strong>, take +1 to Defy Danger.</p>';

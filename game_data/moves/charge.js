@@ -1,1 +1,1 @@
-module.exports = 'When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.';
+module.exports = '<p class="no-indent">When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</p>';

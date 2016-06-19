@@ -36,12 +36,27 @@ Your base damage is d8.</p>
 
 <h2 id="gear">Gear</h2>
 <p>Your load is 9+STR.</p>
-<p>You start with Field Rations &lt;em class="tags"&gt;(1 weight)&lt;/em&gt; and Stub Revolver &lt;em class="tags"&gt;(1 weight, 2 uses, long, reach, close)&lt;/em&gt;. Choose your melee weapon:</p>
+<p>You start with Field Rations <em>(1 weight)</em> and Stub Revolver <em>(1 weight, 2 uses, long, reach, close)</em>. Choose your melee weapon:</p>
 
 <h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
 <p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
+<move><movename>Armored</movename>
+<movedescription><noindent>You ignore the <em>clumsy</em> tag on armor that you wear.</noindent></movedescription>
+</move>
+<move><movename>Baptised By Bullets</movename>
+<movedescription><noindent>Whenever you <strong>run through enemy fire</strong>, take +1 to Defy Danger.</noindent></movedescription>
+</move>
+<move><movename>Battle Senses</movename>
+<movedescription><noindent>You gain +1 to Discern Realities while in combat.</noindent></movedescription>
+</move>
 <move><movename>Charge</movename>
-<movedescription>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</movedescription>
+<movedescription><noindent>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</noindent></movedescription>
+</move>
+<move><movename>Deadly Cover</movename>
+<movedescription><noindent>When you get a 7-9 on Suppressing Fire you may choose to expend another use of your weapon to deal your damage. On a 10+ you may choose to expend another use of your weapon to deal +1d4 damage.</noindent></movedescription>
+</move>
+<move><movename>Shield of the Imperium</movename>
+<movedescription><noindent>You always gain +1 hold when using Defend, even on a 6-.</noindent></movedescription>
 </move>
 </class>
 

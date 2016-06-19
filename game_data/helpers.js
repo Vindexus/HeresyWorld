@@ -21,4 +21,11 @@ module.exports = function (Handlebars, gameData) {
     var tags = Handlebars.helpers.ptags(item.tags);
     return new Handlebars.SafeString(item.name + (tags.length > 0 ? ' ' : '') + tags);
   });
+
+  Handlebars.registerHelper('tag', function(tag) {
+    if(!tag) {
+      return ''
+    }
+    return Handlebars.helpers.tags([tag])
+  });
 };

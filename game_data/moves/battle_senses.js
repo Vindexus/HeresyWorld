@@ -1,0 +1,1 @@
+module.exports = '<p class="no-indent">You gain +1 to Discern Realities while in combat.</p>';

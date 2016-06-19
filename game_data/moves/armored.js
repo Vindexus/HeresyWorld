@@ -1,0 +1,1 @@
+module.exports = '<p class="no-indent">You ignore the {{{tag "clumsy"}}} tag on armor that you wear.</p>';
