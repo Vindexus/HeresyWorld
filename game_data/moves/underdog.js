@@ -1,1 +1,1 @@
-module.exports = '';
+module.exports = '<p class="no-indent">When you\'re outnumbered, you have +1 armor.</p>';

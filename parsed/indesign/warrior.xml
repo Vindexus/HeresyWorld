@@ -38,8 +38,14 @@ Your base damage is d8.</p>
 <p>Your load is 9+STR.</p>
 <p>You start with Field Rations &lt;em class="tags"&gt;(1 weight)&lt;/em&gt; and Stub Revolver &lt;em class="tags"&gt;(1 weight, 2 uses, long, reach, close)&lt;/em&gt;. Choose your melee weapon:</p>
 
-<h2 id="advanced_moves">Advanced Moves</h2>
+<h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
+<p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
 <move><movename>Charge</movename>
 <movedescription>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</movedescription>
 </move>
-</class></Root>
+</class>
+
+<h2 id="advanced_moves_2">Advanced Moves for Levels 6+</h2>
+<p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
+
+</Root>

@@ -1,1 +1,1 @@
-module.exports = '';
+module.exports = '<p class="no-indent">When you keep still in natural or crowded surroundings, enemies never spot you until you make a movement.</p>';

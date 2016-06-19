@@ -1,4 +1,5 @@
 parser/node_modules
+parser/npm-debug.log
 pages_backup
 node_modules
 old_md

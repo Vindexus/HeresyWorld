@@ -1,0 +1,1 @@
+module.exports =  '<p class="no-indent">Take one more option from Advanced Training.</p>';

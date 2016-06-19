@@ -1,1 +1,1 @@
-module.exports = '';
+module.exports = '<p class="no-indent">When using a precise or hand weapon, your Unsuspecting Strike deals an extra +1d6 damage.</p>';
