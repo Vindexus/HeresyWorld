@@ -10,25 +10,27 @@ var menuItems = {
     href: '/'
   },
   'character-creation': {
-    name: 'Character Creation'
+    name: 'Character Creation',
   },
   classes: {
     href: '/classes',
-    subMenu: {
-      class_assassin: {
-        name: 'Assassin',
-        href: '/classes/assassin'
-      },
-      class_investigator: {
-        name: 'Investigator',
-        href: '/classes/investigator'
-      },
-      class_warrior: {
-        name: 'Warrior',
-        href: '/classes/warrior'
-      }
-    }
+    subMenu: ['assassin', 'investigator', 'warrior']
   },
+  assassin: {
+    name: 'Assassin',
+    href: '/classes/assassin',
+    hideFromMenu: true
+  },
+  investigator: {
+    name: 'Investigator',
+    href: '/classes/investigator',
+    hideFromMenu: true
+  },
+  warrior: {
+    name: 'Warrior',
+    href: '/classes/warrior',
+    hideFromMenu: true
+  }, 
   'basic-moves': {
     name: 'Basic Moves'
   },
@@ -38,14 +40,42 @@ var menuItems = {
   'advanced-moves': {
     name: 'Advanced Moves'
   },
-  equipment: {},
+  equipment: {
+    subMenu: ['equipment_upgrading']
+  },
   'the-gm': {
     name: 'The GM'
-  }
+  },
+  'shattered-hope': {
+    href: '/shattered-hope',
+    file: 'shattered_hope',
+    name: 'Shattered Hope',
+    hideFromMenu: true
+  },
+  'tainted-conflict': {
+    href: '/tainted-conflict',
+    file: 'tainted_conflict',
+    name: 'Tainted Conflict',
+    hideFromMenu: true
+  },
+  missions: {
+    href: '/missions',
+    name: 'Missions',
+    file: 'missions',
+    subMenu: ['shattered-hope', 'tainted-conflict']
+  },
+  equipment_upgrading: {
+    href: '/equipment/upgrading',
+    name: 'Upgrading',
+    file: 'equipment_upgrading',
+    hideFromMenu: true
+  }  
 }
 var menuItemsList = []
 
-function getMenuMapList (menuMap, activeItems) {
+function getMenuMapList (menuMap, activeItems, level) {
+  console.log('activeItems', activeItems);
+  level = level || 1
   var list = [];
   for(var i in menuMap) {
     menuMap[i].href = menuMap[i].href || '/' + i;
@@ -54,8 +84,16 @@ function getMenuMapList (menuMap, activeItems) {
     menuMap[i].active = activeItems.indexOf(i) >= 0
 
     if(typeof menuMap[i].subMenu == 'object') {
-      menuMap[i].subMenuList = getMenuMapList(menuMap[i].subMenu, activeItems);
+      var subMenu = menuMap[i].subMenu.map(function (value) {
+        var item = menuItems[value]
+        return item
+      });
+      menuMap[i].subMenuList = getMenuMapList(subMenu, activeItems, level + 1);
     }
+
+    if(menuMap[i].hideFromMenu && level == 1) {
+      continue;
+    }    
 
     list.push(menuMap[i]);
   }
@@ -145,10 +183,16 @@ router.get('/classes', function(req, res, next) {
 /**/
 
 
+router.get('/equipment/upgrading', function(req, res, next) {
+  var page = menuItems['equipment_upgrading'];
+  renderParsedPage(res, {title: page.name, file: page.file, activeMenuItem: 'equipment_upgrading'});
+});
+
 router.get('/:page', function(req, res, next) {
   var page = menuItems[req.params.page];
   renderParsedPage(res, {title: page.name, file: page.file, activeMenuItem: req.params.page});
 });
+
 
 router.get('/', function(req, res, next) {
   renderParsedPage(res, {title: 'Introduction', file: 'introduction', activeMenuItem: 'introduction'});

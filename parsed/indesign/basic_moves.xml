@@ -25,6 +25,12 @@
 <move><movename>Defend</movename>
 <movedescription><noindent>When you <strong>stand in defense of a person, item, or location</strong> under attack, roll+CON. On a 10+, hold 3. On a 7–9, hold 1. So long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:</noindent><ul><li>Redirect an attack from the thing you defend to yourself</li><li>Halve the attack's effect or damage</li><li>Open up the attacker to an ally giving that ally +1 forward against the attacker</li><li aid:pstyle="LastListItem">Deal damage to the attacker equal to your level</li></ul></movedescription>
 </move>
+<move><movename>Tech-Use</movename>
+<movedescription><p>When you <strong>attempt to use or fix a complicated piece of technology</strong> roll+INT. On a 10+ you do what you set out to do and choose two. On a 7-9 the same, but choose one:</p>
+<ul><li>It takes longer than you'd planned</li>
+<li>You have to cannibalize some equipment on hand, the GM will tell you what</li>
+<li>You get a lesser result than you intended, the GM will tell you what</li></ul></movedescription>
+</move>
 <move><movename>Spout Lore</movename>
 <movedescription><noindent>When you <strong>consult your accumulated knowledge about something</strong>, roll+INT. On a 10+ the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7–9 the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.</noindent></movedescription>
 </move>
@@ -37,14 +43,11 @@
 <li>What here is useful or valuable to me?</li>
 <li>What nearly escaped my notice?</li></ul></movedescription>
 </move>
-<move><movename></movename>
-ERROR LOADING: "moves.parley.description"
+<move><movename>Parley</movename>
+<movedescription><noindent>When you have leverage on a GM Character and manipulate them, roll+CHA. Leverage is something they need or want. On a 10+, they do what you ask if you first promise what they ask of you. On a 7–9, they will do what you ask, but need some concrete assurance of your promise, right now.</noindent></movedescription>
 </move>
-<move><movename></movename>
-ERROR LOADING: "moves.tech_use.description"
-</move>
-<move><movename></movename>
-ERROR LOADING: "moves.aid_or_interfere.description"
+<move><movename>Aid Or Interfere</movename>
+<movedescription><noindent>When you <strong>help or hinder someone</strong>, roll+bond with them. On a 10+, they take +1 or -2 to their roll, your choice. On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.</noindent></movedescription>
 </move>
 </basicmoves>
 </Root>

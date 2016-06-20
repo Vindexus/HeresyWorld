@@ -1,0 +1,1 @@
+module.exports = '<p class="no-indent">When you <strong>help or hinder someone</strong>, roll+bond with them. On a 10+, they take +1 or -2 to their roll, your choice. On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.</p>';

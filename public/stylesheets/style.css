@@ -8,19 +8,19 @@ body {
   background-color: #fff;
 }
 #nav .branding {
-  padding: 10px 15px;
+  padding: 8px 12px;
   font-weight: bold;
   font-size: 18px;
 }
 #nav {
   height: 100%;
-  padding-right: 0;
-  padding-top: 20px;
+  padding-right: 10px;
 }
 #nav li a {
   border:0 #f2f2f2 solid;
   border-bottom-width:1px;
   font-weight: bold;
+  padding: 8px 12px;
 }
 
 #nav li.active ul {
@@ -60,18 +60,11 @@ body {
 
 
 @media screen and (min-width: 768px) {
-  #navx {
-    width: 200px;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-  }
+
 }
 
 @media (min-width: 1200px) {
-  .container {
-    width: 970px;
-  }
+
 }
 
 h1, h2, h3 {
@@ -108,4 +101,8 @@ h3:hover a.anchor-link {
   padding-left: 10px;
   border-left: 3px solid #666;
   color: #777;
+}
+
+.content > h1:first-of-type {
+  margin-top: 10px;
 }
