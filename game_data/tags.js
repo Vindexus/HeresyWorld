@@ -75,6 +75,10 @@ var tags = {
   very_rare: {
     name: 'Very Rare',
     description: 'This item is exceedingly hard to find. You might find one like it if you scour the galaxy.'
+  },
+  damage: {
+    name: '+n Damage',
+    description: 'Add <em>n</em> damage to your damage rolls.'
   }
 };
 

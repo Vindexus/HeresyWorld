@@ -18,27 +18,27 @@
 <td align="left">Each level past +1 should be more than double the cost of the previous</td>
 </tr>
 <tr>
-<td align="left">n proven</td>
+<td align="left"><em>n Proven</em></td>
 <td align="left">start at 5 thrones</td>
 <td align="left">The first few levels of proven should be cheap, as it doesn't increase damage as much as +1 damage, but the cost should ramp up a lot once they get near their max damage. If proven is too high then rolling doesn't matter and that's no fun.</td>
 </tr>
 <tr>
-<td align="left">silenced</td>
+<td align="left"><em>Silenced</em></td>
 <td align="left">20-25 thrones</td>
 <td align="left">Some weapons are harder to silence, and some are near impossible.</td>
 </tr>
 <tr>
-<td align="left">scatter</td>
+<td align="left"><em>Scatter</em></td>
 <td align="left">15-20 thrones</td>
 <td align="left">Weapons that are meant to be fired long range aren't likely to also have the scatter tag.</td>
 </tr>
 <tr>
-<td align="left">tearing</td>
+<td align="left"><em>Tearing</em></td>
 <td align="left">30-40 thrones</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">+1 to uses</td>
+<td align="left"><em>+1 to uses</em></td>
 <td align="left">25-30 thrones</td>
 <td align="left">Extended magazine for your weapon.</td>
 </tr>
@@ -55,4 +55,4 @@
 <p>Have players use the Supply move if you think the item might be found where they are, but if they’re looking for a Thunder Hammer on a recently discovered Feral World, for example, then it probably doesn’t make any sense for it to be available. If something is well beyond their grasp, as many things will be to low level Acolytes, then try to give their characters details on what sort of deeds earn those items, or what great legends are said to have wielded them. You can tell them "no" while still filling their heads with possibilities.</p>
 
 <h2>Describe the Upgrades</h2>
-<p>When gear gets a new or better tag, what does that mean? What does that look like? How does you shotgun change when it gets a +1 damage tag? Describe the changes to the mechanisms of the weapon, the ways that the machine spirits were worshipped, or the prayers that have been etched into the handle.</p></Root>
+<p>When gear gets a new or better tag, what does that mean in the fiction? What does that look like? How does you shotgun change when it gets a +1 damage tag? Describe the changes to the mechanisms of the weapon, the ways that the machine spirits were worshipped, the prayers that have been etched into the handle, or the new parts that masterfully added on.</p></Root>

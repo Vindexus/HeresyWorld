@@ -78,6 +78,8 @@ function getMenuMapList (menuMap, activeItems, level) {
   level = level || 1
   var list = [];
   for(var i in menuMap) {
+    console.log('i', i);
+    console.log('menuMap[i]', menuMap[i]);
     menuMap[i].href = menuMap[i].href || '/' + i;
     menuMap[i].name = menuMap[i].name || i.toUpperCase().split("")[0] + i.substr(1).toLowerCase();
     menuMap[i].file = menuMap[i].file || i.replace('-', '_');
@@ -85,8 +87,11 @@ function getMenuMapList (menuMap, activeItems, level) {
 
     if(typeof menuMap[i].subMenu == 'object') {
       var subMenu = menuMap[i].subMenu.map(function (value) {
-        var item = menuItems[value]
-        return item
+        if(typeof value == 'string') {
+          var item = menuItems[value]
+          return item
+        }
+        return value;
       });
       menuMap[i].subMenuList = getMenuMapList(subMenu, activeItems, level + 1);
     }
@@ -121,29 +126,7 @@ menuItemsList = getMenuMapList(menuItems, []);
 router.get('/classes/:class', function(req, res, next) {
   var cl = gameData.classes[req.params.class];
   var title = cl.name;
-
-  var subMenu = [];
-  var moveLists = ['starting_moves', 'advanced_moves_1', 'advanced_moves_2'];
-
-  for(var i = 0; i < moveLists.length; i++) {
-    for(var k in cl[moveLists[i]]) {
-      var moveKey = cl[moveLists[i]][k]
-      var move = gameData.moves[moveKey];
-      if(move) {
-        subMenu.push({
-          href: '/classes/' + cl.key + '#' + moveKey,
-          name: move.name
-        })
-      }
-      else {
-        console.log('no move for ' + moveKey)
-      }
-    }
-  }
-
-  menuItems.classes.subMenu['class_' + cl.key].subMenu = subMenu;
-  
-  renderParsedPage(res, {title: title, activeMenuItem: ['class_' + req.params.class], subMenu: subMenu, file: cl.key});
+  renderParsedPage(res, {title: title, activeMenuItem: [req.params.class], file: cl.key});
 });
 
 router.get('/moves/:type', function(req, res, next) {

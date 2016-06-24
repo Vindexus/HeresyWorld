@@ -3,6 +3,9 @@ module.exports = function (Handlebars, gameData) {
     if(!tags) {
       return ''
     }
+    tags = tags.map(function (val) {
+      return gameData.tags.hasOwnProperty(val) ? gameData.tags[val].name : val;
+    });
     return '<em class="tags">' + tags.join(", ") + '</em>';
   });
 

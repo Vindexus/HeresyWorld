@@ -5,7 +5,7 @@ module.exports = {
   looks: ['Blank eyes, fiery eyes, kind eyes', 'Military cut, messy hair, headband, helmet', 'Worn uniform, utilitarian clothes, rags', 'Lean body, hulking body, lithe body'],
   starting_moves: ['grab_grenade', 'explosives_expert', 'first_hand_experience'],
   advanced_moves_1: ['charge', 'battle_senses', 'armored', 'shield_of_the_imperium', 'deadly_cover', 'baptised_by_bullets'].sort(),
-  description: 'TODO: Warrior description',
+  description: 'The Warrior is a fighter, either from birth, by choice, or through dangerous circumstances. They are at home on the battlefield.',
   alignments: {
     good: {
       name: 'Good',

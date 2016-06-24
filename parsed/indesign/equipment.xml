@@ -20,29 +20,29 @@ death; a silencer attached to a laspistol might mean you aren't discovered, and 
 <li><em>Very Rare</em>: This item is exceedingly hard to find. You might find one like it if you scour the galaxy.</li></ul>
 
 <h2 id="weapons">Weapons List</h2>
-<ul><li><strong>Laspistol</strong>: <em>near, far, 3 uses, 15 thrones, 1 weight</em></li>
-<li><strong>Stub Revolver</strong>: <em>1 weight, 2 uses, long, reach, close</em></li>
-<li><strong>Lasgun</strong>: <em>near, far, long, 4 uses, 40 thrones, 2 weight</em></li>
-<li><strong>M36 Lasgun</strong>: <em>near, far, long, 4 uses, +1 damage, 60 thrones, 2 weight</em></li>
-<li><strong>Double-barreled shotgun</strong>: <em>close, near, far, scatter, 1 use, 35 thrones, 2 weight</em></li>
-<li><strong>Pump action shotgun</strong>: <em>close, near, far, scatter, 4 uses, 55 thrones, 2 weight</em></li>
+<ul><li><strong>Laspistol</strong>: <em>Near, Far, 3 uses, 15 thrones, 1 weight</em></li>
+<li><strong>Stub Revolver</strong>: <em>1 weight, 2 uses, Long, Reach, Close</em></li>
+<li><strong>Lasgun</strong>: <em>Near, Far, Long, 4 uses, 40 thrones, 2 weight</em></li>
+<li><strong>M36 Lasgun</strong>: <em>Near, Far, Long, 4 uses, +1 damage, 60 thrones, 2 weight</em></li>
+<li><strong>Double-barreled shotgun</strong>: <em>Close, Near, Far, Scatter, 1 use, 35 thrones, 2 weight</em></li>
+<li><strong>Pump action shotgun</strong>: <em>Close, Near, Far, Scatter, 4 uses, 55 thrones, 2 weight</em></li>
 <li><strong>Box of Ammo</strong>: <em>3 ammo, 1 throne, 1 weight</em></li>
-<li><strong>Club</strong>: <em>close, 1 throne, 2 weight</em></li>
-<li><strong>Dagger</strong>: <em>hand, 2 thrones, 1 weight</em></li>
-<li><strong>Throwing Dagger</strong>: <em>thrown, near, 1 throne, 0 weight</em></li>
-<li><strong>Short Sword, Axe, Mace</strong>: <em>close, 8 thrones, 1 weight</em></li>
-<li><strong>Spear</strong>: <em>reach, thrown, near, 5 thrones, 1 weight</em></li>
-<li><strong>Long Sword, Battleaxe, Warhammer</strong>: <em>close, +1 damage, 15 thrones, 2 weight</em></li>
-<li><strong>Halberd</strong>: <em>reach, +1 damage, two-handed, 9 thrones, 2 weight</em></li>
-<li><strong>Rapier</strong>: <em>close, precise, 25 thrones, 1 weight</em></li>
-<li><strong>Dueling Rapier</strong>: <em>close, precise, 25 thrones, 1 weight</em></li>
-<li><strong>Chainsword</strong>: <em>close, tearing, 1 rending, rare, 2 weight</em></li></ul>
+<li><strong>Club</strong>: <em>Close, 1 throne, 2 weight</em></li>
+<li><strong>Dagger</strong>: <em>Hand, 2 thrones, 1 weight</em></li>
+<li><strong>Throwing Dagger</strong>: <em>thrown, Near, 1 throne, 0 weight</em></li>
+<li><strong>Short Sword, Axe, Mace</strong>: <em>Close, 8 thrones, 1 weight</em></li>
+<li><strong>Spear</strong>: <em>Reach, thrown, Near, 5 thrones, 1 weight</em></li>
+<li><strong>Long Sword, Battleaxe, Warhammer</strong>: <em>Close, +1 damage, 15 thrones, 2 weight</em></li>
+<li><strong>Halberd</strong>: <em>Reach, +1 damage, two-handed, 9 thrones, 2 weight</em></li>
+<li><strong>Rapier</strong>: <em>Close, precise, 25 thrones, 1 weight</em></li>
+<li><strong>Dueling Rapier</strong>: <em>Close, precise, 25 thrones, 1 weight</em></li>
+<li><strong>Chainsword</strong>: <em>Close, Tearing, 1 rending, Rare, 2 weight</em></li></ul>
 
 <h2 id="armor">Armor List</h2>
-<ul><li><strong>Leather Armor, Chainmail</strong>: <em>1 armor, 1 weight, worn, 10 thrones</em></li>
-<li><strong>Flak Armor</strong>: <em>2 armor, 2 weight, 50 thrones, worn</em></li>
-<li><strong>Carapace Armor</strong>: <em>3 armor, worn, clumsy, 4 weight, 350 thrones</em></li>
-<li><strong>Shield</strong>: <em>+1 armor, 1 weight, worn</em></li></ul>
+<ul><li><strong>Leather Armor, Chainmail</strong>: <em>1 armor, 1 weight, Worn, 10 thrones</em></li>
+<li><strong>Flak Armor</strong>: <em>2 armor, 2 weight, 50 thrones, Worn</em></li>
+<li><strong>Carapace Armor</strong>: <em>3 armor, Worn, clumsy, 4 weight, 350 thrones</em></li>
+<li><strong>Shield</strong>: <em>+1 armor, 1 weight, Worn</em></li></ul>
 
 <h2 id="grenades">Grenade List</h2>
 <ul><li><strong>Fire Bomb</strong>: <em>d6 damage, Reach radius</em><p>This device not only ignites a fiery explosion on impact, it also covers the area in fire for a short period of time.</p></li>
