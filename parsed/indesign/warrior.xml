@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <Root><class>
-<h1>Warrior</h1>
+<h1>Warrior 2</h1>
 The Warrior is a fighter, either from birth, by choice, or through dangerous circumstances. They are at home on the battlefield.
 
 <h2 id="stats">Look</h2>
@@ -9,26 +9,36 @@ The Warrior is a fighter, either from birth, by choice, or through dangerous cir
 
 <h2 id="stats">Stats</h2>
 <p>Your maximum HP is 10+Constitution.
-Your base damage is d8.</p>
+Your base damage is d10.</p>
 
 <h2 id="starting-moves">Starting Moves</h2>
-<move><movename>Grab Grenade</movename>
-<movedescription><noindent>When you <strong>search your belt for a suitable grenade</strong> roll+WIS. Expend one use of your Grenade Belt and choose a grenade from this list:</noindent><moveoptions><li>Frag Grenade</li><li>Fire Bomb</li><li>Stun Grenade</li><li>Smoke Grenade</li><li>Krak Grenade</li></moveoptions><p>On a 10+ you also take +1 forward to Throw Grenade.On a 6- the GM will offer you a different grenade, or the one you were searching for at a cost.</p></movedescription>
+<move><movename>Tactical Advantage</movename>
+<movedescription><noindent>Each battle is different and requires a different approach. At the start of each battle, decide which tactic you are actively employing.</noindent><ul><li><strong>Defensive</strong>: As long as you don't do anything too rash, you gain +1 to all Defy Danger rolls</li><li><strong>Reactive</strong>: After you are attacked, you can immediately respond and take +1 forward</li><li><strong>Reckless</strong>: You deal +1d4 damage and take +1d4 damage</li><li><strong>Precise</strong>: While you remain focused on a single target, you gain +2 piercing against them</li></ul></movedescription>
 </move>
-<move><movename>Explosives Expert</movename>
-<movedescription><noindent>When you <strong>set up a triggered explosive</strong> say what materials on hand you're using and choose your trigger: timed, remote, proximity, thrown, etc. Roll+INT, on a 10+ the explosive works as intended. On a 7-9 choose 1, and on a 6- choose 2:</noindent><ul><li>It takes a bit longer to set up</li><li>You need to something extra to get it to work, the GM will tell you what</li><li>It will go off a little late (or a little early)</li><li>It isn't as powerful as you wanted</li></ul></movedescription>
+<move><movename>Lifting The Fog</movename>
+<movedescription><noindent>The fog of war can mask any battle. As you witness it unfold, whenever <strong>you or someone you have a bond with takes damage</strong> gain 1 Insight. During the battle you may spend Insight to:</noindent><ul><li>Change any Hack And Slash or And and Fire result of 6- (yours or an ally's) to a 7-9 (Cost: 2)</li><li>Reroll a damage roll (yours or an ally's)</li><li>Have you or an ally reload instantly</li></ul></movedescription>
 </move>
-<move><movename>First Hand Experience</movename>
-<movedescription><p>Your time with the Guard had you fighting a particular type of enemy of the Imperium - gain +1 to Spout Lore rolls that deal with them. Choose the type of enemy:</p><moveoptions><li>Mutants</li><li>Xenos</li><li>Chaos</li><li>Psykers</li></moveoptions></movedescription>
+<move><movename>Tome of War</movename>
+<movedescription><noindent>You know war and fighting. Gain +1 on any Spout Lore rolls that deal with past battles, renowned heroes, weapons, or armor.</noindent></movedescription>
+</move>
+<move><movename>Armored</movename>
+<movedescription><noindent>You ignore the <em>clumsy</em> tag on armor that you wear.</noindent></movedescription>
 </move>
 
-<h2 id="alignment">Alignment</h2>
 
-<h3>Good</h3>
-<p>Show mercy to an enemy.</p>
+<h2 id="drives">Drives</h2>
 
-<h3>Anarchic</h3>
-<p>Rush into danger despite the plan.</p>
+<h3>Destructive</h3>
+<p>Blow something up or dismember a foe.</p>
+
+<h3>Superior Position</h3>
+<p>Gain an advantage due to better choice of terrain or surroundings.</p>
+
+<h3>Weapon Master</h3>
+<p>Use a new weapon in combat or begin training with one.</p>
+
+<h3>Honor Killer</h3>
+<p>Challenge a foe to 1v1 combat and defeat them.</p>
 
 
 <h2 id="bonds">Bonds</h2>
@@ -40,9 +50,6 @@ Your base damage is d8.</p>
 
 <h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
 <p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
-<move><movename>Armored</movename>
-<movedescription><noindent>You ignore the <em>clumsy</em> tag on armor that you wear.</noindent></movedescription>
-</move>
 <move><movename>Baptised By Bullets</movename>
 <movedescription><noindent>Whenever you <strong>run through enemy fire</strong>, take +1 to Defy Danger.</noindent></movedescription>
 </move>

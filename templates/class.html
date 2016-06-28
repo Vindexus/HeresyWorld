@@ -13,11 +13,21 @@ Your base damage is {{{classes.__class__.damage}}}.</p>
 <h2 id="starting-moves"><a only-for="web" href="#starting-moves" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Starting Moves</h2>
 <loop items="classes.__class__.starting_moves" glue="\n"><template type="move" move="__item__"></template></loop>
 
+{{#if classes.__class__.alignments}}
 <h2 id="alignment"><a only-for="web" href="#alignment" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Alignment</h2>
 <loop items="classes.__class__.alignments">
 <h3>__item.name__</h3>
 <p>__item.description__</p>
 </loop>
+{{/if}}
+
+{{#if classes.__class__.drives}}
+<h2 id="drives"><a only-for="web" href="#drives" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Drives</h2>
+<loop items="classes.__class__.drives">
+<h3>__item.name__</h3>
+<p>__item.description__</p>
+</loop>
+{{/if}}
 
 <h2 id="bonds"><a only-for="web" href="#bonds" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Bonds</h2>
 <loop items="classes.__class__.bonds"><p>__item__</p></loop>
