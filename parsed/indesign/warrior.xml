@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <Root><class>
-<h1>Warrior 2</h1>
+<h1>Warrior</h1>
 The Warrior is a fighter, either from birth, by choice, or through dangerous circumstances. They are at home on the battlefield.
 
 <h2 id="stats">Look</h2>
@@ -16,7 +16,7 @@ Your base damage is d10.</p>
 <movedescription><noindent>Each battle is different and requires a different approach. At the start of each battle, decide which tactic you are actively employing.</noindent><ul><li><strong>Defensive</strong>: As long as you don't do anything too rash, you gain +1 to all Defy Danger rolls</li><li><strong>Reactive</strong>: After you are attacked, you can immediately respond and take +1 forward</li><li><strong>Reckless</strong>: You deal +1d4 damage and take +1d4 damage</li><li><strong>Precise</strong>: While you remain focused on a single target, you gain +2 piercing against them</li></ul></movedescription>
 </move>
 <move><movename>Lifting The Fog</movename>
-<movedescription><noindent>The fog of war can mask any battle. As you witness it unfold, whenever <strong>you or someone you have a bond with takes damage</strong> gain 1 Insight. During the battle you may spend Insight to:</noindent><ul><li>Change any Hack And Slash or And and Fire result of 6- (yours or an ally's) to a 7-9 (Cost: 2)</li><li>Reroll a damage roll (yours or an ally's)</li><li>Have you or an ally reload instantly</li></ul></movedescription>
+<movedescription><noindent>The fog of war can mask any battle. As you witness it unfold, whenever <strong>you or someone you have a bond with takes damage</strong> gain 1 . During the battle you may spend  to:</noindent><ul><li>Change any Hack And Slash or And and Fire result of 6- (yours or an ally's) to a 7-9 (Cost: 2)</li><li>Reroll a damage roll (yours or an ally's)</li><li>Have you or an ally reload instantly</li></ul></movedescription>
 </move>
 <move><movename>Tome of War</movename>
 <movedescription><noindent>You know war and fighting. Gain +1 on any Spout Lore rolls that deal with past battles, renowned heroes, weapons, or armor.</noindent></movedescription>
