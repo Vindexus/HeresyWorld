@@ -4,7 +4,8 @@ module.exports = {
   load: '9+STR',
   looks: ['Blank eyes, fiery eyes, kind eyes', 'Military cut, messy hair, headband, helmet', 'Worn uniform, utilitarian clothes, rags', 'Lean body, hulking body, lithe body'],
   starting_moves: ['tactical_advantage', 'lifting_the_fog', 'tome_of_war', 'armored'],
-  advanced_moves_1: ['charge', 'battle_senses', 'shield_of_the_imperium', 'deadly_cover', 'baptised_by_bullets'].sort(),
+  advanced_moves_1: ['charge', 'battle_senses', 'shield_of_the_imperium', 'deadly_cover', 'baptised_by_bullets', 'pre_sense', 'tactical_decision'].sort(),
+  advanced_moves_2: ['punish_weakness'].sort(),
   description: 'The Warrior is a fighter, either from birth, by choice, or through dangerous circumstances. They are at home on the battlefield.',
   drives: {
     good: {

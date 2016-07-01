@@ -16,7 +16,7 @@ Your base damage is d10.</p>
 <movedescription><noindent>Each battle is different and requires a different approach. At the start of each battle, decide which tactic you are actively employing.</noindent><ul><li><strong>Defensive</strong>: As long as you don't attempt to gain ground, you gain +1 to all Defy Danger rolls</li><li><strong>Reactive</strong>: Whenever you are attacked, you can immediately respond and take +1 forward</li><li><strong>Reckless</strong>: You deal +1d4 damage and take +1d4 damage</li><li><strong>Precise</strong>: While you remain focused on a single target, you gain +2 piercing against them</li></ul></movedescription>
 </move>
 <move><movename>Lifting the Fog</movename>
-<movedescription><noindent>The fog of war can mask any battle. As you witness it unfold, whenever <strong>you or someone you have a bond with takes damage</strong> gain 1 Insight. During the battle you may spend Insight to:</noindent><ul><li>Change any Hack And Slash or Fire for Effect result of 6- (yours or an ally's) to a 7-9 (Cost: 2)</li><li>Reroll a damage roll (yours or an ally's)</li><li>Have you or an ally reload instantly</li></ul></movedescription>
+<movedescription><noindent>The fog of war can mask any battle. As you witness it unfold, whenever <strong>you or someone you have a bond with takes damage</strong> gain 1 Insight. During the battle you may spend Insight to:</noindent><ul><li>Add +1 to any of your rolls after you roll</li><li>Reroll a damage roll (yours or an ally's)</li><li>Have you or an ally reload instantly</li></ul><p>At the end of the battle your Insight resets to 0.</p></movedescription>
 </move>
 <move><movename>Tome of War</movename>
 <movedescription><noindent>You know war and fighting. Gain +1 on any Spout Lore rolls that deal with past battles, renowned heroes, weapons, or armor.</noindent></movedescription>
@@ -62,12 +62,20 @@ Your base damage is d10.</p>
 <move><movename>Deadly Cover</movename>
 <movedescription><noindent>When you get a 7-9 on Suppressing Fire you may choose to expend another use of your weapon to deal your damage. On a 10+ you may choose to expend another use of your weapon to deal +1d4 damage.</noindent></movedescription>
 </move>
+<move><movename>Pre Sense</movename>
+<movedescription><noindent>You always start combat with +1 Insight.</noindent></movedescription>
+</move>
 <move><movename>Shield of the Imperium</movename>
 <movedescription><noindent>You always gain +1 hold when using Defend, even on a 6-.</noindent></movedescription>
+</move>
+<move><movename>Tactical Decision</movename>
+<movedescription><noindent>You may spend 1 Insight to change your Tactical Advantage choice.</noindent></movedescription>
 </move>
 </class>
 
 <h2 id="advanced_moves_2">Advanced Moves for Levels 6+</h2>
 <p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
-
+<move><movename>Punish Weakness</movename>
+<movedescription><noindent>On a 10+ with Hack and Slash or Fire for Effect you may spend 1 Insight to add <em title="">+1 rending</em> to your attack.</noindent></movedescription>
+</move>
 </Root>
