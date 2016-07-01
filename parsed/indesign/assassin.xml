@@ -39,9 +39,9 @@ On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li>
 
 <h2 id="gear">Gear</h2>
 <p>Your load is 7.</p>
-<p>You start with Leather Armor <em>(1 armor, 1 weight, worn, 10 thrones)</em>, Field Gear <em>(5 uses, 20 thrones, 1 weight)</em>, and Field Rations <em>(1 weight)</em>. For your weapons choose one: </p>
-<ul><li>Lasgun <em>(near, far, long, 4 uses, 40 thrones, 2 weight)</em> and Dagger <em>(hand, 2 thrones, 1 weight)</em></li>
-<li>Laspistol <em>(near, far, 3 uses, 15 thrones, 1 weight)</em> and Rapier <em>(close, precise, 25 thrones, 1 weight)</em></li></ul>
+<p>You start with Leather Armor (<em title="">1 armor</em>, <em title="">1 weight</em>, <em title="To use it, you have to be wearing it.">Worn</em>, <em title="">10 thrones</em>), Field Gear (<em title="">5 uses</em>, <em title="">20 thrones</em>, <em title="">1 weight</em>), and Field Rations (<em title="">1 weight</em>). For your weapons choose one: </p>
+<ul><li>Lasgun (<em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="">4 uses</em>, <em title="">40 thrones</em>, <em title="">2 weight</em>) and Dagger (<em title="It’s useful for attacking something within your reach, no further.">Hand</em>, <em title="">2 thrones</em>, <em title="">1 weight</em>)</li>
+<li>Laspistol (<em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="">3 uses</em>, <em title="">15 thrones</em>, <em title="">1 weight</em>) and Rapier (<em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="">precise</em>, <em title="">25 thrones</em>, <em title="">1 weight</em>)</li></ul>
 
 <h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
 <p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
@@ -54,13 +54,13 @@ On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li>
 </move>
 <move><movename>Advanced Training</movename>
 <movedescription><noindent>You have focused your training on either the blade or the rifle. Choose one:</noindent>
-<ul><li>__<strong>Blademaster:</strong> Once per encounter you may reroll one d6 of a Hack &amp; Slash or Unsuspecting Strike roll</li><li>__<strong>Sharpshooter:</strong> Once per encounter you may reroll one d6 of a Aim and Fire or Called Shot roll</li></ul></movedescription>
+<ul><li>__<strong>Blademaster:</strong> Once per encounter you may reroll one d6 of a Hack &amp; Slash or Unsuspecting Strike roll</li><li>__<strong>Sharpshooter:</strong> Once per encounter you may reroll one d6 of a Fire for Effect or Called Shot roll</li></ul></movedescription>
 </move>
 <move><movename>Silent Strike</movename>
 <movedescription>Your Unsuspecting Strike also prevents your target from raising the alarm, describe how.</movedescription>
 </move>
 <move><movename>Sniper Shot</movename>
-<movedescription><noindent>When you <strong>successfully hit someone with Called Shot</strong> your limb shots gain the Messy and Forceful tags and your head shots gain the Tearing tag.</noindent></movedescription>
+<movedescription><noindent>When you <strong>successfully hit someone with Called Shot</strong> your limb shots gain the <em title="It doesn't just deal damage, it tears and destroys, sending pieces of its target flying.">Messy</em> and <em title="It can knock someone back a pace, maybe even off their feet.">Forceful</em> tags and your head shots gain the Tearing tag.</noindent></movedescription>
 </move>
 <move><movename>Viper's Strike</movename>
 <movedescription><noindent>When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</noindent></movedescription>

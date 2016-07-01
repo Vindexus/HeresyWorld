@@ -15,52 +15,52 @@ death; a silencer attached to a laspistol might mean you aren't discovered, and 
 <li><em>Silenced</em>: The sound of this weapon firing is greatly reduced.</li>
 <li><em>Razor-sharp</em>: When rolling any move that deals damage, this weapon ignores armor on a 10+.</li>
 <li><em>n Proven</em>: This weapon always strikes true. When rolling for damage with this weapon, treat any roll below <em>n</em> as having rolled <em>n</em>.</li>
-<li><em>Power</em>: Melee only. This item has a power field that can be activated. While active, you take the better of two rolls for damage and this item gains <tag k="messy"></tag>.</li>
+<li><em>Power</em>: Melee only. This item has a power field that can be activated. While active, you take the better of two rolls for damage and this item gains <em title="It doesn't just deal damage, it tears and destroys, sending pieces of its target flying.">Messy</em>.</li>
 <li><em>Rare</em>: This item is rare and hard to locate. You might find one in a large city if you know where to look.</li>
 <li><em>Very Rare</em>: This item is exceedingly hard to find. You might find one like it if you scour the galaxy.</li></ul>
 
 <h2 id="weapons">Weapons List</h2>
-<ul><li><strong>Laspistol</strong>: <em>Near, Far, 3 uses, 15 thrones, 1 weight</em></li>
-<li><strong>Stub Revolver</strong>: <em>1 weight, 2 uses, Long, Reach, Close</em></li>
-<li><strong>Lasgun</strong>: <em>Near, Far, Long, 4 uses, 40 thrones, 2 weight</em></li>
-<li><strong>M36 Lasgun</strong>: <em>Near, Far, Long, 4 uses, +1 damage, 60 thrones, 2 weight</em></li>
-<li><strong>Double-barreled shotgun</strong>: <em>Close, Near, Far, Scatter, 1 use, 35 thrones, 2 weight</em></li>
-<li><strong>Pump action shotgun</strong>: <em>Close, Near, Far, Scatter, 4 uses, 55 thrones, 2 weight</em></li>
-<li><strong>Box of Ammo</strong>: <em>3 ammo, 1 throne, 1 weight</em></li>
-<li><strong>Club</strong>: <em>Close, 1 throne, 2 weight</em></li>
-<li><strong>Dagger</strong>: <em>Hand, 2 thrones, 1 weight</em></li>
-<li><strong>Throwing Dagger</strong>: <em>thrown, Near, 1 throne, 0 weight</em></li>
-<li><strong>Short Sword, Axe, Mace</strong>: <em>Close, 8 thrones, 1 weight</em></li>
-<li><strong>Spear</strong>: <em>Reach, thrown, Near, 5 thrones, 1 weight</em></li>
-<li><strong>Long Sword, Battleaxe, Warhammer</strong>: <em>Close, +1 damage, 15 thrones, 2 weight</em></li>
-<li><strong>Halberd</strong>: <em>Reach, +1 damage, two-handed, 9 thrones, 2 weight</em></li>
-<li><strong>Rapier</strong>: <em>Close, precise, 25 thrones, 1 weight</em></li>
-<li><strong>Dueling Rapier</strong>: <em>Close, precise, 25 thrones, 1 weight</em></li>
-<li><strong>Chainsword</strong>: <em>Close, Tearing, 1 rending, Rare, 2 weight</em></li></ul>
+<ul><li><strong>Laspistol</strong>: <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="">3 uses</em>, <em title="">15 thrones</em>, <em title="">1 weight</em></li>
+<li><strong>Stub Revolver</strong>: <em title="">1 weight</em>, <em title="">2 uses</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="It’s useful for attacking something that’s several feet away—maybe as far as ten.">Reach</em>, <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em></li>
+<li><strong>Lasgun</strong>: <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="">4 uses</em>, <em title="">40 thrones</em>, <em title="">2 weight</em></li>
+<li><strong>M36 Lasgun</strong>: <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="">4 uses</em>, <em title="">+1 damage</em>, <em title="">60 thrones</em>, <em title="">2 weight</em></li>
+<li><strong>Double-barreled shotgun</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="Ranged only. Roll two damage die when at <em>close</em> range.">Scatter</em>, <em title="">1 use</em>, <em title="">35 thrones</em>, <em title="">2 weight</em></li>
+<li><strong>Pump action shotgun</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="It’s useful for attacking something in shouting distance.">Far</em>, <em title="Ranged only. Roll two damage die when at <em>close</em> range.">Scatter</em>, <em title="">4 uses</em>, <em title="">55 thrones</em>, <em title="">2 weight</em></li>
+<li><strong>Box of Ammo</strong>: <em title="">3 ammo</em>, <em title="">1 throne</em>, <em title="">1 weight</em></li>
+<li><strong>Club</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="">1 throne</em>, <em title="">2 weight</em></li>
+<li><strong>Dagger</strong>: <em title="It’s useful for attacking something within your reach, no further.">Hand</em>, <em title="">2 thrones</em>, <em title="">1 weight</em></li>
+<li><strong>Throwing Dagger</strong>: <em title="">thrown</em>, <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="">1 throne</em>, <em title="">0 weight</em></li>
+<li><strong>Short Sword, Axe, Mace</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="">8 thrones</em>, <em title="">1 weight</em></li>
+<li><strong>Spear</strong>: <em title="It’s useful for attacking something that’s several feet away—maybe as far as ten.">Reach</em>, <em title="">thrown</em>, <em title="It’s useful for attacking if you can see the whites of their eyes.">Near</em>, <em title="">5 thrones</em>, <em title="">1 weight</em></li>
+<li><strong>Long Sword, Battleaxe, Warhammer</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="">+1 damage</em>, <em title="">15 thrones</em>, <em title="">2 weight</em></li>
+<li><strong>Halberd</strong>: <em title="It’s useful for attacking something that’s several feet away—maybe as far as ten.">Reach</em>, <em title="">+1 damage</em>, <em title="">two-handed</em>, <em title="">9 thrones</em>, <em title="">2 weight</em></li>
+<li><strong>Rapier</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="">precise</em>, <em title="">25 thrones</em>, <em title="">1 weight</em></li>
+<li><strong>Dueling Rapier</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="">precise</em>, <em title="">25 thrones</em>, <em title="">1 weight</em></li>
+<li><strong>Chainsword</strong>: <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>, <em title="When dealing damage with this weapon roll an extra damage die and discard the lowest.">Tearing</em>, <em title="">1 rending</em>, <em title="This item is rare and hard to locate. You might find one in a large city if you know where to look.">Rare</em>, <em title="">2 weight</em></li></ul>
 
 <h2 id="armor">Armor List</h2>
-<ul><li><strong>Leather Armor, Chainmail</strong>: <em>1 armor, 1 weight, Worn, 10 thrones</em></li>
-<li><strong>Flak Armor</strong>: <em>2 armor, 2 weight, 50 thrones, Worn</em></li>
-<li><strong>Carapace Armor</strong>: <em>3 armor, Worn, clumsy, 4 weight, 350 thrones</em></li>
-<li><strong>Shield</strong>: <em>+1 armor, 1 weight, Worn</em></li></ul>
+<ul><li><strong>Leather Armor, Chainmail</strong>: <em title="">1 armor</em>, <em title="">1 weight</em>, <em title="To use it, you have to be wearing it.">Worn</em>, <em title="">10 thrones</em></li>
+<li><strong>Flak Armor</strong>: <em title="">2 armor</em>, <em title="">2 weight</em>, <em title="">50 thrones</em>, <em title="To use it, you have to be wearing it.">Worn</em></li>
+<li><strong>Carapace Armor</strong>: <em title="">3 armor</em>, <em title="To use it, you have to be wearing it.">Worn</em>, <em title="">clumsy</em>, <em title="">4 weight</em>, <em title="">350 thrones</em></li>
+<li><strong>Shield</strong>: <em title="">+1 armor</em>, <em title="">1 weight</em>, <em title="To use it, you have to be wearing it.">Worn</em></li></ul>
 
 <h2 id="grenades">Grenade List</h2>
-<ul><li><strong>Fire Bomb</strong>: <em>d6 damage, Reach radius</em><p>This device not only ignites a fiery explosion on impact, it also covers the area in fire for a short period of time.</p></li>
-<li><strong>Frag Grenade</strong>: <em>2d6 damage, Close radius</em><p>Frag grenades sent out a savage spray of shrapnel perfect for tearing through enemy personnel.</p></li>
-<li><strong>Krak Grenade</strong>: <em>2d4 damage, +2 piercing, Hand radius, 1 rending</em><p>Krak grenades are designed to punch through thick walls and robust armor. Perfect against fortified positions, vehicles, and heavily armored foes.</p></li>
-<li><strong>Smoke Grenade</strong>: <em>Near radius</em><p>Covers an area in dense smoke for 2d4 minutes</p></li>
-<li><strong>Stun Grenade</strong>: <em>Reach radius</em><p>Emits a loud noise and a bright flash, temporarily disabling or confusing those caught in the blast.</p></li></ul>
+<ul><li><strong>Fire Bomb</strong>: <em title="">d6 damage</em>, <em title="">Reach radius</em><p>This device not only ignites a fiery explosion on impact, it also covers the area in fire for a short period of time.</p></li>
+<li><strong>Frag Grenade</strong>: <em title="">2d6 damage</em>, <em title="">Close radius</em><p>Frag grenades sent out a savage spray of shrapnel perfect for tearing through enemy personnel.</p></li>
+<li><strong>Krak Grenade</strong>: <em title="">2d4 damage</em>, <em title="">+2 piercing</em>, <em title="">Hand radius</em>, <em title="">1 rending</em><p>Krak grenades are designed to punch through thick walls and robust armor. Perfect against fortified positions, vehicles, and heavily armored foes.</p></li>
+<li><strong>Smoke Grenade</strong>: <em title="">Near radius</em><p>Covers an area in dense smoke for 2d4 minutes</p></li>
+<li><strong>Stun Grenade</strong>: <em title="">Reach radius</em><p>Emits a loud noise and a bright flash, temporarily disabling or confusing those caught in the blast.</p></li></ul>
 
 <h2 id="gear">Gear</h2>
 <p><strong>Field Gear</strong>
-<em>5 uses, 20 thrones, 1 weight</em>: Field gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your field gear for some useful mundane item, you find what you need and mark off a use.</p><p><strong>Bandages</strong>
-<em>3 uses, slow, 5 thrones, 0 weight</em>: When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.</p><p><strong>Medicae Kit</strong>
-<em>2 uses, slow, 10 thrones, 1 weight</em>: When you carefully treat someone's wounds with a medicae kit, heal them of 7 wounds and expend a use.</p><p><strong>Dataslate</strong>
-<em>5 uses, 10 thrones, 1 weight</em>: When your data slate contains just the right file for the subject you’re spouting lore on, consult the file, mark off a use, and take +1 to your roll.</p><p><strong>Field Rations</strong>
-<em>1 weight</em>: You can eat it</p><p><strong>Vox Unit</strong>
-<em>1 weight</em>: A communication device that allows you to talk to others nearby on the same frequency. Has some basic encryption available.</p><p><strong>Vox Caster</strong>
-<em>2 weight</em>: A more powerful vox unit that allows its user to boost the signal to reach ships in orbit of a planet. It has a more robust encryption method than the regular vox unit.</p><p><strong>Micro-bead</strong>
-<em>0 weight</em>: A smaller more discreet version of the vox unit that tucks into the ear of its wearer.</p><p><strong>Auspex</strong>
-<em>1 weight</em>: A hand-held scanning device capable of reading various signatures through a solid surface. The range is fairly limited and it might not always give the most detailed readouts.</p><p><strong>Siege Auspex</strong>
-<em>2 weight</em>: The siege auspex is the more advanced version of the regular auspex, with an increase range, more detailed readings, and more signatures to scan for.</p><p><strong>Grapnel</strong>
-<em>0 weight</em>: This small device hooks onto the wearer's belt and shoots out a magnetic hook to greatly assist in climbing or descending steep terrain.</p></Root>
+<em title="">5 uses</em>, <em title="">20 thrones</em>, <em title="">1 weight</em>: Field gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your field gear for some useful mundane item, you find what you need and mark off a use.</p><p><strong>Bandages</strong>
+<em title="">3 uses</em>, <em title="">slow</em>, <em title="">5 thrones</em>, <em title="">0 weight</em>: When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.</p><p><strong>Medicae Kit</strong>
+<em title="">2 uses</em>, <em title="">slow</em>, <em title="">10 thrones</em>, <em title="">1 weight</em>: When you carefully treat someone's wounds with a medicae kit, heal them of 7 wounds and expend a use.</p><p><strong>Dataslate</strong>
+<em title="">5 uses</em>, <em title="">10 thrones</em>, <em title="">1 weight</em>: When your data slate contains just the right file for the subject you’re spouting lore on, consult the file, mark off a use, and take +1 to your roll.</p><p><strong>Field Rations</strong>
+<em title="">1 weight</em>: You can eat it</p><p><strong>Vox Unit</strong>
+<em title="">1 weight</em>: A communication device that allows you to talk to others nearby on the same frequency. Has some basic encryption available.</p><p><strong>Vox Caster</strong>
+<em title="">2 weight</em>: A more powerful vox unit that allows its user to boost the signal to reach ships in orbit of a planet. It has a more robust encryption method than the regular vox unit.</p><p><strong>Micro-bead</strong>
+<em title="">0 weight</em>: A smaller more discreet version of the vox unit that tucks into the ear of its wearer.</p><p><strong>Auspex</strong>
+<em title="">1 weight</em>: A hand-held scanning device capable of reading various signatures through a solid surface. The range is fairly limited and it might not always give the most detailed readouts.</p><p><strong>Siege Auspex</strong>
+<em title="">2 weight</em>: The siege auspex is the more advanced version of the regular auspex, with an increase range, more detailed readings, and more signatures to scan for.</p><p><strong>Grapnel</strong>
+<em title="">0 weight</em>: This small device hooks onto the wearer's belt and shoots out a magnetic hook to greatly assist in climbing or descending steep terrain.</p></Root>

@@ -3,17 +3,19 @@ module.exports = function (Handlebars, gameData) {
     if(!tags) {
       return ''
     }
+    var ems = []
     tags = tags.map(function (val) {
-      return gameData.tags.hasOwnProperty(val) ? gameData.tags[val].name : val;
+      var tag = gameData.tags.hasOwnProperty(val) ? gameData.tags[val] : {name: val, description: ''};
+      ems.push('<em class="tags" title="' + tag.description + '">' + tag.name + '</em>');
     });
-    return '<em class="tags">' + tags.join(", ") + '</em>';
+    return ems.join(", ");
   });
 
   Handlebars.registerHelper('ptags', function(tags) {
     if(!tags) {
       return ''
     }
-    return '<em class="tags">(' + tags.join(", ") + ')</em>';
+    return '(' + Handlebars.helpers.tags(tags) + ')';
   });
 
   Handlebars.registerHelper('item', function(item) {

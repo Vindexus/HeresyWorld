@@ -1,5 +1,4 @@
 module.exports = {
-  name: 'Called Shot',
 	description: '<p class="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</p>' + 
 		'<ul class="MoveOptions">' + 
 		'<li><strong>Head</strong>' + 

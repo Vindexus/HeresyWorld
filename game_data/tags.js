@@ -37,6 +37,9 @@ var tags = {
   far: {
     description: 'It’s useful for attacking something in shouting distance.'
   },
+  messy: {
+    description: 'It doesn\'t just deal damage, it tears and destroys, sending pieces of its target flying.'
+  },
   //New tags
   scatter: {
     description: 'Ranged only. Roll two damage die when at <em>close</em> range.'
@@ -67,7 +70,7 @@ var tags = {
     description: 'This weapon always strikes true. When rolling for damage with this weapon, treat any roll below <em>n</em> as having rolled <em>n</em>.'
   },
   power: {
-    description: 'Melee only. This item has a power field that can be activated. While active, you take the better of two rolls for damage and this item gains <tag k="messy"></tag>.'
+    description: 'Melee only. This item has a power field that can be activated. While active, you take the better of two rolls for damage and this item gains {{{tag "messy"}}}.'
   },
   rare: {
     description: 'This item is rare and hard to locate. You might find one in a large city if you know where to look.'
