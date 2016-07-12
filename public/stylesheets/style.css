@@ -106,3 +106,8 @@ h3:hover a.anchor-link {
 .content > h1:first-of-type {
   margin-top: 10px;
 }
+
+p.requires,
+p.replaces {
+  font-style: italic;
+}
