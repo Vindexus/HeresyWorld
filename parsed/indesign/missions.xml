@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root><h1>Missions<a only-for="web" target="_blank" href="https://github.com/Vindexus/heresyworld/edit/master/pages/missions.html" "=""><span></span> Edit This Page</a></h1>
+
+<p>Missions are organizational tools and narrative devices that the GM uses to create action and drama in the narrative. They are similar to Fronts in Dungeon World, but are built differently. Players in Heresy World are members of the Inquisition, and are thus given orders and directives that clearly state their goals and missions. This is different than Fronts in Dungeon World which exist waiting for the players to engage with them, as Missions are commonly thrust upon the players by their Inquisitor.</p>
+
+<p>Missions are composed of the following sections:</p>
+
+<ul>
+<li><strong>Briefing</strong>: the first chunk of information relayed to the players. This is the hook, and should include the objective of the mission.</li>
+<li><strong>Revelations</strong>: pieces of information that the characters can learn about their mission. These will include blanks for the GM to fill out later, and checkmarks to mark off when the characters learn them.</li>
+<li><strong>Stakes</strong>: questions the GM asks before the mission starts that help the play stay open ended.</li>
+<li><strong>Cast</strong>: important characters involved in the mission. Any allies, named enemies, or notable locals will be part of the cast.</li>
+<li><strong>Setbacks</strong>: off-screen responses that the opposition can take in response to either character actions or bad rolls.</li>
+</ul>
+
+<p>More sections can be added as needed, such as enemies, items, locations, custom moves, etc.</p>
+
+<h2>Briefing</h2>
+
+<p>The briefing is a short description of what the Inquisition knows about the mission, and what they’re passing on to the players. The first thing you write for a mission should be the briefing, then expand from there. This can be as long as you want, but you should save some of the details to be Revelations. Feel free to <em>leave blanks</em> as per the GM principles.</p>
+
+<h3>Example Briefing</h3>
+
+<p><em>Rumors have reached the Inquisition of cursed xeno technology being used in a series of gang wars happening in a hive city on ___________.   The Inquisition would like for you to investigate the legitimacy of these rumors and, if they prove true, the source of these weapons. The source must be eliminated and the weapons must be either confiscated or destroyed.</em></p>
+
+<h2>Revelations</h2>
+
+<p>Revelations are pieces of information that the Acolytes can learn throughout the course of the mission, or before embarking on it. Leave as many blanks as you want here, they’re things you can find out as you play, or things you can ask the players directly. For example: “You open up the dusty crate and find what are clearly xeno weapons. Arbitrator, you recognize their origin. What species created these weapons?” Alternatively you could simply tell them they found xenos weapons and see if they decide to Spout Lore.</p>
+
+<p>Revelations should have a relevant thread to pull on. If you reveal a name, you should reveal a place, or known associates, or past dealings. A revelation shouldn’t be a dead end, it should give players a path to follow if they so wish. Some revelations might not have this, for example “the cultists worship Tzeentch” is an important piece of information but it doesn’t have a clear path to take.</p>
+
+<p>Revelations are slightly different than clues, as they shouldn’t dictate how the players learn something, just what they learn. Good revelation: “the locker where the weapons were found is owned by Gaius Finri.” Bad revelation: “the name Gaisu Finri is found written on the locker where the weapons were found.” The information you gain is the same, but the second limits how you as a GM can deliver that information.</p>
+
+<p>Revelations are listed in a logical order that they might be learned, but they don’t need to be revealed in that order. As the characters learn pieces of information, fill in any blanks you have and check them off.</p>
+
+<h3>Example Revelations</h3>
+
+<p>[___] <em>The weapons are all different sizes and makes, but they share the same xenos origin: ________.</em>  </p>
+
+<p>[___] <em>Both gangs are buying the weapons from the same source, a man named _________ who is said to hang out in a bar called The Holy Bolter.</em>  </p>
+
+<p>[___] <em>A high ranking member of the Imperial Guard, __________, has been smuggling in weapons from a distant war. This officer is a member of the noble House Vulgahr.</em></p>
+
+<h2>Stakes</h2>
+
+<p>Stakes are the same as they are in Dungeon World. They are questions that you ask about the situation and how it might play out. They should be questions that really make you wonder what wild and crazy directions this mission could go.</p>
+
+<h3>Example Stakes</h3>
+
+<ul>
+<li><em>Will the Acolytes pick a side in the gang war? If so which one?</em></li>
+<li><em>How will the nobles of house Vulgahr react to the investigation by the Acolytes?</em></li>
+<li><em>What will the Acolytes do with any weapons they find?</em></li>
+</ul>
+
+<h2>Cast</h2>
+
+<p>The cast are the big players in your mission. They have names, friends, underlings, positions, etc. Anyone who you know will likely have a big part to play should be part of the cast. Give each cast member a name, a look, and an instinct. You can add as many details or blanks as you’d like. Fill in the details as you play, or ask players directly when they are needed.</p>
+
+<p>Combat stats (hp, damage, armor, moves, weapons, etc) are recommended for anyone the Acolytes are likely to fight. A warning: be prepared to write them up on the fly when your players decide to stab someone you forgot to create stats for.</p>
+
+<h3>Example Cast</h3>
+
+<blockquote>
+<p><strong>The Brute, Leader of Hounds of War gang</strong>
+Look: male, large, tattoo of a _____ on his face, leather vest
+Drive: Command respect  </p>
+</blockquote>
+
+
+
+<blockquote>
+<p><strong>Thraxa, Leader of Virtuous Scythes gang</strong>
+Look: female, red hair, burn scars, lots of jewelry
+Drive: Get rich
+Weapon: Flamer and ________  </p>
+</blockquote>
+
+
+
+<p><strong>Lord Harilius Vulgahr</strong>
+The patriarch and current leader of the House Vulgahr.
+Look: Male, lavish clothes clothes, skinny and tall, ocular implants
+Drive: Grow house Vulgahr’s power  </p>
+
+
+<h2>Setbacks</h2>
+
+<p>Setbacks are prewritten hard moves you can take as the GM that make the mission more difficult for the Acolytes. They should be put into motion when the Acolytes piss off the wrong people, do stupid things, or roll misses. Setbacks are normally things that happen off screen that will affect the Acolytes further down the road.</p>
+
+<p>The setbacks of a mission are laid out the same as the revelations. They get marked off as they are put into play, and any blanks you left are filled in.</p>
+
+<h3>Example Setbacks</h3>
+
+<p>[___] <em>A bounty hunter named ________ is hired to hunt the pesky Acolytes who have been causing trouble.</em></p>
+
+<p>[___] <em>The Hounds of War gang start to booby trap their weapons caches so anyone who doesn’t know the right way to open them gets a nasty surprise.</em></p>
+
+<p>[___] <em>The man named ________ stops frequenting The Holy Bolter entirely.</em></p>
+
+<p>[___] <em>Both gangs buy upgrades to their gear, increasing their armor scores by 1.</em></p>
+
+<h2>Update Continuously</h2>
+<p>The briefing doesn’t change after the mission starts but the rest of the sections can and should grow and develop as the mission progresses. Write more Revelations as they come to you, make more Setbacks as the players mess up, add more cast members as NPCs show up, etc.</p></Root>

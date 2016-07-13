@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root><class>
+<h1>Investigator</h1>
+<p>Investigator is a detective. They've got a nose for heresy.
+
+</p><h2 id="stats">Look</h2>
+<p>Choose one from each:</p>
+<p>Distrusting eyes, kind eyes, tired eyes</p><p>Helmeted head, military cut, or bald</p><p>Plain clothes, worn outfit, or uniform</p><p>Thin body, fit body, flabby body</p>
+
+<h2 id="stats">Stats</h2>
+<p>Your maximum HP is 8+Constitution.
+Your base damage is d6.</p>
+
+<h2 id="starting-moves">Starting Moves</h2>
+<move><movename>I Am Justice</movename>
+<movedescription><noindent>When you <strong>give an NPC an order based on your Inquisitorial authority</strong>, roll+CHA. On a 7+, they choose one:</noindent><moveoptions><li>Do what you say</li><li>Back away cautiously, then flee</li><li>Attack you</li></moveoptions><p>On a 10+, you also take +1 forward against them. On a 6-, they do as they please and you take -1 forward against them.</p></movedescription>
+</move>
+<move><movename>Detective</movename>
+<movedescription><noindent>When you <strong>get a 7+ using Discern Realities on a crime scene</strong> you also find a clue of value to you. On a 10+ this clue gives you a hunch that the GM will describe.</noindent></movedescription>
+</move>
+<move><movename>Confessor</movename>
+<movedescription><p>When you <strong>torture or manipulate someone to extract information from them</strong> roll+INT. On a 7-9 they answer your questions and you choose 2. On a 10+ choose 1 instead.</p><ul><li>They only answer one question</li><li>Their answers are vague</li><li>They resist for longer than you'd planned before they begin to cooperate</li><li>They attract the attention of those nearby</li></ul></movedescription>
+</move>
+<move><movename>Take Them Alive</movename>
+<movedescription>When you successfully hit a vulnerable opponent you can attempt to disable them instead of dealing damage. Roll+STR, on a 7+ they are incapacitated. On a 7-9 choose 1:<p></p><ul><li>They get one last attack in</li><li>You hit harder than you'd planned, maybe killing them</li>They will need some time to recover to be of any use</ul></movedescription>
+</move>
+
+<h2 id="alignment">Alignment</h2>
+
+<h3>Good</h3>
+<p>Show mercy or leniency to an enemy.</p>
+
+<h3>Evil</h3>
+<p>Hurt someone more than you need to.</p>
+
+<h3>Anarchic</h3>
+<p>Try something that's so crazy it just might work.</p>
+
+
+
+<h2 id="bonds">Bonds</h2>
+<p>__________ knows much about the enemy's ways, I should use that knowledge.</p><p>__________ walks a thin line too close to sedition, I should guide them.</p><p>__________ has helped me defeat a formidable foe, I should repay them in kind.</p>
+
+<h2 id="gear">Gear</h2>
+<p>Your load is 8.</p>
+<noindent>Your load is 8+STR. You start with ERROR LOADING: "" and a ERROR LOADING: "" (). Choose your melee weapon:</noindent><ul><li>ERROR LOADING: "" ()</li><li>ERROR LOADING: "" ()</li></ul><p>Choose your armor:</p><ul><li>ERROR LOADING: "" ()and a ERROR LOADING: "" ()</li><li>ERROR LOADING: "" ()</li></ul>
+
+<h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
+<p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
+<move><movename>This One's Mine</movename>
+<movedescription><p>When you call out a target as your own, you deal +2d4 ongoing to them. This lasts until an ally attacks them, you attack someone else, or the target is defeated. While this is active you deal -4 damage to other targets and your allies deal -2 damage to your named target.</p></movedescription>
+</move>
+<move><movename>Targeted Investigation</movename>
+<movedescription>When you put the word out that you're after a specific person or organization before pursuing them, roll+CHA. On a 10+ hold 2, on a 7-9 hold 1. You may spend hold to get an automatic 10+ on rolls that directly involve your target. Proceed with caution, they know you're coming.</movedescription>
+</move>
+<move><movename>Your Eyes Betray You</movename>
+<movedescription>When you <strong>listen closely to someone</strong> roll+WIS. On 7-9 the GM will tell you one thing they're lying about – if anything. On a 10+ the same and take +1 forward when acting on that information or against that person.</movedescription>
+</move>
+<move><movename>Torturer</movename>
+<movedescription>When you roll a 7+ with Confessor you may choose to select zero options from the list. If you do so, roll+Int – on a 6- your captive dies.</movedescription>
+</move>
+<move><movename>Local Informant</movename>
+<movedescription><p>When you reach out to a local informant for specific information roll+Cha. On a 10+ you gain some intel and choose one. On a 7-9 the GM will also choose one:</p></movedescription>
+</move>
+</class>
+
+<h2 id="advanced_moves_2">Advanced Moves for Levels 6+</h2>
+<p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
+
+</Root>

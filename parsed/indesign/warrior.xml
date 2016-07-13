@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root><class>
+<h1>Warrior</h1>
+The Warrior is a fighter, either from birth, by choice, or through dangerous circumstances. They are at home on the battlefield.
+
+<h2 id="stats">Look</h2>
+<p>Choose one from each:</p>
+<p>Blank eyes, fiery eyes, kind eyes</p><p>Military cut, messy hair, headband, helmet</p><p>Worn uniform, utilitarian clothes, rags</p><p>Lean body, hulking body, lithe body</p>
+
+<h2 id="stats">Stats</h2>
+<p>Your maximum HP is 10+Constitution.
+Your base damage is d10.</p>
+
+<h2 id="starting-moves">Starting Moves</h2>
+<move><movename>Tactical Advantage</movename>
+<movedescription><noindent>Each battle is different and requires a different approach. At the start of each battle, decide which tactic you are actively employing.</noindent><ul><li><strong>Defensive</strong>: As long as you don't attempt to gain ground, you gain +1 to all Defy Danger rolls</li><li><strong>Reactive</strong>: Whenever you are attacked, you can immediately respond and take +1 forward</li><li><strong>Reckless</strong>: You deal +1d4 damage and take +1d4 damage</li><li><strong>Precise</strong>: While you remain focused on a single target, you gain +2 piercing against them</li></ul></movedescription>
+</move>
+<move><movename>Lifting the Fog</movename>
+<movedescription><noindent>The fog of war can mask any battle. As you witness it unfold, whenever <strong>you or someone you have a bond with takes damage</strong> gain 1 Insight (Max 2). During the battle you may spend Insight to:</noindent><ul><li>Add +1 to any of your rolls (Max +2)</li><li>Reroll a damage roll (yours or an ally's)</li></ul><p>At the end of the battle your Insight resets to 0.</p></movedescription>
+</move>
+<move><movename>Tome of War</movename>
+<movedescription><noindent>You know war and fighting. Gain +1 on any Spout Lore rolls that deal with past battles, renowned heroes, weapons, or armor.</noindent></movedescription>
+</move>
+<move><movename>Armored</movename>
+<movedescription><noindent>You ignore the <em title="">clumsy</em> tag on armor that you wear.</noindent></movedescription>
+</move>
+
+
+<h2 id="drives">Drives</h2>
+
+<h3>Destructive</h3>
+<p>Blow something up or dismember a foe.</p>
+
+<h3>Superior Position</h3>
+<p>Gain an advantage due to better choice of terrain or surroundings.</p>
+
+<h3>Weapon Master</h3>
+<p>Use a new weapon in combat or begin training with one.</p>
+
+<h3>Honor Killer</h3>
+<p>Challenge a foe to 1v1 combat and defeat them.</p>
+
+
+<h2 id="bonds">Bonds</h2>
+<p>__________ would make a good soldier. I should show them I respect them.</p><p>__________ has trouble keeping focused in tense situations. Perhaps I can help them with that.</p><p>__________ has saved me from myself in combat, I owe them.</p>
+
+<h2 id="gear">Gear</h2>
+<p>Your load is 9+STR.</p>
+<p>You start with Field Rations (<em title="">1 weight</em>) and Stub Revolver (<em title="">1 weight</em>, <em title="">2 uses</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="It’s useful for attacking something that’s several feet away—maybe as far as ten.">Reach</em>, <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>). Choose your melee weapon:</p>
+
+<h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
+<p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
+<move><movename>Baptised By Bullets</movename>
+<movedescription><noindent>Whenever you <strong>run through enemy fire</strong>, take +1 to Defy Danger.</noindent></movedescription>
+</move>
+<move><movename>Battle Senses</movename>
+<movedescription><noindent>You gain +1 to Discern Realities while in combat.</noindent></movedescription>
+</move>
+<move><movename>Charge</movename>
+<movedescription><noindent>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</noindent></movedescription>
+</move>
+<move><movename>Deadly Cover</movename>
+<movedescription><noindent>When you <strong>get a 7+ with Suppressing Fire</strong> you gauge your enemy's reaction, gain +1 Insight.</noindent></movedescription>
+</move>
+<move><movename>Field Medic</movename>
+<movedescription><noindent>When you <strong>tend to someone's wounds in combat</strong> you may spend 1 Insight to perform your treatment instantly.</noindent></movedescription>
+</move>
+<move><movename>Pre Sense</movename>
+<movedescription><noindent>You always start combat with +1 Insight.</noindent></movedescription>
+</move>
+<move><movename>Shield of the Imperium</movename>
+<movedescription><noindent>You always gain +1 hold when using Defend, even on a 6-.</noindent></movedescription>
+</move>
+<move><movename>Tactical Decision</movename>
+<movedescription><noindent>You may spend 1 Insight to change your Tactical Advantage choice.</noindent></movedescription>
+</move>
+</class>
+
+<h2 id="advanced_moves_2">Advanced Moves for Levels 6+</h2>
+<p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>
+<move><movename>Battle Medic</movename>
+<requires>Requires: Field Medic</requires>
+<movedescription><noindent>When you <strong>use Field Medic</strong> you also heal for +1d8 wounds.</noindent></movedescription>
+</move>
+<move><movename>Experienced Eye</movename>
+<movedescription><noindent>Your max Insight is now 4.</noindent></movedescription>
+</move>
+<move><movename>Punish Weakness</movename>
+<movedescription><noindent>When you <strong>get a 10+ with Hack and Slash or Fire for Effect</strong> you may spend 1 Insight to ignore armor and add <em title="">+1 rending</em> to your attack.</noindent></movedescription>
+</move>
+<move><movename>Saw It Comin'</movename>
+<movedescription><noindent>When you <strong>take damage</strong> you may spend 1 Insight to negate it. Describe how you anticipated the attack and what you did to avoid it.</noindent></movedescription>
+</move>
+<move><movename>Veteran's Sense</movename>
+<requires>Replaces: Pre Sense</requires>
+<movedescription><noindent>You always start combat with +2 Insight.</noindent></movedescription>
+</move>
+</Root>
