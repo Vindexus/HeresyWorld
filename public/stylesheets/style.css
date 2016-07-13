@@ -110,6 +110,9 @@ h3 a.edit-game-link:active {
   text-decoration: none;
 }
 
+.move:hover a.edit-game-link,
+.move:hover a.edit-game-link,
+.move:hover a.edit-game-link,
 h1:hover a.edit-game-link,
 h2:hover a.edit-game-link,
 h3:hover a.edit-game-link {
