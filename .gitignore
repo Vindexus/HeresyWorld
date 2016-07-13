@@ -4,3 +4,4 @@ pages_backup
 node_modules
 old_md
 indesign/**/*.idlk
+npm-debug.log
