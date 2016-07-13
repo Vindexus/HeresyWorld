@@ -33,4 +33,8 @@ module.exports = function (Handlebars, gameData) {
     }
     return Handlebars.helpers.tags([tag])
   });
+
+  Handlebars.registerHelper("edit_game_link", function (file, label) {
+    return '<a only-for="web" target="_blank" href="https://github.com/Vindexus/heresyworld/edit/master/' + file + '"" class="edit-game-link"><span class="glyphicon glyphicon-pencil"></span> ' + label + '</a>';    
+  })
 };
