@@ -4,18 +4,23 @@
 <advancedmoves><move><movename>Advanced Tech Use</movename>
 <movedescription><noindent>When using Tech-Use on a 10+ choose no options and on a 7-9 choose one.</noindent></movedescription>
 </move>
+
 <move><movename>Autosanguine</movename>
 <movedescription><noindent>Your blood stream has been blessed with ancient microscopic technology that makes repairs to minor injuries. Whenever you receive healing from rest or medicae treatment heal yourself for an additional +1d4.</noindent></movedescription>
 </move>
+
 <move><movename>Crushing Blow</movename>
 <movedescription><noindent>Your attacks strike with resounding force, add your STR to your damage when using melee weapons.</noindent></movedescription>
 </move>
+
 <move><movename>Dual Wield</movename>
 <movedescription><noindent>When you attack with a melee weapon in each hand, add +1d4 damage to your melee attacks.</noindent></movedescription>
 </move>
+
 <move><movename>Gunslinger</movename>
 <movedescription><noindent>When you fire with a pistol in each hand, add +1d4 damage to your ranged attacks.</noindent></movedescription>
 </move>
+
 <move><movename>Hatred</movename>
 <movedescription><noindent>Your hatred for a particular enemy of the Imperium runs deep. Each time you take this move, select one of the groups below and describe how your hatred took root. You take +1d4 damage ongoing against them.</noindent>
 <moveoptions><li>Xenos</li>
@@ -24,9 +29,11 @@
 <li>Psykers</li>
 <li>Mutants</li></moveoptions></movedescription>
 </move>
+
 <move><movename>Imperial Infantryman's Uplifting Primer</movename>
 <movedescription><noindent>You gain +1 to Spout Lore rolls about war.</noindent></movedescription>
 </move>
+
 <move><movename>Medicae Training</movename>
 <movedescription><noindent>When you <strong>use medical supplies (bandages, medicae kits, etc) to tend to someone's wounds</strong>, use the item as normal and roll+INT. On a 10+ choose two, on a 7-9 choose one:</noindent>
 <ul><li>Heal for an extra 1d6</li>
@@ -38,22 +45,29 @@
 <li>Heal for half the value, rounded down</li>
 <li>Take longer</li></ul></movedescription>
 </move>
+
 <move><movename>Mighty Shot</movename>
 <movedescription><noindent>You are able to see the weak points in any target, add your DEX to your damage when using ranged weapons.</noindent></movedescription>
 </move>
+
 <move><movename>Parry</movename>
 <movedescription><noindent>When you <strong>use your weapon to deflect an incoming melee attack</strong>, take +1 to Defy Danger. On a 10+ deal your level in damage to your attacker.</noindent></movedescription>
 </move>
+
 <move><movename>Rapid Reload</movename>
 <movedescription><noindent>When you <strong>attempt to reload quickly roll+DEX</strong>. On a 10+ you reload your weapon instantly - reset its uses and reduce your ammo by one. On a 7-9 the same in addition to what that the GM says. On a 6- you fumble your reload.</noindent></movedescription>
 </move>
+
 <move><movename>Sacrifishield</movename>
 <movedescription>When you take damage you can choose to have your shield take the damage instead, destroying it.</movedescription>
 </move>
+
 <move><movename>Shield Wall</movename>
 <movedescription>When your allies take cover behind your shield, they gain the armor benefit of your shield.</movedescription>
 </move>
+
 <move><movename>Shield Weapon</movename>
 <movedescription>You expertly wield your shield as part of your offense. Add your shield's armor to your melee damage.</movedescription>
-</move></advancedmoves>
+</move>
+</advancedmoves>
 </Root>

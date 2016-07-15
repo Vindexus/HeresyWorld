@@ -1,0 +1,1 @@
+module.exports = '<p class="no-indent">When you <strong>tend to someone\'s wounds in combat</strong> you may spend 1 {{classes.warrior.resource}} to perform your treatment instantly.</p>'

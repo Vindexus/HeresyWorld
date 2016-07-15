@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<Root><h1>Equipment</h1>
+<Root><h1>Equipment<a only-for="web" target="_blank" href="https://github.com/Vindexus/heresyworld/edit/master/pages/equipment.html" "=""><span></span> Edit This Page</a></h1>
 <p>The weapons, armor, and tools your characters bring on their mission can have a huge impact on how successful you are: a more robust piece of armor could turn a blade that would mean 
 death; a silencer attached to a laspistol might mean you aren't discovered, and pair of magnocs could help you witness a key event in your investigation.</p>
 
@@ -53,14 +53,25 @@ death; a silencer attached to a laspistol might mean you aren't discovered, and 
 
 <h2 id="gear">Gear</h2>
 <p><strong>Field Gear</strong>
-<em title="">5 uses</em>, <em title="">20 thrones</em>, <em title="">1 weight</em>: Field gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your field gear for some useful mundane item, you find what you need and mark off a use.</p><p><strong>Bandages</strong>
-<em title="">3 uses</em>, <em title="">slow</em>, <em title="">5 thrones</em>, <em title="">0 weight</em>: When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.</p><p><strong>Medicae Kit</strong>
-<em title="">2 uses</em>, <em title="">slow</em>, <em title="">10 thrones</em>, <em title="">1 weight</em>: When you carefully treat someone's wounds with a medicae kit, heal them of 7 wounds and expend a use.</p><p><strong>Dataslate</strong>
-<em title="">5 uses</em>, <em title="">10 thrones</em>, <em title="">1 weight</em>: When your data slate contains just the right file for the subject you’re spouting lore on, consult the file, mark off a use, and take +1 to your roll.</p><p><strong>Field Rations</strong>
-<em title="">1 weight</em>: You can eat it</p><p><strong>Vox Unit</strong>
-<em title="">1 weight</em>: A communication device that allows you to talk to others nearby on the same frequency. Has some basic encryption available.</p><p><strong>Vox Caster</strong>
-<em title="">2 weight</em>: A more powerful vox unit that allows its user to boost the signal to reach ships in orbit of a planet. It has a more robust encryption method than the regular vox unit.</p><p><strong>Micro-bead</strong>
-<em title="">0 weight</em>: A smaller more discreet version of the vox unit that tucks into the ear of its wearer.</p><p><strong>Auspex</strong>
-<em title="">1 weight</em>: A hand-held scanning device capable of reading various signatures through a solid surface. The range is fairly limited and it might not always give the most detailed readouts.</p><p><strong>Siege Auspex</strong>
-<em title="">2 weight</em>: The siege auspex is the more advanced version of the regular auspex, with an increase range, more detailed readings, and more signatures to scan for.</p><p><strong>Grapnel</strong>
-<em title="">0 weight</em>: This small device hooks onto the wearer's belt and shoots out a magnetic hook to greatly assist in climbing or descending steep terrain.</p></Root>
+<em title="">5 uses</em>, <em title="">20 thrones</em>, <em title="">1 weight</em>: Field gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your field gear for some useful mundane item, you find what you need and mark off a use.
+</p><p><strong>Bandages</strong>
+<em title="">3 uses</em>, <em title="">slow</em>, <em title="">5 thrones</em>, <em title="">0 weight</em>: When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.
+</p><p><strong>Medicae Kit</strong>
+<em title="">2 uses</em>, <em title="">slow</em>, <em title="">10 thrones</em>, <em title="">1 weight</em>: When you carefully treat someone's wounds with a medicae kit, heal them of 7 wounds and expend a use.
+</p><p><strong>Dataslate</strong>
+<em title="">5 uses</em>, <em title="">10 thrones</em>, <em title="">1 weight</em>: When your data slate contains just the right file for the subject you’re spouting lore on, consult the file, mark off a use, and take +1 to your roll.
+</p><p><strong>Field Rations</strong>
+<em title="">1 weight</em>: You can eat it
+</p><p><strong>Vox Unit</strong>
+<em title="">1 weight</em>: A communication device that allows you to talk to others nearby on the same frequency. Has some basic encryption available.
+</p><p><strong>Vox Caster</strong>
+<em title="">2 weight</em>: A more powerful vox unit that allows its user to boost the signal to reach ships in orbit of a planet. It has a more robust encryption method than the regular vox unit.
+</p><p><strong>Micro-bead</strong>
+<em title="">0 weight</em>: A smaller more discreet version of the vox unit that tucks into the ear of its wearer.
+</p><p><strong>Auspex</strong>
+<em title="">1 weight</em>: A hand-held scanning device capable of reading various signatures through a solid surface. The range is fairly limited and it might not always give the most detailed readouts.
+</p><p><strong>Siege Auspex</strong>
+<em title="">2 weight</em>: The siege auspex is the more advanced version of the regular auspex, with an increase range, more detailed readings, and more signatures to scan for.
+</p><p><strong>Grapnel</strong>
+<em title="">0 weight</em>: This small device hooks onto the wearer's belt and shoots out a magnetic hook to greatly assist in climbing or descending steep terrain.
+</p></Root>

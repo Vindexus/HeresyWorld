@@ -17,9 +17,11 @@ Your base damage is d8.</p>
 On a 10+ choose two.
 On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li><li>You deal your damage+1d6</li><li>You create an advantage, +1 forward to you or an ally acting on it</li><li>Reduce their armor by 1 until they repair it</li></moveoptions></movedescription>
 </move>
+
 <move><movename>Called Shot</movename>
 <movedescription><noindent>When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</noindent><moveoptions><li><strong>Head</strong><ul><li>10+: As 7-9, plus your damage</li><li>7-9: They do nothing but stand and drool for a few moments.</li></ul></li><li><strong>Arms</strong><ul><li>10+: As 7-9, plus your damage</li><li>7-9: They drop anything they're holding</li></ul></li><li><strong>Legs</strong><ul><li>10+: As 7-9, plus your damage</li><li>7-9: They're hobbled and slow moving.</li></ul></li></moveoptions></movedescription>
 </move>
+
 
 <h2 id="alignment">Alignment</h2>
 
@@ -52,42 +54,53 @@ On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li>
 <ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
 <li>Determine what caused the trail to end</li></ul></movedescription>
 </move>
+
 <move><movename>Advanced Training</movename>
 <movedescription><noindent>You have focused your training on either the blade or the rifle. Choose one:</noindent>
 <ul><li>__<strong>Blademaster:</strong> Once per encounter you may reroll one d6 of a Hack &amp; Slash or Unsuspecting Strike roll</li><li>__<strong>Sharpshooter:</strong> Once per encounter you may reroll one d6 of a Fire for Effect or Called Shot roll</li></ul></movedescription>
 </move>
+
 <move><movename>Silent Strike</movename>
 <movedescription>Your Unsuspecting Strike also prevents your target from raising the alarm, describe how.</movedescription>
 </move>
+
 <move><movename>Sniper Shot</movename>
 <movedescription><noindent>When you <strong>successfully hit someone with Called Shot</strong> your limb shots gain the <em title="It doesn't just deal damage, it tears and destroys, sending pieces of its target flying.">Messy</em> and <em title="It can knock someone back a pace, maybe even off their feet.">Forceful</em> tags and your head shots gain the Tearing tag.</noindent></movedescription>
 </move>
+
 <move><movename>Viper's Strike</movename>
 <movedescription><noindent>When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</noindent></movedescription>
 </move>
+
 <move><movename>Cheap Shot</movename>
 <movedescription><noindent>When using a precise or hand weapon, your Unsuspecting Strike deals an extra +1d6 damage.</noindent></movedescription>
 </move>
+
 <move><movename>Callidus Training</movename>
 <movedescription><noindent>When you keep still in natural or crowded surroundings, enemies never spot you until you make a movement.</noindent></movedescription>
 </move>
+
 <move><movename>Underdog</movename>
 <movedescription><noindent>When you're outnumbered, you have +1 armor.</noindent></movedescription>
 </move>
+
 <move><movename>Trap Expert</movename>
 <movedescription><noindent>When you spend a moment to survey a dangerous area, roll+DEX.</noindent><noindent>On a 10+, hold 3.</noindent><noindent>On a 7-9, hold 1. Spend your hold as you walk through the area to ask these questions:</noindent><ul><li>Is there a trap or alarm here and if so, what activates it?</li>
 <li>What does it do when activated?</li>
 <li>What else is hidden here?</li></ul></movedescription>
 </move>
+
 <move><movename>Cautious</movename>
 <requires>Requires: Trap Expert</requires>
 <movedescription><noindent>When you use trap expert you always get +1 hold, even on a 6-.</noindent></movedescription>
 </move>
+
 <move><movename>Tricks Of The Trade</movename>
 <movedescription><noindent>When you pick locks or pockets or disable traps, roll+DEX.</noindent>
 <noindent>On a 10+, you do it, no problem.</noindent>
 <p>On a 7-9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p></movedescription>
 </move>
+
 </class>
 
 <h2 id="advanced_moves_2">Advanced Moves for Levels 6+</h2>
@@ -96,29 +109,37 @@ On a 7-9 choose one.</p><moveoptions><li>You don't get into melee with them</li>
 <requires>Requires: Sniper Shot</requires>
 <movedescription><noindent>When using Called Shot all your attacks gain the messy, forceful, and tearing tags.</noindent></movedescription>
 </move>
+
 <move><movename>Dirty Fighter</movename>
 <requires>Replaces: Cheap Shot</requires>
 <movedescription><noindent>When using a precise or hand weapon, your Unsuspecting Strike deals an extra +1d8 damage and all other attacks deal +1d4 damage.</noindent></movedescription>
 </move>
+
 <move><movename>Vipers Fangs</movename>
 <requires>Replaces: Viper's Strike</requires>
 <movedescription><noindent>When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</noindent></movedescription>
 </move>
+
 <move><movename>Serious Underdog</movename>
 <requires>Replaces: Underdog</requires>
 <movedescription><noindent>You have +1 armor. When you're outnumbered, you have +2 armor instead.</noindent></movedescription>
 </move>
+
 <move><movename>Disguise</movename>
 <movedescription><noindent>When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.</noindent></movedescription>
 </move>
+
 <move><movename>Hunter's Eye</movename>
 <movedescription><noindent>When you know your target's weakest point your ranged attacks gain +2 piercing.</noindent></movedescription>
 </move>
+
 <move><movename>Jack Of All Trades</movename>
 <movedescription><noindent>Take one more option from Advanced Training.</noindent></movedescription>
 </move>
+
 <move><movename>Extremely Cautious</movename>
 <requires>Replaces: Cautious</requires>
 <movedescription><noindent>When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</noindent></movedescription>
 </move>
+
 </Root>

@@ -3,6 +3,7 @@
 <special-moves><move><movename>Bolster</movename>
 <movedescription><noindent>When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain preparation. If you prepare for a week or more, take 1 preparation. If you prepare for a month or longer, take 3 instead. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</noindent></movedescription>
 </move>
+
 <move><movename>Critical Hit</movename>
 <movedescription><noindent>When you <strong>gain a critical wound</strong>, roll+CON and subtract the number of critical wounds you have. On a 10+ choose one from the following list. On a 7-9 the GM will choose one.</noindent>
 <ul><li>You lose your footing</li>
@@ -16,9 +17,11 @@
 <li>You gain a debility</li>
 <li>You won’t heal from resting, you need medical aid</li></ul></movedescription>
 </move>
+
 <move><movename>Encumbrance</movename>
 <movedescription><noindent>When you <strong>make a move while carrying weight</strong> up to or equal to load, you're fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.</noindent></movedescription>
 </move>
+
 <move><movename>End of Session</movename>
 <movedescription><noindent>When you <strong>reach the end of a session</strong>, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</noindent>
 <p>If you invoked your background with the This I Know move this session, mark XP</p>
@@ -28,32 +31,41 @@
 <li>Did we acquire a notable artifact that will be valuable to the Inquisition?</li></ul>
 <p>For each "yes" answer everyone marks XP.</p></movedescription>
 </move>
+
 <move><movename>Last Breath</movename>
 <movedescription><noindent>When <strong>you're dying</strong> you see the darkness cloud your vision as you drift into death. Describe what thoughts or prayers spur you on and roll (don't add any stat modifiers).</noindent>
 <ul><li>On a 10+ you've defied the odds, and barely cling to life.</li>
 <li>On a 7-9 you live, but your brush with death takes its toll. Describe the lasting effects your body or mind take and the GM will tell you which of your characteristics you must reduce permanently by 1.</li>
 <li>On a 6-, you join the seemingly endless stream of souls to have been lost under the rule of the Imperium.</li></ul></movedescription>
 </move>
+
 <move><movename>Level Up</movename>
 <movedescription><noindent>When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level + 7</strong>, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move. Choose from your class or the general advanced moves.</noindent>
 <p>Choose one of your stats and increase it by 1 (this may change your modifier). Upgrading your Constitution increases your maximum wounds by 1. Ability scores can't go higher than 18.</p></movedescription>
 </move>
+
 <move><movename>Make Camp</movename>
 <movedescription><noindent>When you <strong>settle in to rest</strong> consume a ration. If you're somewhere dangerous decide the watch order as well. If you have enough XP you may Level Up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</noindent></movedescription>
 </move>
+
 <move><movename>Recover</movename>
 <movedescription><noindent>When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your wounds. After three days of rest you remove one debility of your choice. If you're under the care of a healer (chirurgeon or otherwise) you heal a debility for every two days of rest instead.</noindent></movedescription>
 </move>
+
 <move><movename>Supply</movename>
 <movedescription><noindent>When you <strong>go to buy something with thrones on hand</strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha. On a 10+ you find what you're looking for at a fair price. On a 7-9 you'll have to pay more or settle for something similar.</noindent></movedescription>
 </move>
+
 <move><movename>Take Watch</movename>
 <movedescription><noindent>When <strong>you're on watch and something approaches the camp</strong> roll+Wis. On a 10+ you're able to wake the camp and prepare a response, the camp takes +1 forward. On a 7-9 you react just a moment too late; the camp is awake but hasn't had time to prepare. You have weapons and armor but little else. On a miss whatever lurks outside the campfire's light has the drop on you.</noindent></movedescription>
 </move>
+
 <move><movename>This I Know</movename>
 <movedescription><noindent>Once per session, you may <strong>invoke your Background to reroll a move</strong>. To invoke your Background you must describe how your character's experience or a specific event would have helped you in the current situation. The GM and the players at the table have to agree, so the more details the better.</noindent></movedescription>
 </move>
+
 <move><movename>Undertake A Perilous Journey</movename>
 <movedescription><noindent>When you <strong>travel through hostile territory</strong>, choose one member of the party to act as trailblazer, one to scout ahead, and one to be quartermaster (the same character cannot have two jobs). If you don't have enough party members or choose not to assign a job, treat that job as if it had rolled a 6. Each character with a job to do rolls+Wis. On a 10+ the quartermaster reduces the number of rations required by one. On a 10+ the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much). On a 10+ the scout will spot any trouble quick enough to let you get the drop on it. On a 7-9 each roles performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don't get the drop on them either.</noindent></movedescription>
-</move></special-moves>
+</move>
+</special-moves>
 </Root>
