@@ -54,7 +54,7 @@ Your base damage is d10.</p>
 <movedescription><noindent>Whenever you <strong>run through enemy fire</strong>, take +1 to Defy Danger.</noindent></movedescription>
 </move>
 <move><movename>Battle Senses</movename>
-<movedescription><noindent>You gain +1 to Discern Realities while in combat.</noindent></movedescription>
+<movedescription><noindent>When you get a 7+ with Discern Realities while in combat you also gain +1 Insight.</noindent></movedescription>
 </move>
 <move><movename>Charge</movename>
 <movedescription><noindent>When you <strong>charge towards the enemy</strong>, you and those you lead take +1 forward.</noindent></movedescription>
