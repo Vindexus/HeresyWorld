@@ -1,1 +1,1 @@
-module.exports = '<p class="no-indent">You may spend 1 {{classes.warrior.resource}} to change your {{moves.tactical_advantage.name}} choice.</p>';
+module.exports = '<p class="no-indent">You may spend 1 {{warrior.resource}} to change your {{tactical_advantage.name}} choice.</p>';

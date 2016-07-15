@@ -1,1 +1,1 @@
-module.exports = '<p class="no-indent">When you <strong>successfully hit someone with {{moves.called_shot.name}}</strong> your limb shots gain the {{{tag "messy"}}} and {{{tag "forceful"}}} tags and your head shots gain the Tearing tag.</p>';
+module.exports = '<p class="no-indent">When you <strong>successfully hit someone with {{called_shot.name}}</strong> your limb shots gain the {{{tag "messy"}}} and {{{tag "forceful"}}} tags and your head shots gain the Tearing tag.</p>';

@@ -15,7 +15,7 @@ module.exports = {
     name: 'Forge World',
     description: 'Manufactorums cover the landscape.',
     move: 'Forge World characters replace one of their d6s with a d8 when rolling Tech-Use.',
-    bnous: 'Choose one: {{equipment.dataslate.name}}, {{equipment.auspex.name}}, {{equipment.multitool.name}}'
+    bnous: 'Choose one: {{dataslate.name}}, {{auspex.name}}, {{multitool.name}}'
   },
   highborn: {
     name: 'Highborn',

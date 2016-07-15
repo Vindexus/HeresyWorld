@@ -9,14 +9,14 @@ death; a silencer attached to a laspistol might mean you aren't discovered, and 
 <ul><loop items="long,uses,scatter,tearing,rending,silenced,razor_sharp,proven,power,rare,very_rare" glue="\n"><li><em>{{tags.__item__.name}}</em>: {{{tags.__item__.description}}}</li></ul>
 
 <h2 id="weapons"><a only-for="web" href="#weapons" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Weapons List</h2>
-<ul><loop items="misc.weapons_list" glue="\n"><li><strong>{{equipment.__item__.name}}</strong>: {{{tags equipment.__item__.tags}}}</li></loop></ul>
+<ul><loop items="misc.weapons_list" glue="\n"><li><strong>{{__item__.name}}</strong>: {{{tags equipment.__item__.tags}}}</li></loop></ul>
 
 <h2 id="armor"><a only-for="web" href="#armor" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Armor List</h2>
-<ul><loop items="misc.armor_list" glue="\n"><li><strong>{{equipment.__item__.name}}</strong>: {{{tags equipment.__item__.tags}}}</li></loop></ul>
+<ul><loop items="misc.armor_list" glue="\n"><li><strong>{{__item__.name}}</strong>: {{{tags equipment.__item__.tags}}}</li></loop></ul>
 
 <h2 id="grenades"><a only-for="web" href="#grenades" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Grenade List</h2>
-<ul><loop items="misc.grenade_list" glue="\n"><li><strong>{{equipment.__item__.name}}</strong>: {{{tags equipment.__item__.tags}}}<p>{{equipment.__item__.description}}</p></li></loop></ul>
+<ul><loop items="misc.grenade_list" glue="\n"><li><strong>{{__item__.name}}</strong>: {{{tags equipment.__item__.tags}}}<p>{{__item__.description}}</p></li></loop></ul>
 
 <h2 id="gear"><a only-for="web" href="#gear" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>Gear</h2>
-<loop items="misc.gear"><p><strong>{{equipment.__item__.name}}</strong><br />
-{{{tags equipment.__item__.tags}}}: {{{equipment.__item__.description}}}</loop>
+<loop items="misc.gear"><p><strong>{{__item__.name}}</strong><br />
+{{{tags equipment.__item__.tags}}}: {{{__item__.description}}}</loop>
