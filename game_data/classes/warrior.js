@@ -19,7 +19,7 @@ module.exports = {
     'shield_of_the_imperium', 
     'deadly_cover', 
     'baptised_by_bullets', 
-    'pre_sense', 
+    'fighters_sense', 
     'tactical_decision'].sort(),
   advanced_moves_2: [
     'punish_weakness', 

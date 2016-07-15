@@ -74,7 +74,7 @@ Your base damage is d10.</p>
 <movedescription><noindent>When you <strong>tend to someone's wounds in combat</strong> you may spend 1 Insight to perform your treatment instantly.</noindent></movedescription>
 </move>
 
-<move><movename>Pre Sense</movename>
+<move><movename>Fighter's Sense</movename>
 <movedescription><noindent>You always start combat with +1 Insight.</noindent></movedescription>
 </move>
 
@@ -108,7 +108,7 @@ Your base damage is d10.</p>
 </move>
 
 <move><movename>Veteran's Sense</movename>
-<requires>Replaces: Pre Sense</requires>
+<requires>Replaces: Fighter's Sense</requires>
 <movedescription><noindent>You always start combat with +2 Insight.</noindent></movedescription>
 </move>
 
