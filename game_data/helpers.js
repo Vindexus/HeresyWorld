@@ -22,7 +22,14 @@ module.exports = function (Handlebars, gameData) {
     if(!item) {
       return ''
     }
-    item = typeof item == 'string' ? gameData.equipment[item] : item;
+    if(typeof item == 'string') {
+      if(!gameData.equipment.hasOwnProperty(item)) {
+        console.error('No item: ' + item)
+        return ''
+      }
+
+      item = gameData.equipment[item]
+    }
     var tags = Handlebars.helpers.ptags(item.tags);
     return new Handlebars.SafeString(item.name + (tags.length > 0 ? ' ' : '') + tags);
   });
