@@ -15,7 +15,7 @@ module.exports = {
     name: 'Forge World',
     description: 'Manufactorums cover the landscape.',
     move: 'Forge World characters replace one of their d6s with a d8 when rolling Tech-Use.',
-    bnous: 'Choose one: {{dataslate.name}}, {{auspex.name}}, {{multitool.name}}'
+    bonus: 'Choose one: {{{item "data_slate"}}}, {{{item "auspex"}}}, or {{{item "multitool"}}}'
   },
   highborn: {
     name: 'Highborn',
@@ -39,6 +39,6 @@ module.exports = {
     name: 'Voidborn',
     description: 'You were born in the cold of space aboard a ship.',
     move: 'Voidborn gain +1 to any rolls to resist warp energy.',
-    bonus: '+1 starting XP'
+    bonus: '+2 starting XP'
   }
 };

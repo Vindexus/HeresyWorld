@@ -1,4 +1,4 @@
-module.exports = function (Handlebars, gameData) {
+module.exports = function (Handlebars, gameData, parseRPGText) {
   Handlebars.registerHelper('tags', function(tags) {
     if(!tags) {
       return ''
@@ -34,11 +34,20 @@ module.exports = function (Handlebars, gameData) {
     return new Handlebars.SafeString(item.name + (tags.length > 0 ? ' ' : '') + tags);
   });
 
+  Handlebars.registerHelper('anchor_link', function (id) {
+    return '<a only-for="web" href="#' + id + '" class="anchor-link"><span class="glyphicon glyphicon-link"></span></a>'
+  })
+
   Handlebars.registerHelper('tag', function(tag) {
     if(!tag) {
       return ''
     }
     return Handlebars.helpers.tags([tag])
+  });
+
+  Handlebars.registerHelper('render', function(text) {
+    var t = Handlebars.compile(text)
+    return t(gameData)
   });
 
   Handlebars.registerHelper("edit_game_link", function (file, label) {
