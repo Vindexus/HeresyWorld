@@ -1,4 +1,4 @@
-module.exports = {
+var home_worlds = {
   death_world: {
     name: 'Death World',
     description: 'Planet where everything wants to kill you.',
@@ -41,4 +41,8 @@ module.exports = {
     move: 'Voidborn gain +1 to any rolls to resist warp energy.',
     bonus: '+2 starting XP'
   }
-};
+}
+for(var key in home_worlds) {
+  home_worlds[key].key = key;
+}
+module.exports = home_worlds;

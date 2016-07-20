@@ -50,7 +50,7 @@ Your base damage is d10.</p>
 
 <h2 id="gear">Gear</h2>
 <p>Your load is 9+STR.</p>
-<p>You start with Field Rations (<em title="">1 weight</em>) and Stub Revolver (<em title="">1 weight</em>, <em title="">2 uses</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="It’s useful for attacking something that’s several feet away—maybe as far as ten.">Reach</em>, <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>). Choose your melee weapon:</p>
+<p>You start with <span title="You can eat it">Field Rations (<em title="">1 weight</em>)</span>Stub Revolver (<em title="">1 weight</em>, <em title="">2 uses</em>, <em title="Ranged only. It is useful for attacking something beyond shouting distance. When attempting a shot at Long distance you take -1 on your roll.">Long</em>, <em title="It’s useful for attacking something that’s several feet away—maybe as far as ten.">Reach</em>, <em title="It’s useful for attacking something at arm’s reach plus a foot or two.">Close</em>)</p>
 
 <h2 id="advanced_moves_1">Advanced Moves for Levels 2+</h2>
 <p>When you level up you may take a new advanced move either from your class or from the general list of advanced moves.</p>

@@ -1,4 +1,4 @@
-module.exports = function (Handlebars, gameData, parseRPGText) {
+module.exports = function (Handlebars, gameData) {
   Handlebars.registerHelper('tags', function(tags) {
     if(!tags) {
       return ''
@@ -31,7 +31,7 @@ module.exports = function (Handlebars, gameData, parseRPGText) {
       item = gameData.equipment[item]
     }
     var tags = Handlebars.helpers.ptags(item.tags);
-    return new Handlebars.SafeString(item.name + (tags.length > 0 ? ' ' : '') + tags);
+    return new Handlebars.SafeString('<span class="item" title="' + item.description + '">'+item.name + (tags.length > 0 ? ' ' : '') + tags+'</span');
   });
 
   Handlebars.registerHelper('anchor_link', function (id) {

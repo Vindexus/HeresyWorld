@@ -99,7 +99,7 @@
 <p>Where you were born shapes a lot of the things about you. Select a home world and apply the related stat bonuses and penalties to your character. Each home world also has a small move associated with it.</p>
 
 {{#each home_worlds}}
-<h3>{{name}}</h3>
+<h3 id="{{key}}">{{{anchor_link key}}}{{name}}</h3>
 <p>{{description}}</p>
 <p><strong>World Move:</strong> {{move}}</p>
 <p><strong>Bonus:</strong> {{{render bonus}}}</p>
